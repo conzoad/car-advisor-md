@@ -1,0 +1,10 @@
+{
+  "dataset": "alexandrududa/cars-moldova",
+  "url": "https://www.kaggle.com/datasets/alexandrududa/cars-moldova",
+  "license": "CC0: Public Domain",
+  "original_source": "999.md — объявления о продаже автомобилей в Республике Молдова (2021)",
+  "file": "cars.csv",
+  "rows": 41007,
+  "sha256": "3ae76b1813dda03d16a54236353989b7da5fb2d67d5cf33b45ad9b7c684d2e60",
+  "downloaded_at": "2026-09-24T11:44:59+00:00"
+}

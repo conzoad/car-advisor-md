@@ -1,0 +1,205 @@
+{
+  "source": "https://www.kaggle.com/datasets/alexandrududa/cars-moldova",
+  "rows_raw": 41007,
+  "rows_clean": 32945,
+  "rows_dropped": 8062,
+  "rows_repaired": 1035,
+  "rules": [
+    {
+      "code": "missing_values",
+      "title": "Пропуски в обязательных полях",
+      "action": "drop",
+      "count": 0
+    },
+    {
+      "code": "invalid_category",
+      "title": "Недопустимое значение категории (топливо/КПП/кузов)",
+      "action": "drop",
+      "count": 0
+    },
+    {
+      "code": "duplicate",
+      "title": "Точный дубликат объявления",
+      "action": "drop",
+      "count": 3743
+    },
+    {
+      "code": "engine_unit_error",
+      "title": "Объём двигателя указан в литрах×100 (200 → 2000 см³)",
+      "action": "repair",
+      "count": 915
+    },
+    {
+      "code": "electric_engine",
+      "title": "Объём двигателя у электромобиля (обнулён)",
+      "action": "repair",
+      "count": 120
+    },
+    {
+      "code": "year_out_of_range",
+      "title": "Год выпуска вне диапазона 1980–2021",
+      "action": "drop",
+      "count": 141
+    },
+    {
+      "code": "price_out_of_range",
+      "title": "Цена вне диапазона 300–250,000 €",
+      "action": "drop",
+      "count": 25
+    },
+    {
+      "code": "mileage_out_of_range",
+      "title": "Пробег больше 1,000,000 км",
+      "action": "drop",
+      "count": 582
+    },
+    {
+      "code": "placeholder_mileage",
+      "title": "Пробег < 1000 км у авто старше 3 лет (заглушка)",
+      "action": "drop",
+      "count": 3230
+    },
+    {
+      "code": "engine_invalid",
+      "title": "Объём двигателя вне 500–7000 см³",
+      "action": "drop",
+      "count": 29
+    },
+    {
+      "code": "price_group_outlier",
+      "title": "Цена отличается от медианы марки/модели/года более чем в 3 раза",
+      "action": "drop",
+      "count": 312
+    }
+  ],
+  "before": {
+    "rows": 41007,
+    "missing": {
+      "make": 0,
+      "model": 0,
+      "year": 0,
+      "style": 0,
+      "distance_km": 0,
+      "engine_cc": 0,
+      "fuel_type": 0,
+      "transmission": 0,
+      "price_eur": 0
+    },
+    "duplicates": 3743,
+    "numeric": {
+      "year": {
+        "count": 41007.0,
+        "mean": 2008.0,
+        "std": 8.2,
+        "min": 1900.0,
+        "1%": 1986.0,
+        "50%": 2009.0,
+        "99%": 2020.0,
+        "max": 2021.0
+      },
+      "distance_km": {
+        "count": 41007.0,
+        "mean": 456735.3,
+        "std": 4451897.3,
+        "min": 0.0,
+        "1%": 0.0,
+        "50%": 168000.0,
+        "99%": 1959873.8,
+        "max": 100000000.0
+      },
+      "engine_cc": {
+        "count": 41007.0,
+        "mean": 1853.9,
+        "std": 700.4,
+        "min": 0.0,
+        "1%": 100.0,
+        "50%": 1800.0,
+        "99%": 4400.0,
+        "max": 9999.0
+      },
+      "price_eur": {
+        "count": 41007.0,
+        "mean": 9727.1,
+        "std": 50439.3,
+        "min": 1.0,
+        "1%": 600.0,
+        "50%": 6600.0,
+        "99%": 49900.0,
+        "max": 10000000.0
+      }
+    },
+    "cardinality": {
+      "make": 87,
+      "model": 829,
+      "style": 12,
+      "fuel_type": 6,
+      "transmission": 2
+    }
+  },
+  "after": {
+    "rows": 32945,
+    "missing": {
+      "make": 0,
+      "model": 0,
+      "year": 0,
+      "style": 0,
+      "distance_km": 0,
+      "engine_cc": 0,
+      "fuel_type": 0,
+      "transmission": 0,
+      "price_eur": 0
+    },
+    "duplicates": 6,
+    "numeric": {
+      "year": {
+        "count": 32945.0,
+        "mean": 2008.4,
+        "std": 7.2,
+        "min": 1980.0,
+        "1%": 1988.0,
+        "50%": 2010.0,
+        "99%": 2020.0,
+        "max": 2021.0
+      },
+      "distance_km": {
+        "count": 32945.0,
+        "mean": 179366.7,
+        "std": 99742.2,
+        "min": 0.0,
+        "1%": 1111.0,
+        "50%": 178821.0,
+        "99%": 450000.0,
+        "max": 1000000.0
+      },
+      "engine_cc": {
+        "count": 32945.0,
+        "mean": 1894.0,
+        "std": 641.1,
+        "min": 0.0,
+        "1%": 888.3,
+        "50%": 1800.0,
+        "99%": 4400.0,
+        "max": 6800.0
+      },
+      "price_eur": {
+        "count": 32945.0,
+        "mean": 9701.3,
+        "std": 10342.2,
+        "min": 300.0,
+        "1%": 700.0,
+        "50%": 6800.0,
+        "99%": 50695.2,
+        "max": 215000.0
+      }
+    },
+    "cardinality": {
+      "make": 86,
+      "model": 816,
+      "style": 12,
+      "fuel_type": 6,
+      "transmission": 2
+    }
+  },
+  "rows_market": 31298,
+  "rows_holdout": 1647
+}

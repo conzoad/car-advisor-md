@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+
+# Генерируемые артефакты (воспроизводятся командой `make data`)
+data/cars.db*
+*.egg-info/

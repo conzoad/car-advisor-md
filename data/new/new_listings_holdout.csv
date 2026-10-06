@@ -1,0 +1,1648 @@
+id,make,model,year,style,distance_km,engine_cc,fuel_type,transmission,price_eur,listing_year
+2321,BMW,X5,2008,Hatchback,410000.0,3000.0,Diesel,Automatic,11000.0,2021
+35232,Mercedes,C-Class Coupe,2014,Coupe,50000.0,1843.0,Petrol,Automatic,17500.0,2021
+12903,Volkswagen,Altele,2019,SUV,50.0,1995.0,Petrol,Automatic,34900.0,2021
+1293,Opel,Combo,2018,Minivan,19000.0,1400.0,Petrol,Manual,10500.0,2021
+16461,Seat,Inca,2002,Combi,200000.0,1900.0,Diesel,Manual,1600.0,2021
+19257,GAZ,3110,1998,Sedan,200000.0,2400.0,Petrol,Manual,1500.0,2021
+7892,Toyota,Prius,2018,Hatchback,150000.0,1800.0,Hybrid,Automatic,14500.0,2021
+38641,Audi,Q5,2015,Crossover,100000.0,2000.0,Diesel,Automatic,23000.0,2021
+23584,Volkswagen,Golf Plus,2009,Microvan,220000.0,1900.0,Diesel,Automatic,5800.0,2021
+9487,Toyota,Highlander,2010,Crossover,157320.0,3456.0,Petrol,Automatic,17499.0,2021
+5101,Toyota,Avalon,2016,Sedan,104000.0,2500.0,Hybrid,Automatic,18600.0,2021
+13794,Volkswagen,Passat,2013,Sedan,223150.0,2000.0,Diesel,Manual,11700.0,2021
+37115,Opel,Astra,1999,Cabriolet,234567.0,1600.0,Petrol,Automatic,4444.0,2021
+7986,Toyota,Avensis Verso,2004,Minivan,245233.0,2000.0,Diesel,Automatic,7599.0,2021
+26519,Mercedes,CLK Class,2004,Coupe,386501.0,2700.0,Diesel,Automatic,12450.0,2021
+25856,Mercedes,E Class,1995,Sedan,377000.0,1998.0,Metan/Propan,Manual,3500.0,2021
+31345,Opel,Zafira,2003,Minivan,1111.0,1800.0,Petrol,Manual,1999.0,2021
+25512,Mercedes,E Class,2010,Sedan,141000.0,1800.0,Petrol,Automatic,12000.0,2021
+22876,Lada,Largus,1985,Sedan,120555.0,1300.0,Petrol,Manual,550.0,2021
+19888,Toyota,Auris,2009,Hatchback,125000.0,1400.0,Diesel,Manual,6500.0,2021
+40178,Lifan,Breez,2008,Sedan,16000.0,1397.0,Petrol,Manual,1200.0,2021
+20068,Citroen,Xsara Picasso,2003,Minivan,315000.0,1890.0,Petrol,Manual,2500.0,2021
+29111,Ford,Fiesta,2005,Hatchback,91000.0,1400.0,Diesel,Manual,2450.0,2021
+36811,Dacia,Logan Mcv,2008,Universal,221750.0,1461.0,Diesel,Manual,3699.0,2021
+30029,BMW,7 Series,1996,Sedan,320000.0,2500.0,Diesel,Automatic,4299.0,2021
+26730,Volkswagen,Sharan,1996,Minivan,350000.0,2000.0,Petrol,Manual,1600.0,2021
+26148,Opel,Zafira,2009,Minivan,187000.0,1800.0,Petrol,Manual,4000.0,2021
+7624,Volkswagen,Golf,2010,Universal,235454.0,1600.0,Diesel,Manual,4350.0,2021
+26528,Peugeot,206,2003,Minivan,300000.0,1400.0,Petrol,Manual,1200.0,2021
+17372,Renault,Scenic,2008,Minivan,280000.0,1500.0,Diesel,Manual,3900.0,2021
+4220,Volkswagen,Golf,2003,Universal,296000.0,1900.0,Diesel,Manual,3650.0,2021
+29225,Renault,ZOE,2020,Hatchback,7100.0,0.0,Electric,Automatic,19199.0,2021
+26033,Toyota,Auris,2013,Hatchback,65000.0,1800.0,Hybrid,Automatic,5500.0,2021
+8163,Honda,CR-V,2012,Crossover,150389.0,2200.0,Diesel,Manual,14499.0,2021
+37988,BMW,X3,2017,SUV,203000.0,1997.0,Diesel,Automatic,23000.0,2021
+25734,Opel,Agila,2005,Coupe,20000.0,1200.0,Petrol,Manual,800.0,2021
+12006,Volkswagen,Eos,2010,Cabriolet,212000.0,1400.0,Petrol,Manual,7700.0,2021
+5230,Toyota,Prius,2007,Hatchback,199820.0,1500.0,Hybrid,Automatic,4999.0,2021
+33104,KIA,Ceed,2010,Sedan,175000.0,1400.0,Metan/Propan,Manual,5200.0,2021
+17359,Nissan,Micra,2005,Hatchback,200000.0,1200.0,Petrol,Manual,2200.0,2021
+23222,BMW,7 Series,2004,Sedan,260000.0,3000.0,Diesel,Automatic,10500.0,2021
+29402,Audi,A4,2012,Sedan,165000.0,2000.0,Petrol,Automatic,12499.0,2021
+3176,Skoda,Fabia,2009,Hatchback,160000.0,1400.0,Diesel,Manual,4900.0,2021
+4268,Volkswagen,Golf Plus,2011,Hatchback,161300.0,1400.0,Petrol,Automatic,7700.0,2021
+36610,Toyota,Corolla,2007,Hatchback,190000.0,1400.0,Diesel,Manual,4799.0,2021
+14012,Renault,Kadjar,2016,Crossover,134163.0,1461.0,Diesel,Automatic,14199.0,2021
+24842,Opel,Meriva,2011,Hatchback,186088.0,1600.0,Metan/Propan,Manual,3950.0,2021
+27491,Lexus,RX Series,2013,SUV,173257.0,3456.0,Hybrid,Automatic,25000.0,2021
+11904,Volvo,XC90,2006,SUV,250000.0,2500.0,Metan/Propan,Automatic,7000.0,2021
+25940,Renault,Grand Scenic,2012,Universal,20016.0,1500.0,Diesel,Automatic,6950.0,2021
+26849,Volkswagen,Touran,2003,Microvan,290000.0,1900.0,Diesel,Manual,3900.0,2021
+32433,Opel,Astra,2007,Universal,159000.0,1700.0,Diesel,Automatic,1700.0,2021
+13011,Mercedes,E Class,1995,Sedan,274580.0,3200.0,Petrol,Manual,3250.0,2021
+24650,Mercedes,Vito,2010,Minivan,240000.0,2200.0,Diesel,Manual,5950.0,2021
+9581,Dacia,Lodgy,2013,Universal,160000.0,1500.0,Diesel,Manual,7299.0,2021
+4828,Daewoo,Tacuma,2001,Minivan,230000.0,2000.0,Petrol,Manual,1900.0,2021
+7270,Volkswagen,Passat,1997,Sedan,265523.0,1800.0,Petrol,Manual,2000.0,2021
+22360,Ford,Altele,1991,Minivan,72000.0,1800.0,Diesel,Manual,850.0,2021
+34823,Mercedes,GLS Klass,2016,SUV,148000.0,2987.0,Diesel,Automatic,48000.0,2021
+6072,Renault,Talisman,2016,Sedan,154000.0,1500.0,Diesel,Automatic,13599.0,2021
+25010,Vaz,2111,2002,Universal,1111.0,1500.0,Petrol,Manual,900.0,2021
+26098,Peugeot,406,2001,Universal,355000.0,1800.0,Petrol,Manual,1599.0,2021
+35904,Renault,Megane,2013,Universal,217000.0,1500.0,Diesel,Manual,7999.0,2021
+6986,Lincoln,MKZ,2013,Sedan,165000.0,2000.0,Hybrid,Automatic,11999.0,2021
+11077,Ford,Focus,2000,Sedan,44444.0,2000.0,Petrol,Automatic,1500.0,2021
+39099,Toyota,Auris,2015,Universal,145000.0,1400.0,Petrol,Manual,5900.0,2021
+15990,Dacia,Sandero Stepway,2017,Hatchback,98000.0,1500.0,Diesel,Manual,7650.0,2021
+17615,Mercedes,E Class,2014,Sedan,215000.0,3000.0,Hybrid,Automatic,24555.0,2021
+33741,BMW,3 Series,2006,Sedan,195000.0,2000.0,Diesel,Automatic,7190.0,2021
+28784,Dacia,Sandero,2015,Hatchback,14400.0,900.0,Petrol,Manual,4999.0,2021
+23286,Toyota,Camry,2012,Sedan,160000.0,2500.0,Petrol,Automatic,12900.0,2021
+26195,Toyota,Rav 4,2004,SUV,123500.0,2000.0,Diesel,Manual,4200.0,2021
+32042,Renault,Altele,2019,Roadster,50.0,0.0,Electric,Automatic,5499.0,2021
+23537,Nissan,Primera,2006,Sedan,180000.0,1800.0,Metan/Propan,Manual,3800.0,2021
+32361,Mercedes,M Class,2009,Crossover,80500.0,3450.0,Petrol,Automatic,17500.0,2021
+25941,Great Wall,Hover,2011,SUV,300000.0,2000.0,Petrol,Manual,5000.0,2021
+10936,Chevrolet,Aveo,2013,Hatchback,168000.0,1300.0,Diesel,Manual,4650.0,2021
+5671,Ford,Fiesta,2018,Sedan,55000.0,1600.0,Petrol,Automatic,7999.0,2021
+34192,Dodge,Ram,2016,Pickup,100235.0,5700.0,Petrol,Automatic,34300.0,2021
+19789,Audi,100,1984,Sedan,340000.0,1800.0,Metan/Propan,Manual,1500.0,2021
+28545,Volkswagen,Touareg,2010,Crossover,310000.0,3000.0,Hybrid,Automatic,17300.0,2021
+23851,Toyota,Aygo,2005,Hatchback,178000.0,999.0,Metan/Propan,Manual,3000.0,2021
+36350,Mercedes,C Class,2005,Sedan,203000.0,1800.0,Petrol,Manual,6500.0,2021
+5219,Hyundai,Santa FE,2015,SUV,121000.0,2200.0,Diesel,Automatic,15000.0,2021
+40812,Mazda,3,2013,Sedan,180000.0,1800.0,Metan/Propan,Automatic,6500.0,2021
+21727,Land Rover,Freelander,2007,SUV,207500.0,2179.0,Diesel,Automatic,10490.0,2021
+40106,Audi,A8,2004,Sedan,240000.0,4000.0,Diesel,Automatic,8999.0,2021
+23536,Renault,Grand Scenic,2014,Minivan,181000.0,1500.0,Diesel,Manual,7999.0,2021
+5733,Seat,Ibiza,2010,Universal,183000.0,1200.0,Diesel,Manual,4200.0,2021
+38125,BMW,i8,2016,Coupe,15000.0,1500.0,Plug-in Hybrid,Automatic,35000.0,2021
+32505,Audi,Allroad,2013,Universal,153000.0,1968.0,Diesel,Automatic,19999.0,2021
+37399,Opel,Astra,2001,Hatchback,350000.0,1600.0,Petrol,Manual,1800.0,2021
+21236,Seat,Ibiza,2011,Sedan,183000.0,1200.0,Diesel,Manual,4400.0,2021
+21672,BMW,5 Series,1997,Sedan,312000.0,2500.0,Diesel,Manual,1700.0,2021
+32861,Toyota,Verso,2011,Minivan,36000.0,1598.0,Petrol,Manual,9500.0,2021
+14429,Nissan,Juke,2011,Crossover,178500.0,1600.0,Petrol,Automatic,8999.0,2021
+24389,Skoda,Octavia,2011,Universal,167000.0,1400.0,Petrol,Manual,7500.0,2021
+5704,Hyundai,Creta,2017,SUV,45000.0,1600.0,Petrol,Automatic,14450.0,2021
+14424,Toyota,Avensis,2012,Sedan,179535.0,2000.0,Diesel,Manual,11499.0,2021
+32122,Nissan,Serena,1999,Minivan,205700.0,2000.0,Metan/Propan,Manual,2750.0,2021
+12826,Chevrolet,Captiva,2014,SUV,98000.0,2200.0,Diesel,Automatic,13200.0,2021
+20463,Audi,A6,2006,Sedan,180000.0,3000.0,Diesel,Automatic,6600.0,2021
+4174,Ford,Fusion,2016,Sedan,67000.0,2000.0,Hybrid,Automatic,11999.0,2021
+7219,Mercedes,GLC,2017,Crossover,58000.0,2000.0,Petrol,Automatic,28500.0,2021
+35164,Volkswagen,Touareg,2009,SUV,206000.0,3000.0,Diesel,Automatic,17000.0,2021
+3505,Mercedes,C Class,1996,Sedan,111111.0,2200.0,Diesel,Automatic,2599.0,2021
+6494,Audi,A4,2003,Sedan,278412.0,2500.0,Diesel,Manual,3700.0,2021
+33035,Nissan,Primera,2004,Sedan,123000.0,1800.0,Petrol,Automatic,1800.0,2021
+24151,Renault,Grand Scenic,2007,Minivan,241000.0,1500.0,Diesel,Manual,4150.0,2021
+14304,Seat,Ibiza,2011,Universal,127827.0,1200.0,Diesel,Manual,5099.0,2021
+37567,Fiat,Brava,1996,Hatchback,145000.0,1400.0,Petrol,Manual,1000.0,2021
+37376,Skoda,Superb,2010,Sedan,170800.0,1798.0,Petrol,Automatic,8300.0,2021
+8719,Toyota,Land Cruiser,2005,Crossover,294714.0,3000.0,Diesel,Automatic,14999.0,2021
+3682,Skoda,Fabia,2015,Hatchback,148600.0,1400.0,Petrol,Manual,6590.0,2021
+18504,Ford,Fusion,2004,Hatchback,248000.0,1400.0,Diesel,Automatic,3000.0,2021
+11965,Dacia,Duster,2017,SUV,86000.0,1500.0,Diesel,Manual,10899.0,2021
+38319,Mitsubishi,Lancer,2008,Sedan,190000.0,1500.0,Petrol,Automatic,4800.0,2021
+22614,Mercedes,Series (W124),1991,Sedan,111111.0,2600.0,Petrol,Manual,1500.0,2021
+30480,Volkswagen,Golf,2008,Universal,221000.0,1400.0,Petrol,Manual,5000.0,2021
+16395,Opel,Astra,2007,Hatchback,216000.0,1400.0,Metan/Propan,Manual,3800.0,2021
+20971,BMW,5 Series,1999,Sedan,314000.0,2500.0,Diesel,Manual,3700.0,2021
+10668,Mercedes,E Class,2018,Sedan,73000.0,2143.0,Diesel,Automatic,32900.0,2021
+39525,Mercedes,A Class,2006,Sedan,118000.0,1500.0,Petrol,Automatic,5500.0,2021
+2871,Audi,A6,1996,Sedan,260500.0,2000.0,Petrol,Manual,3200.0,2021
+31475,Hyundai,Tucson,2009,SUV,187000.0,2000.0,Diesel,Manual,4800.0,2021
+36652,BMW,X3,2019,Crossover,14070.0,2000.0,Petrol,Automatic,19900.0,2021
+24768,Dacia,Logan,2010,Universal,171200.0,1500.0,Diesel,Manual,4950.0,2021
+32748,Toyota,Avensis,2003,Hatchback,354000.0,1800.0,Metan/Propan,Manual,4800.0,2021
+33209,Citroen,Berlingo,2009,Combi,230000.0,1400.0,Metan/Propan,Manual,3400.0,2021
+12918,Volkswagen,Passat,2016,Sedan,69884.0,1800.0,Petrol,Automatic,19500.0,2021
+5120,Ford,Fusion,2014,Sedan,186900.0,1996.0,Hybrid,Automatic,11500.0,2021
+40059,Land Rover,Range Rover Sport,2007,SUV,1200.0,4400.0,Petrol,Automatic,12500.0,2021
+11235,Ford,Mondeo,1993,Sedan,299999.0,1600.0,Metan/Propan,Manual,1500.0,2021
+24570,Opel,Astra,1997,Universal,87765.0,1600.0,Petrol,Manual,500.0,2021
+35657,Volkswagen,Transporter,2001,Microvan,413000.0,2500.0,Diesel,Manual,4500.0,2021
+26621,Toyota,Avalon,2003,Sedan,10000.0,3000.0,Petrol,Automatic,8200.0,2021
+10888,Lexus,GS Series,2014,Sedan,178000.0,2500.0,Hybrid,Automatic,21200.0,2021
+12823,Renault,Megane,2008,Universal,245000.0,1465.0,Diesel,Manual,3700.0,2021
+16903,BMW,5 Series,2002,Sedan,282000.0,3000.0,Metan/Propan,Automatic,5400.0,2021
+40841,Volkswagen,Golf,2008,Hatchback,400000.0,1900.0,Diesel,Manual,5000.0,2021
+4132,Toyota,Camry,2019,Sedan,29800.0,2500.0,Hybrid,Automatic,24500.0,2021
+24688,BMW,3 Series,2003,Sedan,235000.0,1800.0,Petrol,Manual,3200.0,2021
+32527,Toyota,Rav 4,2013,Crossover,143000.0,2000.0,Diesel,Manual,15300.0,2021
+18541,BMW,i3,2019,Hatchback,13500.0,0.0,Electric,Automatic,30900.0,2021
+18230,Infiniti,FX,2004,SUV,216000.0,4500.0,Petrol,Automatic,9900.0,2021
+8591,BMW,3 Series,2007,Sedan,299449.0,2000.0,Petrol,Automatic,7999.0,2021
+31353,BMW,5 Series,1998,Sedan,333333.0,2000.0,Metan/Propan,Automatic,3850.0,2021
+34369,Hyundai,Santa FE,2011,Crossover,16000.0,2200.0,Diesel,Manual,13555.0,2021
+16605,Renault,Clio,2001,Sedan,240000.0,1400.0,Petrol,Manual,1800.0,2021
+29136,Honda,CR-V,2011,SUV,180000.0,2200.0,Diesel,Automatic,12800.0,2021
+6959,Skoda,Octavia,2006,Hatchback,294000.0,1598.0,Metan/Propan,Manual,4000.0,2021
+20461,Land Rover,Freelander,2007,SUV,351574.0,2200.0,Diesel,Manual,5300.0,2021
+38878,Mercedes,E Class,2013,Sedan,94000.0,3000.0,Petrol,Automatic,24999.0,2021
+5941,Audi,80,1994,Sedan,280000.0,2800.0,Metan/Propan,Manual,2350.0,2021
+21725,Ford,EcoSport,2019,Crossover,12000.0,1000.0,Petrol,Manual,13800.0,2021
+39879,Skoda,Octavia,2013,Universal,235000.0,1600.0,Diesel,Manual,9000.0,2021
+38152,Moskvich / Izh,408,1990,Sedan,68000.0,1500.0,Petrol,Manual,499.0,2021
+5402,BMW,5 Series,2000,Sedan,300010.0,3000.0,Diesel,Manual,3000.0,2021
+14806,Audi,Q5,2013,Crossover,64263.0,2000.0,Hybrid,Automatic,20999.0,2021
+16601,BMW,5 Series,2001,Sedan,125555.0,2500.0,Diesel,Manual,4200.0,2021
+22270,Hyundai,Tucson,2006,Crossover,199000.0,2000.0,Metan/Propan,Manual,6700.0,2021
+2446,Toyota,Corolla,1999,Hatchback,200000.0,1348.0,Petrol,Manual,2700.0,2021
+15073,BMW,5 Series,2006,Sedan,200000.0,2500.0,Metan/Propan,Automatic,8250.0,2021
+18848,Audi,A6,1997,Sedan,91000.0,1900.0,Diesel,Manual,2000.0,2021
+12164,Dacia,Logan Van,2011,Minivan,55000.0,1600.0,Petrol,Manual,3999.0,2021
+23936,Opel,Kadett,1992,Sedan,111111.0,1400.0,Metan/Propan,Manual,1000.0,2021
+36693,Mercedes,E Class,2006,Universal,325000.0,2148.0,Diesel,Automatic,8300.0,2021
+6755,Mercedes,Vito,2010,Microvan,239352.0,2148.0,Diesel,Manual,8000.0,2021
+15819,BMW,5 Series,2018,Sedan,154000.0,1998.0,Plug-in Hybrid,Automatic,27500.0,2021
+30612,Volvo,800 Series,1995,Sedan,270000.0,1998.0,Petrol,Manual,2700.0,2021
+16177,Volkswagen,Transporter,2011,Minivan,193000.0,2000.0,Diesel,Manual,11700.0,2021
+9462,Ford,Focus,2013,Universal,107490.0,998.0,Petrol,Manual,6499.0,2021
+15640,Volkswagen,Golf Plus,2011,Microvan,225000.0,1600.0,Diesel,Manual,7600.0,2021
+39082,Chevrolet,Cruze,2009,Sedan,161994.0,1583.0,Metan/Propan,Manual,5000.0,2021
+36355,Dacia,Logan,2010,Universal,242000.0,1600.0,Petrol,Manual,3900.0,2021
+39297,Nissan,Qashqai+2,2011,Crossover,165000.0,1500.0,Diesel,Manual,9400.0,2021
+5258,Hyundai,Tucson,2015,SUV,120000.0,2000.0,Diesel,Automatic,19950.0,2021
+23792,BMW,X5,2005,Sedan,285267.0,3000.0,Diesel,Automatic,11000.0,2021
+9126,Volkswagen,Tiguan,2016,Crossover,142398.0,2000.0,Diesel,Automatic,23000.0,2021
+9933,Nissan,Juke,2012,Crossover,114000.0,1600.0,Petrol,Automatic,9300.0,2021
+38162,Mercedes,C Class,2003,Sedan,190000.0,3200.0,Petrol,Automatic,6000.0,2021
+36147,Hyundai,H200,2000,Minivan,273000.0,2500.0,Diesel,Manual,2500.0,2021
+28147,Opel,Astra,1992,Coupe,130000.0,1300.0,Petrol,Manual,1500.0,2021
+3622,Seat,Altea,2005,Hatchback,167736.0,1595.0,Petrol,Manual,3799.0,2021
+33559,Volkswagen,Jetta,1991,Sedan,250000.0,1600.0,Petrol,Manual,1300.0,2021
+6702,Dacia,Logan Mcv,2018,Universal,72000.0,898.0,Petrol,Manual,8400.0,2021
+34086,BMW,X3,2005,Universal,470000.0,1995.0,Diesel,Manual,7700.0,2021
+35714,Nissan,Primera,2005,Hatchback,197653.0,1600.0,Petrol,Manual,3000.0,2021
+26861,Audi,Q7,2009,SUV,185000.0,3000.0,Diesel,Automatic,24500.0,2021
+2042,Toyota,Rav 4,2019,Crossover,19800.0,2500.0,Hybrid,Automatic,29500.0,2021
+5772,Volkswagen,Caddy,2014,Minivan,150000.0,2000.0,Metan/Propan,Manual,11500.0,2021
+17887,BMW,3 Series,2013,Sedan,172123.0,2000.0,Petrol,Automatic,12199.0,2021
+40120,Opel,Astra,2015,Universal,250000.0,1600.0,Diesel,Manual,8600.0,2021
+33122,Nissan,Micra,2004,Sedan,175320.0,1500.0,Diesel,Manual,1700.0,2021
+27385,Skoda,Superb,2018,Sedan,129000.0,2000.0,Petrol,Automatic,22500.0,2021
+18997,BMW,5 GT,2011,Coupe,202083.0,2997.0,Diesel,Automatic,18999.0,2021
+30931,Opel,Corsa,1995,Sedan,1111.0,1200.0,Petrol,Manual,1100.0,2021
+11495,Mercedes,Vito,2012,Microvan,399000.0,2143.0,Diesel,Manual,6799.0,2021
+21769,Renault,Kadjar,2017,Crossover,150000.0,1500.0,Diesel,Automatic,12200.0,2021
+35326,Mercedes,CLK Class,2003,Cabriolet,185000.0,2300.0,Petrol,Automatic,2300.0,2021
+12479,Infiniti,QX70,2014,Crossover,8900.0,3700.0,Petrol,Automatic,22900.0,2021
+28087,Mitsubishi,Colt,2006,Hatchback,158888.0,1400.0,Metan/Propan,Manual,2700.0,2021
+9605,Dacia,Dokker,2017,Combi,124000.0,1500.0,Diesel,Manual,7800.0,2021
+32642,Opel,Vectra,1991,Sedan,290000.0,2000.0,Petrol,Manual,600.0,2021
+28600,Renault,Megane,2013,Universal,248000.0,1500.0,Diesel,Manual,6900.0,2021
+14693,Mercedes,Vito,2015,Minivan,218372.0,1600.0,Diesel,Manual,14999.0,2021
+37693,Mazda,626,1992,Hatchback,304229.0,2000.0,Diesel,Manual,750.0,2021
+38432,Daihatsu,Cuore,2008,Hatchback,12000.0,1000.0,Petrol,Automatic,1250.0,2021
+15152,Dacia,Logan Mcv,2012,Universal,156000.0,1500.0,Diesel,Manual,6600.0,2021
+32038,Hyundai,Genesis,2020,Sedan,12000.0,3778.0,Petrol,Automatic,60999.0,2021
+20744,Chevrolet,Nubira,2005,Sedan,277000.0,1800.0,Metan/Propan,Automatic,2500.0,2021
+38343,Volvo,XC90,2004,SUV,257001.0,2600.0,Metan/Propan,Automatic,7490.0,2021
+34310,Audi,Q5,2016,SUV,145000.0,1968.0,Diesel,Automatic,14800.0,2021
+18518,Opel,Vectra,1997,Sedan,175888.0,1800.0,Petrol,Manual,800.0,2021
+38855,BMW,7 Series,2002,Sedan,199000.0,3000.0,Diesel,Automatic,2500.0,2021
+32685,Opel,Astra,2011,Universal,230000.0,1400.0,Petrol,Automatic,6500.0,2021
+21651,Audi,A6,2015,Sedan,180000.0,2000.0,Diesel,Automatic,20700.0,2021
+23300,Citroen,C4,2016,Hatchback,12000.0,1400.0,Diesel,Manual,4900.0,2021
+6307,BMW,5 Series,2012,Universal,234000.0,1998.0,Diesel,Automatic,15500.0,2021
+29406,Volkswagen,Passat CC,2009,Sedan,123456.0,2000.0,Diesel,Automatic,6000.0,2021
+10818,Hyundai,Tucson,2017,SUV,115000.0,1995.0,Diesel,Automatic,17500.0,2021
+25156,Toyota,Land Cruiser,2019,SUV,93000.0,4500.0,Diesel,Automatic,65000.0,2021
+15042,Volkswagen,Touareg,2005,SUV,195000.0,2461.0,Diesel,Automatic,8199.0,2021
+13667,Hyundai,Santa FE,2015,Crossover,148000.0,1995.0,Diesel,Manual,14500.0,2021
+25333,Audi,80,1993,Sedan,11111.0,2000.0,Metan/Propan,Manual,2100.0,2021
+36385,Mercedes,C Class,1998,Universal,222015.0,1980.0,Metan/Propan,Manual,3800.0,2021
+19972,Toyota,Prius,2013,Sedan,180000.0,1800.0,Hybrid,Automatic,9400.0,2021
+28705,Ford,F-150,2018,Pickup,35000.0,3500.0,Petrol,Automatic,60000.0,2021
+38017,Hyundai,Santa FE,2006,SUV,181000.0,2700.0,Metan/Propan,Automatic,8500.0,2021
+21137,Suzuki,Baleno,1999,Universal,11111.0,1600.0,Metan/Propan,Manual,1500.0,2021
+10403,Toyota,Avensis,2003,Sedan,331000.0,1800.0,Petrol,Manual,5200.0,2021
+6224,Nissan,Qashqai,2014,Crossover,146000.0,1500.0,Diesel,Manual,12699.0,2021
+32298,Hyundai,ix35,2015,SUV,90000.0,2000.0,Diesel,Automatic,15500.0,2021
+14852,BMW,X5,2011,Crossover,190738.0,3000.0,Diesel,Automatic,27999.0,2021
+35230,KIA,Rio,2003,Universal,270000.0,1500.0,Metan/Propan,Manual,1450.0,2021
+15390,Volkswagen,Lupo,2000,Coupe,270000.0,1200.0,Diesel,Manual,2200.0,2021
+15421,Honda,Accord,2019,Sedan,38000.0,2000.0,Hybrid,Automatic,18900.0,2021
+3655,Volvo,S60,2004,Sedan,125000.0,2000.0,Metan/Propan,Automatic,4850.0,2021
+6870,Ford,Kuga,2014,Crossover,41000.0,1600.0,Petrol,Manual,12800.0,2021
+12362,Mitsubishi,Pajero,1987,Crossover,250000.0,2500.0,Diesel,Manual,6500.0,2021
+17265,Mercedes,E Class,1991,Sedan,318000.0,2500.0,Diesel,Manual,2700.0,2021
+2758,Renault,Scenic,2011,Minivan,179000.0,1500.0,Diesel,Manual,6200.0,2021
+25708,Ford,Fusion,2020,Sedan,8000.0,2000.0,Plug-in Hybrid,Automatic,19999.0,2021
+31256,Toyota,Rav 4,2005,SUV,250000.0,2000.0,Petrol,Manual,4300.0,2021
+38971,Renault,Megane,2006,Universal,306000.0,1500.0,Diesel,Manual,2599.0,2021
+26677,Skoda,Fabia,2009,Universal,250000.0,1400.0,Diesel,Manual,4059.0,2021
+40921,Mercedes,M Class,2000,SUV,288000.0,2700.0,Diesel,Automatic,7399.0,2021
+19996,Mercedes,E Class,2008,Sedan,287000.0,2500.0,Petrol,Automatic,8999.0,2021
+23664,Volkswagen,Golf,2003,Hatchback,230000.0,1800.0,Metan/Propan,Manual,3400.0,2021
+8660,BMW,X5,2013,Crossover,150000.0,3000.0,Diesel,Automatic,44000.0,2021
+14224,Audi,Q5,2011,Crossover,169455.0,2000.0,Petrol,Automatic,14499.0,2021
+14527,Lincoln,MKC,2015,Crossover,132198.0,2000.0,Petrol,Automatic,15999.0,2021
+22053,Jaguar,XE,2015,Sedan,73000.0,2000.0,Diesel,Automatic,18000.0,2021
+4083,Toyota,Avalon,2014,Sedan,120000.0,2500.0,Hybrid,Automatic,17300.0,2021
+27770,Chevrolet,Aveo,2009,Sedan,174000.0,1400.0,Metan/Propan,Manual,1300.0,2021
+19156,Infiniti,G Series,2006,Coupe,130000.0,3700.0,Petrol,Automatic,8000.0,2021
+37224,Nissan,Note,2006,Sedan,120000.0,1500.0,Diesel,Manual,3700.0,2021
+16128,Volkswagen,Multivan,2017,Microvan,82608.0,2000.0,Diesel,Automatic,34500.0,2021
+36051,BMW,5 Series,1994,Sedan,22222.0,2000.0,Petrol,Manual,1700.0,2021
+30181,Toyota,Land Cruiser,2010,SUV,12541.0,3000.0,Diesel,Automatic,13000.0,2021
+28265,Volkswagen,Touran,2008,Microvan,250000.0,1896.0,Diesel,Automatic,7300.0,2021
+31832,Toyota,Land Cruiser Prado,2008,SUV,150000.0,2700.0,Petrol,Automatic,13200.0,2021
+17738,Toyota,Corolla,2004,Hatchback,250000.0,1600.0,Petrol,Manual,4200.0,2021
+24817,Nissan,Murano,2004,Crossover,200000.0,3500.0,Metan/Propan,Automatic,8000.0,2021
+35188,Toyota,Avensis,2015,Universal,128000.0,1600.0,Diesel,Manual,13000.0,2021
+32965,Opel,Vivaro,2004,Microvan,240000.0,1900.0,Diesel,Manual,5800.0,2021
+20639,Mercedes,E Class,2003,Sedan,320000.0,2200.0,Diesel,Automatic,5300.0,2021
+5170,Audi,Q7,2011,Crossover,157000.0,3000.0,Petrol,Automatic,18990.0,2021
+7814,Renault,Grand Scenic,2010,Universal,175000.0,1500.0,Diesel,Manual,5950.0,2021
+24941,Volkswagen,Passat,2010,Universal,187000.0,1400.0,Petrol,Manual,7700.0,2021
+40184,Audi,A4,2003,Sedan,300000.0,1800.0,Metan/Propan,Automatic,5000.0,2021
+37162,Ford,Fusion,2017,Sedan,57099.0,2000.0,Hybrid,Automatic,11500.0,2021
+3346,Ford,Kuga,2018,Crossover,52000.0,1500.0,Petrol,Automatic,12999.0,2021
+24553,Honda,Civic,2012,Sedan,220000.0,1500.0,Hybrid,Automatic,7200.0,2021
+20863,BMW,4 series,2016,Sedan,86500.0,1998.0,Petrol,Automatic,19500.0,2021
+6990,Toyota,C-HR,2016,SUV,98000.0,1800.0,Hybrid,Automatic,18490.0,2021
+22505,Audi,A6,2007,Sedan,252000.0,2000.0,Diesel,Manual,8900.0,2021
+15389,Dacia,Sandero,2010,Hatchback,260000.0,1500.0,Diesel,Manual,5300.0,2021
+13627,Volvo,400 Series,1997,Sedan,300000.0,1800.0,Petrol,Manual,650.0,2021
+8194,Volkswagen,Caddy,2012,Universal,181304.0,1600.0,Diesel,Manual,11099.0,2021
+38016,Audi,A6,2003,Sedan,302000.0,2500.0,Diesel,Automatic,3700.0,2021
+17971,Mercedes,E Class,2012,Sedan,389000.0,2000.0,Metan/Propan,Automatic,12800.0,2021
+12548,Mercedes,Vito,2015,Microvan,217000.0,2146.0,Diesel,Manual,19300.0,2021
+28307,Renault,Kadjar,2017,SUV,137500.0,1500.0,Diesel,Automatic,14450.0,2021
+23538,BMW,X7,2019,SUV,51000.0,3000.0,Diesel,Automatic,92000.0,2021
+4682,Nissan,Qashqai,2018,Crossover,136013.0,1500.0,Diesel,Manual,13999.0,2021
+3924,Mini,Cooper,2005,Coupe,181570.0,1600.0,Petrol,Manual,4200.0,2021
+4204,Renault,Megane,2014,Universal,185700.0,1461.0,Diesel,Automatic,8500.0,2021
+12689,Hyundai,Tucson,2016,SUV,113000.0,1600.0,Petrol,Automatic,16750.0,2021
+20731,Renault,Grand Scenic,2007,Microvan,195000.0,1500.0,Diesel,Manual,3500.0,2021
+25464,Mercedes,E Class,2008,Sedan,360000.0,2148.0,Diesel,Automatic,9500.0,2021
+17415,Renault,Megane,2011,Universal,200000.0,1500.0,Diesel,Automatic,6400.0,2021
+11771,Volvo,XC90,2016,Crossover,42300.0,1969.0,Petrol,Automatic,48000.0,2021
+9400,Porsche,Cayenne,2010,Crossover,218241.0,3000.0,Diesel,Automatic,29999.0,2021
+37541,Opel,Corsa,2011,Hatchback,200000.0,1300.0,Diesel,Manual,4200.0,2021
+16513,Land Rover,Freelander,2012,Crossover,122000.0,2200.0,Diesel,Automatic,5799.0,2021
+33838,Toyota,Rav 4,2006,Crossover,264000.0,2200.0,Diesel,Manual,8700.0,2021
+39459,Dodge,Caliber,2006,Hatchback,83000.0,2400.0,Petrol,Automatic,3200.0,2021
+15641,Dacia,Logan Mcv,2009,Universal,168000.0,1400.0,Petrol,Manual,4000.0,2021
+37743,Renault,Laguna,2009,Universal,185000.0,1500.0,Diesel,Manual,4700.0,2021
+14968,Nissan,Qashqai+2,2010,Sedan,198644.0,1500.0,Diesel,Manual,9799.0,2021
+23979,Volkswagen,Golf,2007,Hatchback,154000.0,1600.0,Petrol,Automatic,3200.0,2021
+21884,Mercedes,C Class,2013,Sedan,89218.0,1800.0,Petrol,Automatic,13500.0,2021
+9744,Volkswagen,Passat,1988,Sedan,300000.0,1800.0,Petrol,Manual,700.0,2021
+32261,Hyundai,Tucson,2016,SUV,110000.0,1600.0,Petrol,Automatic,16750.0,2021
+30889,Lexus,CT Series,2011,Hatchback,130000.0,1800.0,Hybrid,Automatic,10800.0,2021
+17286,Mercedes,R Class,2007,Universal,144000.0,3495.0,Petrol,Automatic,11999.0,2021
+38212,Audi,Q5,2014,SUV,190000.0,2000.0,Diesel,Automatic,26000.0,2021
+6907,KIA,Carnival,2016,Microvan,40000.0,2199.0,Diesel,Automatic,16500.0,2021
+33500,Hyundai,Accent,2019,Sedan,80000.0,1396.0,Petrol,Automatic,10699.0,2021
+36469,GMC,Yukon,1995,SUV,167500.0,5700.0,Petrol,Automatic,7900.0,2021
+33479,Toyota,Corolla Verso,2007,Crossover,166000.0,1600.0,Petrol,Manual,6300.0,2021
+27049,Hyundai,Matrix,2006,Minivan,284325.0,1500.0,Diesel,Manual,3950.0,2021
+34735,Subaru,Legacy,1993,Universal,150000.0,1800.0,Metan/Propan,Manual,1500.0,2021
+11525,BMW,7 Series,2002,Sedan,176100.0,4400.0,Petrol,Automatic,5999.0,2021
+29216,Toyota,Land Cruiser,2009,SUV,300000.0,5700.0,Metan/Propan,Automatic,24000.0,2021
+24612,Suzuki,SX4,2013,Hatchback,60000.0,1598.0,Petrol,Automatic,8300.0,2021
+32918,Toyota,Auris,2010,Hatchback,222000.0,1600.0,Petrol,Manual,5999.0,2021
+26763,BMW,5 Series,2010,Universal,300000.0,2000.0,Diesel,Automatic,5600.0,2021
+34723,Chrysler,Sebring,2001,Sedan,330000.0,1993.0,Petrol,Automatic,2900.0,2021
+30706,Mercedes,C Class,2002,Universal,276000.0,2200.0,Diesel,Automatic,4600.0,2021
+18450,Volkswagen,Golf,2003,Hatchback,153000.0,1900.0,Diesel,Manual,2300.0,2021
+7104,Volkswagen,Caravelle,2012,Microvan,185000.0,2000.0,Diesel,Automatic,18000.0,2021
+26978,Mercedes,Vito,2010,Universal,204000.0,2200.0,Diesel,Manual,10000.0,2021
+16328,Hyundai,Santa FE,2007,Crossover,108000.0,2700.0,Petrol,Automatic,7700.0,2021
+19630,Mercedes,Citan,2014,Minivan,260000.0,1500.0,Diesel,Manual,5500.0,2021
+30231,Mazda,3,2004,Hatchback,260000.0,1400.0,Metan/Propan,Manual,3500.0,2021
+30457,Hyundai,Elantra,2007,Sedan,184255.0,1591.0,Petrol,Automatic,5500.0,2021
+40759,Mercedes,S Class,2003,Sedan,11111.0,3724.0,Metan/Propan,Automatic,7700.0,2021
+25259,Opel,Combo,2011,Combi,158200.0,1300.0,Diesel,Manual,3400.0,2021
+20420,Porsche,Cayenne,2010,Crossover,304000.0,3000.0,Hybrid,Automatic,29900.0,2021
+15787,Mitsubishi,Outlander,2014,Crossover,197000.0,2000.0,Plug-in Hybrid,Automatic,12500.0,2021
+20324,Mercedes,E Class,2005,Sedan,233500.0,2198.0,Diesel,Automatic,5500.0,2021
+9717,Toyota,Carina,1988,Sedan,999999.0,1600.0,Petrol,Manual,700.0,2021
+14959,Toyota,Avensis,2010,Sedan,286406.0,2000.0,Diesel,Manual,8999.0,2021
+18372,Vaz,2112,2007,Crossover,544444.0,1500.0,Metan/Propan,Manual,3000.0,2021
+14479,Volkswagen,Passat,2009,Universal,305965.0,1400.0,Metan/Propan,Automatic,7800.0,2021
+36908,Skoda,Superb,2011,Sedan,98800.0,1400.0,Petrol,Manual,7500.0,2021
+32049,KIA,Optima,2019,Sedan,47000.0,1999.0,Hybrid,Automatic,17799.0,2021
+2679,Mitsubishi,Outlander,2013,Crossover,180000.0,2000.0,Plug-in Hybrid,Automatic,12800.0,2021
+18436,Mercedes,E Class,1997,Sedan,170000.0,2900.0,Diesel,Manual,3500.0,2021
+22003,Mercedes,B Class,2017,Hatchback,6637.0,0.0,Electric,Automatic,19200.0,2021
+23974,Hyundai,Accent,2003,Sedan,189000.0,1500.0,Petrol,Manual,1100.0,2021
+16055,Renault,Megane,2004,Sedan,255000.0,1600.0,Petrol,Automatic,3200.0,2021
+6454,Chevrolet,Cruze,2018,Sedan,47000.0,1400.0,Petrol,Automatic,9699.0,2021
+30711,Volkswagen,Sharan,2010,Minivan,143000.0,1900.0,Diesel,Manual,2200.0,2021
+7388,KIA,Sportage,2014,Crossover,116000.0,1600.0,Petrol,Manual,11950.0,2021
+12455,Mitsubishi,Galant,1996,Sedan,150000.0,2000.0,Petrol,Manual,1000.0,2021
+16039,Volkswagen,Caddy,2012,Minivan,317000.0,2000.0,Metan/Propan,Manual,10300.0,2021
+31041,Hyundai,i20,2012,Sedan,116440.0,1400.0,Diesel,Manual,5300.0,2021
+31742,BMW,X5,2016,Crossover,56000.0,2000.0,Plug-in Hybrid,Automatic,33499.0,2021
+25233,Volkswagen,Eos,2007,Coupe,180000.0,2000.0,Petrol,Manual,5900.0,2021
+244,Volkswagen,Passat,2000,Combi,191000.0,1800.0,Metan/Propan,Automatic,3850.0,2021
+25268,Nissan,Qashqai,2013,Crossover,185000.0,1500.0,Diesel,Manual,9200.0,2021
+33967,Skoda,Fabia,2004,Universal,295000.0,1400.0,Diesel,Manual,3300.0,2021
+5793,Hyundai,ix35,2014,SUV,175000.0,2000.0,Diesel,Automatic,13999.0,2021
+33458,KIA,Sportage,2021,Crossover,0.0,1600.0,Petrol,Automatic,18700.0,2021
+40249,Volkswagen,Touran,2008,Microvan,211000.0,1400.0,Petrol,Manual,5700.0,2021
+36382,Skoda,Fabia,2009,Universal,220000.0,1200.0,Petrol,Manual,3850.0,2021
+13429,Mitsubishi,Outlander,2015,SUV,111111.0,2000.0,Plug-in Hybrid,Automatic,11900.0,2021
+37976,Mercedes,E Class,1999,Sedan,500000.0,2000.0,Metan/Propan,Manual,2900.0,2021
+1503,Land Rover,Range Rover Evoque,2014,SUV,113000.0,2200.0,Diesel,Automatic,20999.0,2021
+26716,Mercedes,C Class,2004,Universal,234542.0,2200.0,Diesel,Manual,3900.0,2021
+16763,Lexus,IS Series,2017,Sedan,80000.0,2000.0,Petrol,Automatic,17500.0,2021
+7510,Lincoln,MKZ,2013,Sedan,168000.0,2000.0,Hybrid,Automatic,12900.0,2021
+33695,BMW,5 Series,2003,Sedan,11111.0,2000.0,Diesel,Manual,5500.0,2021
+27477,Toyota,Auris,2012,Hatchback,112260.0,1400.0,Diesel,Manual,6900.0,2021
+2756,BMW,X3,2010,Crossover,244000.0,2000.0,Diesel,Manual,11500.0,2021
+36675,GAZ,31029,2003,Minivan,450000.0,2496.0,Metan/Propan,Manual,2000.0,2021
+20283,BMW,X5,2019,Crossover,54000.0,2998.0,Petrol,Automatic,66900.0,2021
+20273,BMW,X2,2019,Crossover,0.0,1998.0,Petrol,Automatic,37900.0,2021
+7771,Toyota,Corolla Verso,2005,Minivan,220000.0,2231.0,Diesel,Manual,5500.0,2021
+21410,Citroen,C3,2012,Hatchback,99500.0,1400.0,Diesel,Manual,5500.0,2021
+25596,Ford,C-Max,2013,Microvan,210000.0,2000.0,Hybrid,Automatic,10299.0,2021
+35297,Skoda,Rapid,2013,Sedan,102000.0,1400.0,Petrol,Automatic,5300.0,2021
+25260,Opel,Combo,2011,Minivan,192650.0,1300.0,Diesel,Manual,3600.0,2021
+31141,Mercedes,E Class,2005,Sedan,400000.0,1800.0,Petrol,Manual,7500.0,2021
+28458,Mercedes,A Class,2017,Hatchback,45800.0,1595.0,Petrol,Automatic,19750.0,2021
+2952,Mercedes,GLA,2014,Sedan,125000.0,2200.0,Diesel,Automatic,21700.0,2021
+32487,Subaru,Trezia,2011,Sedan,163000.0,1400.0,Diesel,Automatic,6250.0,2021
+28752,Seat,Cordoba,2006,Sedan,158888.0,1400.0,Diesel,Manual,2200.0,2021
+40819,Mercedes,CLS Class,2008,Coupe,83000.0,3200.0,Diesel,Automatic,19000.0,2021
+23378,Audi,100,1990,Sedan,130000.0,2300.0,Petrol,Manual,2200.0,2021
+7524,Renault,Kangoo,2013,Minivan,143000.0,1500.0,Diesel,Manual,4500.0,2021
+3580,Mazda,MX-30,2020,Crossover,10.0,0.0,Electric,Automatic,22990.0,2021
+18529,Opel,Ascona,1988,Sedan,92000.0,1988.0,Petrol,Manual,1500.0,2021
+12590,Toyota,Auris,2007,Hatchback,303000.0,1400.0,Diesel,Manual,5600.0,2021
+31404,Skoda,Fabia,2016,Hatchback,40000.0,1400.0,Diesel,Automatic,2599.0,2021
+20946,Hyundai,Getz,1999,Hatchback,145000.0,1400.0,Petrol,Manual,1250.0,2021
+7114,BMW,5 Series,2013,Sedan,197000.0,2500.0,Diesel,Automatic,19200.0,2021
+33608,Volkswagen,Passat,1994,Universal,416000.0,1897.0,Diesel,Manual,1050.0,2021
+36582,Toyota,Corolla Verso,2005,Minivan,276000.0,1800.0,Petrol,Automatic,5200.0,2021
+20071,Opel,Vectra,1994,Hatchback,375000.0,1600.0,Metan/Propan,Manual,400.0,2021
+14145,Honda,Civic,2018,Hatchback,25074.0,1996.0,Petrol,Manual,25900.0,2021
+35553,Mercedes,Series (W124),1995,Sedan,481000.0,2200.0,Metan/Propan,Automatic,4000.0,2021
+4798,Toyota,Auris,2011,Hatchback,220000.0,1300.0,Petrol,Manual,5300.0,2021
+26707,Dacia,Logan Mcv,2007,Universal,1111.0,1400.0,Metan/Propan,Manual,2200.0,2021
+40506,Renault,Laguna,2013,Hatchback,270000.0,1500.0,Diesel,Manual,6000.0,2021
+10487,Toyota,Avensis,2006,Universal,255000.0,2230.0,Diesel,Manual,7150.0,2021
+17637,Peugeot,407,2005,Sedan,280000.0,1800.0,Metan/Propan,Manual,3490.0,2021
+31809,Renault,Megane,2005,Sedan,255555.0,1500.0,Diesel,Automatic,3250.0,2021
+8905,BMW,X5,2013,Crossover,70875.0,3000.0,Petrol,Automatic,27499.0,2021
+40703,Audi,A6,1999,Sedan,270000.0,2400.0,Metan/Propan,Manual,3800.0,2021
+5312,Dacia,Sandero,2010,Hatchback,177000.0,1400.0,Metan/Propan,Manual,3300.0,2021
+7562,Volkswagen,Touareg,2011,SUV,220000.0,3000.0,Hybrid,Automatic,18500.0,2021
+24489,Mitsubishi,Outlander,2011,Crossover,142800.0,2400.0,Metan/Propan,Automatic,11400.0,2021
+18982,Mitsubishi,ASX,2011,SUV,144852.0,1800.0,Petrol,Automatic,9499.0,2021
+34721,Skoda,Citigo,2013,Hatchback,53800.0,999.0,Petrol,Manual,4800.0,2021
+24206,Opel,Zafira,2004,Minivan,140000.0,2000.0,Petrol,Manual,4200.0,2021
+11687,Toyota,Camry,2018,Sedan,45000.0,2500.0,Hybrid,Automatic,24500.0,2021
+29055,Opel,Zafira,2006,Minivan,123456.0,1900.0,Diesel,Automatic,2350.0,2021
+11444,Toyota,Auris,2007,Hatchback,285000.0,1400.0,Diesel,Manual,4000.0,2021
+31935,Opel,Combo,1996,Minivan,193500.0,1400.0,Petrol,Manual,950.0,2021
+22459,Dacia,Lodgy,2013,Universal,180000.0,1500.0,Diesel,Manual,6600.0,2021
+40263,Skoda,Fabia,2009,Hatchback,225000.0,1900.0,Diesel,Manual,5199.0,2021
+7704,Toyota,Verso-S,2011,Minivan,164900.0,1400.0,Diesel,Manual,7250.0,2021
+38181,Alfa Romeo,156,2002,Sedan,216500.0,1600.0,Petrol,Manual,2600.0,2021
+9599,Chevrolet,Orlando,2011,Universal,176000.0,2000.0,Diesel,Manual,9600.0,2021
+40481,Mitsubishi,Carisma,1997,Sedan,23530.0,1600.0,Metan/Propan,Manual,1900.0,2021
+40172,Hyundai,Tucson,2017,Crossover,152214.0,1999.0,Diesel,Automatic,15600.0,2021
+4540,Toyota,Auris,2017,Universal,90000.0,1400.0,Diesel,Manual,11000.0,2021
+5423,Suzuki,Vitara,2017,SUV,63000.0,1400.0,Petrol,Automatic,14950.0,2021
+21941,Mercedes,Vito,2006,Minivan,398452.0,2200.0,Diesel,Manual,7500.0,2021
+38924,Volkswagen,Transporter,1994,Universal,1200.0,2400.0,Diesel,Manual,2700.0,2021
+25303,Volkswagen,Golf,1996,SUV,52465.0,1598.0,Petrol,Manual,1700.0,2021
+7885,Audi,Q5,2013,Crossover,192155.0,2000.0,Hybrid,Automatic,19499.0,2021
+35497,Volkswagen,Golf,2009,Hatchback,181200.0,1390.0,Petrol,Manual,7900.0,2021
+7272,Volkswagen,Passat,2001,Universal,271358.0,1900.0,Diesel,Manual,4150.0,2021
+8712,Toyota,Urban Cruiser,2009,Hatchback,180000.0,1400.0,Diesel,Manual,8399.0,2021
+269,Toyota,Prius c,2014,Hatchback,144947.0,1496.0,Hybrid,Automatic,7499.0,2021
+37900,Volkswagen,Vento,1995,Sedan,220000.0,1800.0,Petrol,Manual,499.0,2021
+729,Ford,Fiesta,2010,Universal,165000.0,1400.0,Metan/Propan,Manual,4650.0,2021
+9747,BMW,X5,2004,SUV,250000.0,3000.0,Diesel,Manual,5500.0,2021
+23361,Renault,Grand Scenic,2010,Universal,205000.0,1300.0,Diesel,Automatic,5500.0,2021
+2811,Honda,Civic,2000,Universal,363088.0,1400.0,Petrol,Manual,2000.0,2021
+11400,Skoda,Superb,2007,Sedan,195000.0,1751.0,Petrol,Automatic,6800.0,2021
+31451,Mazda,3,2013,Sedan,89000.0,1600.0,Petrol,Manual,5200.0,2021
+30774,BMW,1 Series,2007,Hatchback,104000.0,2000.0,Diesel,Automatic,4200.0,2021
+776,Hyundai,ix35,2011,SUV,160000.0,2000.0,Diesel,Automatic,12800.0,2021
+6728,Toyota,Carina,1994,Hatchback,372000.0,1600.0,Metan/Propan,Manual,2100.0,2021
+26765,Nissan,Qashqai,2010,Crossover,173000.0,1461.0,Diesel,Manual,8000.0,2021
+9316,Toyota,Prius,2009,Hatchback,258000.0,1800.0,Hybrid,Automatic,6799.0,2021
+21370,Mercedes,M Class,2000,SUV,450000.0,2700.0,Diesel,Automatic,7500.0,2021
+5802,Mercedes,Vito,2000,Microvan,300000.0,2300.0,Diesel,Manual,2290.0,2021
+17074,Nissan,Micra,2000,Hatchback,20000.0,1400.0,Petrol,Automatic,2550.0,2021
+18571,Mercedes,E Class,2001,Sedan,303000.0,3200.0,Metan/Propan,Automatic,3600.0,2021
+37292,Ford,Fusion,2017,Sedan,104107.0,2000.0,Hybrid,Automatic,9700.0,2021
+40041,Honda,CR-V,2002,Crossover,300000.0,2000.0,Metan/Propan,Manual,5200.0,2021
+15347,BMW,X4,2016,SUV,189000.0,2000.0,Diesel,Automatic,28999.0,2021
+27844,Skoda,Octavia,2014,Universal,190000.0,1600.0,Diesel,Automatic,9800.0,2021
+22179,Nissan,Qashqai,2015,Crossover,124200.0,1461.0,Diesel,Manual,12250.0,2021
+30640,Toyota,Avensis,2004,Universal,243000.0,2000.0,Petrol,Automatic,5500.0,2021
+27546,Porsche,Cayenne,2020,Crossover,15000.0,3000.0,Petrol,Automatic,75900.0,2021
+30238,Opel,Astra,2003,Sedan,226000.0,1600.0,Petrol,Manual,1500.0,2021
+16142,Opel,Zafira,2008,Minivan,167000.0,1600.0,Metan/Propan,Manual,6500.0,2021
+9549,BMW,5 Series,2014,Sedan,126508.0,2000.0,Diesel,Automatic,16999.0,2021
+476,Lexus,RX Series,2005,SUV,178000.0,2989.0,Metan/Propan,Automatic,9800.0,2021
+13869,Mercedes,GLE Coupe,2018,Crossover,31922.0,3000.0,Petrol,Automatic,59900.0,2021
+3686,BMW,6 Series,2014,Sedan,141000.0,4000.0,Diesel,Automatic,30500.0,2021
+1870,Skoda,Fabia,2012,Universal,170000.0,1200.0,Petrol,Automatic,4999.0,2021
+14837,Toyota,Highlander,2011,SUV,186585.0,3500.0,Petrol,Automatic,17499.0,2021
+31233,Toyota,Avalon,2013,Sedan,220000.0,2494.0,Hybrid,Automatic,16999.0,2021
+9368,Porsche,Macan,2017,Crossover,44756.0,3000.0,Petrol,Automatic,44900.0,2021
+27480,Dacia,Duster,2019,Crossover,77000.0,1500.0,Diesel,Manual,12900.0,2021
+16602,Volkswagen,Passat,1995,Universal,91000.0,1900.0,Diesel,Manual,1700.0,2021
+35827,Ford,Orion,1991,Sedan,94185.0,1400.0,Petrol,Manual,450.0,2021
+36187,Mazda,CX-5,2017,Crossover,69000.0,2200.0,Diesel,Automatic,18000.0,2021
+10889,Toyota,C-HR,2018,Crossover,82000.0,1800.0,Hybrid,Automatic,17500.0,2021
+33067,Lexus,Es Series,2014,Sedan,48000.0,2500.0,Hybrid,Automatic,12200.0,2021
+12514,Skoda,Rapid,2017,Hatchback,43822.0,1422.0,Diesel,Automatic,9999.0,2021
+32323,Opel,Combo,1996,Minivan,417000.0,1700.0,Diesel,Manual,1300.0,2021
+9272,Toyota,Auris,2015,Universal,222659.0,1400.0,Diesel,Manual,8999.0,2021
+4401,Renault,Megane,2012,Universal,260000.0,1500.0,Diesel,Automatic,6000.0,2021
+12965,BMW,5 Series,2006,Sedan,320000.0,3000.0,Diesel,Automatic,9500.0,2021
+13280,Dacia,Logan,2006,Sedan,266000.0,1390.0,Petrol,Manual,1600.0,2021
+4946,Dacia,Logan Mcv,2018,Universal,57000.0,1500.0,Diesel,Manual,9490.0,2021
+36157,Renault,Scenic,1999,Minivan,430000.0,1900.0,Diesel,Manual,2300.0,2021
+17876,Mercedes,Vito,2014,Minivan,317923.0,2200.0,Diesel,Manual,13999.0,2021
+25674,Ford,Fusion,2016,Sedan,140000.0,2000.0,Hybrid,Automatic,14500.0,2021
+28575,Volkswagen,Polo,2012,Hatchback,156000.0,1200.0,Diesel,Manual,3700.0,2021
+28507,Opel,Astra,2009,Universal,247000.0,1300.0,Diesel,Manual,4499.0,2021
+15132,Suzuki,Vitara,2016,Crossover,36359.0,1600.0,Petrol,Automatic,14650.0,2021
+33471,Volkswagen,Touran,2009,Minivan,164000.0,1400.0,Petrol,Manual,5600.0,2021
+13896,Mercedes,E Class,2014,Sedan,177000.0,2200.0,Diesel,Automatic,23999.0,2021
+16838,Skoda,Superb,2012,Sedan,172000.0,1800.0,Petrol,Manual,8500.0,2021
+7236,Mercedes,GLE,2016,Crossover,150400.0,2200.0,Diesel,Automatic,34000.0,2021
+40139,Fiat,Marea,1999,Minivan,370000.0,1900.0,Diesel,Manual,1400.0,2021
+27789,Hyundai,i20,2013,Hatchback,56000.0,1400.0,Petrol,Automatic,4300.0,2021
+18422,Opel,Corsa,2004,Hatchback,78000.0,1000.0,Petrol,Manual,2250.0,2021
+17541,Zaz,968,1980,Coupe,10000.0,1100.0,Petrol,Manual,800.0,2021
+2016,Lincoln,MKZ,2013,Sedan,111000.0,2000.0,Hybrid,Automatic,11999.0,2021
+3900,Opel,Vectra,1991,Sedan,12467.0,1600.0,Petrol,Manual,1200.0,2021
+38359,Volkswagen,Passat,2008,Universal,230000.0,1900.0,Diesel,Manual,3550.0,2021
+13801,Volkswagen,Golf,1991,Cabriolet,107000.0,1800.0,Petrol,Manual,3200.0,2021
+18059,Toyota,Corolla,2019,Hatchback,21150.0,1998.0,Petrol,Automatic,15450.0,2021
+8475,Lexus,IS Series,2014,Sedan,153374.0,2500.0,Hybrid,Automatic,19999.0,2021
+30875,Audi,A4,2001,Sedan,260000.0,2000.0,Metan/Propan,Automatic,3700.0,2021
+2365,Dacia,Logan,2011,Sedan,190000.0,1400.0,Metan/Propan,Manual,2999.0,2021
+24611,Volkswagen,Golf,2003,Hatchback,334583.0,1900.0,Diesel,Manual,2000.0,2021
+31458,Chevrolet,Trax,2014,SUV,107000.0,1400.0,Petrol,Manual,8200.0,2021
+30564,Honda,CR-V,2010,SUV,61223.0,2200.0,Diesel,Manual,4200.0,2021
+29751,Nissan,Leaf,2012,Hatchback,87000.0,0.0,Electric,Automatic,8400.0,2021
+3687,Mazda,RX-8,2004,Coupe,84000.0,1300.0,Petrol,Automatic,4500.0,2021
+2361,Ford,Kuga,2017,SUV,158700.0,1500.0,Diesel,Manual,13990.0,2021
+17327,Opel,Astra,2006,Universal,262000.0,1600.0,Petrol,Manual,3700.0,2021
+14597,Volkswagen,Jetta,2013,Sedan,168523.0,1400.0,Hybrid,Automatic,8699.0,2021
+19023,Citroen,Berlingo,2001,Microvan,27000.0,1900.0,Diesel,Manual,1800.0,2021
+9585,Toyota,Avensis,2014,Sedan,143000.0,2000.0,Diesel,Automatic,12900.0,2021
+35639,Skoda,Octavia,2006,Universal,248330.0,1600.0,Petrol,Automatic,4800.0,2021
+32802,Mazda,323,2003,Universal,250000.0,1300.0,Petrol,Manual,1500.0,2021
+40477,Mercedes,CLK Class,1998,Sedan,300000.0,1996.0,Petrol,Manual,3250.0,2021
+20093,Mercedes,Vito,2006,Universal,298635.0,3000.0,Diesel,Automatic,7950.0,2021
+17815,BMW,X4,2014,Crossover,211360.0,2000.0,Diesel,Automatic,26199.0,2021
+33796,Ford,Fusion,2013,Sedan,120788.0,2000.0,Plug-in Hybrid,Automatic,12499.0,2021
+7061,BMW,5 Series,2005,Sedan,284478.0,2500.0,Diesel,Automatic,7999.0,2021
+28620,Audi,A6,2000,Universal,259000.0,2500.0,Diesel,Automatic,4999.0,2021
+19306,Skoda,Octavia,2014,Universal,205000.0,1800.0,Petrol,Automatic,10500.0,2021
+20154,Ford,Mondeo,2012,Sedan,219259.0,1596.0,Petrol,Manual,6300.0,2021
+27078,Fiat,Doblo Cargo,2005,Minivan,170000.0,1300.0,Diesel,Manual,2400.0,2021
+5451,Ford,Focus,2018,Hatchback,19000.0,1000.0,Petrol,Automatic,9600.0,2021
+38309,Peugeot,206,2002,Hatchback,250000.0,1000.0,Petrol,Manual,800.0,2021
+25335,BMW,X5,2014,Crossover,163000.0,2000.0,Diesel,Automatic,30500.0,2021
+35421,Mazda,323,1996,Sedan,200000.0,1500.0,Petrol,Manual,1900.0,2021
+10325,Renault,Scenic,2014,Minivan,175000.0,1500.0,Diesel,Automatic,7800.0,2021
+39789,Zaz,968,1988,Sedan,57900.0,887.0,Petrol,Manual,1300.0,2021
+27130,Mercedes,C Class,2001,Sedan,215827.0,2200.0,Diesel,Manual,4500.0,2021
+25614,Opel,Combo,1996,Combi,250000.0,1400.0,Petrol,Manual,900.0,2021
+40752,Dacia,Sandero,2010,Hatchback,99200.0,1200.0,Petrol,Manual,4399.0,2021
+26599,Mercedes,Vito,2011,Microvan,289000.0,2200.0,Diesel,Manual,8800.0,2021
+24266,Lexus,GS Series,2005,Sedan,205000.0,2998.0,Petrol,Automatic,9000.0,2021
+25277,Hyundai,Sonata,2006,Sedan,155000.0,2000.0,Metan/Propan,Automatic,4600.0,2021
+23994,Ford,Fiesta,2004,Hatchback,156000.0,1400.0,Diesel,Manual,1550.0,2021
+105,Audi,A6,1997,Sedan,29800.0,2400.0,Metan/Propan,Manual,2750.0,2021
+2402,Ford,Kuga,2017,SUV,153800.0,1500.0,Diesel,Manual,14950.0,2021
+15101,Skoda,Octavia,2009,Universal,198050.0,1400.0,Petrol,Manual,5999.0,2021
+22671,Nissan,X-Trail,2003,Crossover,185000.0,2200.0,Diesel,Manual,2000.0,2021
+21018,Toyota,Auris,2014,Universal,235500.0,1800.0,Hybrid,Automatic,7899.0,2021
+26618,GMC,Envoy,2002,SUV,14000.0,4200.0,Metan/Propan,Automatic,12300.0,2021
+6303,Citroen,DS3,2012,Hatchback,172500.0,1400.0,Diesel,Automatic,6350.0,2021
+31552,KIA,Niro,2017,Crossover,60000.0,1600.0,Hybrid,Automatic,13950.0,2021
+16310,Toyota,Auris,2013,Sedan,154000.0,1400.0,Diesel,Manual,8950.0,2021
+8219,BMW,2 Series,2016,Universal,171921.0,1500.0,Diesel,Automatic,14199.0,2021
+35715,Dacia,Dokker,2014,Universal,68124.0,1200.0,Petrol,Manual,8750.0,2021
+26965,Toyota,Auris,2017,Universal,153550.0,1399.0,Diesel,Manual,11000.0,2021
+18011,Volkswagen,Bora,2003,Sedan,185000.0,1800.0,Metan/Propan,Manual,1900.0,2021
+32820,Nissan,Qashqai,2008,Crossover,220000.0,1500.0,Diesel,Manual,6700.0,2021
+7450,Vaz,2115,2009,Sedan,185000.0,1600.0,Petrol,Manual,1850.0,2021
+16537,Skoda,Fabia,2006,Universal,287292.0,1422.0,Diesel,Manual,3300.0,2021
+4308,Toyota,Avalon,2015,Sedan,84000.0,2500.0,Hybrid,Automatic,19999.0,2021
+5729,Volkswagen,Caddy,2007,Minivan,260000.0,1998.0,Diesel,Manual,3900.0,2021
+19555,Nissan,Qashqai,2017,Crossover,80111.0,1500.0,Diesel,Manual,13999.0,2021
+6354,Mercedes,E Class,2006,Sedan,333333.0,2200.0,Diesel,Manual,6800.0,2021
+9267,Subaru,Impreza,2017,Sedan,107673.0,2000.0,Petrol,Automatic,17899.0,2021
+20216,Citroen,DS5,2015,Hatchback,133200.0,2000.0,Diesel,Automatic,10550.0,2021
+3268,Volkswagen,Passat,2011,Universal,198000.0,1395.0,Petrol,Automatic,7600.0,2021
+25037,Skoda,Yeti,2012,Crossover,190000.0,1400.0,Petrol,Manual,5000.0,2021
+21759,Dacia,Logan,2011,Microvan,168000.0,1500.0,Diesel,Manual,5700.0,2021
+11607,BMW,5 Series,2005,Sedan,285000.0,2500.0,Diesel,Automatic,9500.0,2021
+29156,Dacia,Logan Mcv,2015,Universal,170000.0,1500.0,Diesel,Manual,7600.0,2021
+31867,Honda,Civic,2005,Hatchback,301000.0,1396.0,Petrol,Manual,3400.0,2021
+33552,Mercedes,E Class,2018,Sedan,37000.0,3500.0,Diesel,Automatic,35000.0,2021
+2761,Mercedes,Vito,2001,Minivan,280000.0,2200.0,Diesel,Manual,3990.0,2021
+8273,Renault,Kadjar,2016,Crossover,143440.0,1461.0,Diesel,Automatic,12399.0,2021
+31037,Hyundai,ix20,2011,Hatchback,115588.0,1396.0,Diesel,Manual,7200.0,2021
+21246,Mercedes,E Class,1994,Coupe,400000.0,2200.0,Metan/Propan,Automatic,3450.0,2021
+4098,Vaz,2102,1981,Universal,32000.0,1300.0,Petrol,Manual,3300.0,2021
+37180,Toyota,Yaris,2010,Hatchback,114000.0,998.0,Petrol,Manual,4900.0,2021
+21320,Volkswagen,Passat,1994,Universal,167000.0,2000.0,Petrol,Manual,1200.0,2021
+33230,Ford,Mondeo,2006,Universal,240000.0,2000.0,Diesel,Manual,4500.0,2021
+8746,Audi,Q7,2018,Crossover,30973.0,2000.0,Petrol,Automatic,45999.0,2021
+16344,Audi,A6,2005,Sedan,264500.0,2400.0,Metan/Propan,Manual,6400.0,2021
+40780,Volkswagen,Passat,1993,Universal,230000.0,1800.0,Metan/Propan,Manual,1650.0,2021
+37481,Toyota,Hilux,2016,Pickup,104000.0,2800.0,Diesel,Automatic,30200.0,2021
+21223,Renault,Fluence,2012,Sedan,49000.0,0.0,Electric,Automatic,7777.0,2021
+39199,Mazda,626,1991,Sedan,437000.0,1998.0,Petrol,Manual,1000.0,2021
+40197,Mazda,3,2007,Hatchback,165000.0,1598.0,Petrol,Automatic,5000.0,2021
+345,Ford,Fusion,2003,Hatchback,330000.0,1400.0,Diesel,Automatic,4100.0,2021
+40346,KIA,Pride,2000,Minivan,175000.0,1400.0,Petrol,Manual,1100.0,2021
+17766,Volkswagen,Golf,2003,Universal,270000.0,1900.0,Diesel,Manual,3400.0,2021
+14572,Toyota,Auris,2016,Universal,146920.0,1800.0,Hybrid,Automatic,11899.0,2021
+11952,BMW,7 Series,2015,Sedan,40000.0,2984.0,Petrol,Automatic,38000.0,2021
+9464,Audi,Q5,2017,Crossover,57976.0,2000.0,Petrol,Automatic,21499.0,2021
+37561,BMW,5 Series,1994,Sedan,280000.0,2000.0,Petrol,Manual,2300.0,2021
+18062,Mercedes,CLK Class,1998,Coupe,222222.0,3200.0,Petrol,Automatic,4300.0,2021
+13284,Citroen,Berlingo,2008,Combi,276000.0,1868.0,Diesel,Manual,2300.0,2021
+29858,Mercedes,V Class,2016,Microvan,135000.0,2200.0,Diesel,Automatic,39000.0,2021
+11487,Renault,Megane,2012,Minivan,234568.0,1500.0,Diesel,Manual,5700.0,2021
+12541,BMW,3 Series,2020,Sedan,40000.0,1998.0,Petrol,Automatic,35500.0,2021
+12313,Toyota,Corolla,2007,Hatchback,220252.0,1400.0,Diesel,Manual,4999.0,2021
+12686,Mercedes,S Class,2016,Sedan,82000.0,2987.0,Diesel,Automatic,50000.0,2021
+8376,Suzuki,Vitara,2015,Crossover,70485.0,1373.0,Petrol,Automatic,14650.0,2021
+11571,Hyundai,ix35,2013,SUV,92000.0,2000.0,Diesel,Automatic,13700.0,2021
+10395,Hyundai,Getz,2005,Coupe,275000.0,1400.0,Petrol,Manual,2500.0,2021
+36950,Nissan,Leaf,2013,Universal,59000.0,0.0,Electric,Automatic,9500.0,2021
+11510,Volvo,XC90,2007,Crossover,279705.0,2400.0,Diesel,Automatic,13300.0,2021
+14498,Volkswagen,Passat,2007,Sedan,262689.0,2000.0,Diesel,Automatic,8299.0,2021
+270,Renault,Grand Scenic,2012,Universal,180000.0,1500.0,Diesel,Manual,7499.0,2021
+2444,Mercedes,C Class,2000,Universal,282000.0,2200.0,Diesel,Manual,1650.0,2021
+24681,Renault,Megane,2007,Sedan,230000.0,1461.0,Diesel,Manual,3300.0,2021
+15886,Toyota,Avensis,2002,Sedan,123456.0,2000.0,Diesel,Manual,2000.0,2021
+15118,Toyota,Prius,2015,Hatchback,156000.0,1800.0,Hybrid,Automatic,8700.0,2021
+32684,Opel,Kadett,1990,Sedan,2580.0,2000.0,Petrol,Manual,750.0,2021
+15301,BMW,5 Series,2017,Sedan,35974.0,2000.0,Petrol,Automatic,27650.0,2021
+25007,Skoda,Superb,2009,Universal,200000.0,1900.0,Petrol,Automatic,6000.0,2021
+7519,Mercedes,GLC,2019,SUV,26300.0,2000.0,Petrol,Automatic,30900.0,2021
+8892,BMW,5 Series,1997,Sedan,290000.0,2000.0,Petrol,Manual,3600.0,2021
+26701,Opel,Zafira,2004,Minivan,215000.0,2000.0,Diesel,Automatic,5000.0,2021
+18566,BMW,5 Series,2002,Sedan,3300.0,3000.0,Diesel,Automatic,3100.0,2021
+16766,Volkswagen,Passat,2008,Universal,264000.0,2000.0,Diesel,Manual,6900.0,2021
+16504,Audi,A4,1996,Sedan,111111.0,1600.0,Petrol,Manual,2100.0,2021
+38360,Mercedes,E Class,2015,Sedan,244000.0,2200.0,Diesel,Automatic,18990.0,2021
+28822,UAZ,Altele,1994,SUV,27000.0,2400.0,Petrol,Manual,14000.0,2021
+8001,Hyundai,Tucson,2017,Crossover,121341.0,2000.0,Petrol,Automatic,16899.0,2021
+9858,Volkswagen,Golf,2007,Hatchback,171000.0,1400.0,Petrol,Manual,5290.0,2021
+20618,Toyota,Corolla,2006,Sedan,285000.0,1600.0,Metan/Propan,Automatic,4399.0,2021
+642,Toyota,Prius,2008,Hatchback,259000.0,1500.0,Hybrid,Automatic,6000.0,2021
+4445,Porsche,Cayenne,2008,SUV,145000.0,4800.0,Petrol,Automatic,13600.0,2021
+26656,Land Rover,Range Rover,2005,SUV,2100.0,4400.0,Metan/Propan,Automatic,9600.0,2021
+3161,Jeep,Grand Cherokee,2005,SUV,320000.0,3700.0,Metan/Propan,Automatic,7000.0,2021
+35140,Toyota,Corolla,2002,Hatchback,171000.0,1400.0,Petrol,Manual,3450.0,2021
+33725,Honda,Accord,2003,Sedan,250000.0,2000.0,Metan/Propan,Manual,3900.0,2021
+36032,Skoda,Superb,2007,Sedan,152000.0,1800.0,Petrol,Manual,5800.0,2021
+23297,Volkswagen,Passat,1993,Sedan,242761.0,1800.0,Petrol,Manual,1100.0,2021
+12962,Renault,Grand Scenic,2013,Minivan,180000.0,1500.0,Diesel,Manual,7800.0,2021
+34004,BMW,7 Series,2019,Sedan,409.0,1600.0,Hybrid,Automatic,44600.0,2021
+34050,Volkswagen,Passat,2012,Universal,190000.0,1400.0,Metan/Propan,Automatic,8500.0,2021
+23539,Lancia,Kappa,2001,Sedan,300000.0,2400.0,Diesel,Manual,2499.0,2021
+13570,Volkswagen,Transporter,1998,Microvan,400000.0,2500.0,Diesel,Manual,3200.0,2021
+11351,Honda,CR-V,2013,SUV,125000.0,2199.0,Diesel,Manual,16659.0,2021
+9587,Ford,C-Max,2016,Hatchback,62000.0,2000.0,Hybrid,Automatic,11400.0,2021
+3999,Honda,Civic,1989,Hatchback,350000.0,1300.0,Petrol,Manual,800.0,2021
+28389,Audi,A8,2008,Sedan,205000.0,2800.0,Petrol,Automatic,12850.0,2021
+15404,BMW,X3,2005,Crossover,240000.0,2000.0,Diesel,Manual,5500.0,2021
+8734,Volkswagen,Golf,2009,Hatchback,160673.0,2000.0,Diesel,Automatic,11999.0,2021
+10947,Lexus,RX Series,2014,SUV,90000.0,3500.0,Hybrid,Automatic,25000.0,2021
+13858,Toyota,Avensis,2009,Universal,219500.0,1987.0,Petrol,Automatic,9199.0,2021
+28203,Volvo,XC70,2008,Universal,258000.0,2400.0,Diesel,Automatic,10000.0,2021
+5770,Dacia,Logan Mcv,2007,Universal,238000.0,1400.0,Petrol,Manual,2100.0,2021
+27270,KIA,Sorento,2011,Crossover,135000.0,2000.0,Diesel,Automatic,8300.0,2021
+30884,Skoda,Rapid,2018,Cabriolet,21212.0,2000.0,Metan/Propan,Automatic,8546.0,2021
+18735,Seat,Arosa,2002,Coupe,215000.0,999.0,Petrol,Manual,1400.0,2021
+432,Nissan,Qashqai+2,2011,Microvan,207000.0,1500.0,Diesel,Manual,7800.0,2021
+2474,Ford,Focus,2015,Universal,176000.0,1500.0,Diesel,Manual,7700.0,2021
+15028,Chevrolet,Nubira,2007,Universal,150000.0,1800.0,Metan/Propan,Automatic,3200.0,2021
+40212,Nissan,Qashqai,2015,Crossover,158000.0,1500.0,Diesel,Manual,12399.0,2021
+23070,Mercedes,E Class,2015,Sedan,72000.0,2143.0,Diesel,Automatic,27000.0,2021
+34562,Mercedes,E Class,2005,Sedan,183000.0,2700.0,Diesel,Automatic,3450.0,2021
+15930,Opel,Corsa,2012,Hatchback,161000.0,1300.0,Diesel,Manual,5200.0,2021
+15432,Nissan,X-Trail,2016,SUV,104900.0,1600.0,Diesel,Automatic,16300.0,2021
+1546,Dacia,Logan,2009,Minivan,14200.0,1600.0,Metan/Propan,Manual,1200.0,2021
+5316,Toyota,Yaris,2014,Hatchback,119600.0,1500.0,Hybrid,Automatic,8250.0,2021
+25956,Volkswagen,Polo,2003,Hatchback,173000.0,1400.0,Diesel,Manual,3000.0,2021
+3954,Nissan,Primera,1993,Sedan,360000.0,1600.0,Petrol,Manual,1450.0,2021
+30896,BMW,3 Series,2003,Universal,320000.0,1999.0,Diesel,Manual,5300.0,2021
+3665,Mercedes,E Class,2000,Sedan,296325.0,2200.0,Diesel,Automatic,2000.0,2021
+2556,Toyota,Auris,2014,Universal,166000.0,1798.0,Hybrid,Automatic,9600.0,2021
+25385,Volkswagen,Caddy,2008,Minivan,190000.0,1900.0,Diesel,Manual,4299.0,2021
+23821,Toyota,Yaris,2007,Sedan,164164.0,1497.0,Petrol,Automatic,5300.0,2021
+13780,Lexus,Es Series,2016,Sedan,94000.0,2500.0,Hybrid,Automatic,21500.0,2021
+1159,Skoda,Superb,2016,Sedan,105000.0,2000.0,Diesel,Automatic,23500.0,2021
+21741,BMW,1 Series,2016,Hatchback,138000.0,1600.0,Diesel,Manual,10800.0,2021
+6598,Volkswagen,Caravelle,2007,Minivan,260000.0,2500.0,Diesel,Manual,8200.0,2021
+28914,Volkswagen,Touareg,2007,SUV,269000.0,2500.0,Diesel,Automatic,10500.0,2021
+13744,Chevrolet,Camaro,2019,Coupe,3000.0,2000.0,Petrol,Automatic,24300.0,2021
+38851,BMW,3 Series,2004,Sedan,232000.0,2000.0,Diesel,Automatic,1900.0,2021
+31947,BMW,3 Series,2000,Sedan,250000.0,2000.0,Diesel,Manual,3200.0,2021
+32742,Renault,Megane,2012,Minivan,200000.0,1461.0,Diesel,Automatic,7600.0,2021
+31115,Volkswagen,Passat,2009,Universal,220000.0,2000.0,Diesel,Manual,6999.0,2021
+27638,Hyundai,Santa FE,2010,SUV,200480.0,2200.0,Diesel,Automatic,13700.0,2021
+22752,Volkswagen,Transporter,1995,Minivan,300000.0,2500.0,Petrol,Manual,2000.0,2021
+8884,Renault,Scenic,2017,Sedan,146274.0,1500.0,Diesel,Manual,11499.0,2021
+35122,BMW,5 Series,2001,SUV,285973.0,525.0,Diesel,Automatic,5500.0,2021
+34376,Mazda,CX-7,2008,Crossover,190000.0,2300.0,Petrol,Automatic,6650.0,2021
+35829,Brilliance,BS6,2007,Sedan,325484.0,2400.0,Metan/Propan,Manual,1699.0,2021
+19954,Opel,Zafira,2007,Microvan,215000.0,1800.0,Petrol,Manual,4999.0,2021
+26211,Volkswagen,Passat,2008,Universal,20600.0,1400.0,Petrol,Manual,5200.0,2021
+22814,Toyota,Corolla,2007,Sedan,157000.0,1400.0,Diesel,Manual,6750.0,2021
+19136,Ford,Focus,2017,Universal,153320.0,1500.0,Diesel,Automatic,9300.0,2021
+10082,BMW,X5,2015,Crossover,137178.0,2000.0,Hybrid,Automatic,37499.0,2021
+13597,Skoda,Octavia,2021,Hatchback,0.0,1400.0,Petrol,Automatic,21010.0,2021
+19045,Suzuki,S-Cross,2017,Crossover,63572.0,1000.0,Petrol,Automatic,14000.0,2021
+8337,Nissan,Qashqai,2015,Crossover,107585.0,1200.0,Petrol,Automatic,12750.0,2021
+6615,Dacia,Logan,2010,Sedan,220000.0,1500.0,Diesel,Manual,3000.0,2021
+9083,Hyundai,Santa FE,2014,Crossover,145101.0,2000.0,Petrol,Automatic,15499.0,2021
+25756,Mercedes,E Class,2007,Sedan,270000.0,3000.0,Diesel,Automatic,7500.0,2021
+36827,Volkswagen,Passat,2012,Sedan,137000.0,1800.0,Petrol,Manual,8399.0,2021
+9033,Skoda,Octavia,2011,Universal,224257.0,1400.0,Petrol,Manual,6999.0,2021
+17710,Skoda,Superb,2009,Sedan,245000.0,2000.0,Diesel,Automatic,9600.0,2021
+9349,Volkswagen,Scirocco,2011,Coupe,165441.0,1400.0,Petrol,Manual,8499.0,2021
+22328,Mercedes,CLK Class,2000,Cabriolet,146000.0,2000.0,Petrol,Manual,1750.0,2021
+19130,Skoda,Fabia,2006,Hatchback,111111.0,1400.0,Diesel,Manual,3000.0,2021
+23666,Mitsubishi,Space Star,1999,Hatchback,212000.0,1834.0,Petrol,Manual,1900.0,2021
+4310,BMW,3 Series,1999,Sedan,999999.0,2000.0,Petrol,Automatic,3300.0,2021
+13654,Dacia,Sandero Stepway,2015,Hatchback,112000.0,898.0,Petrol,Manual,5600.0,2021
+24060,Daihatsu,Terios,2009,Crossover,180000.0,1500.0,Metan/Propan,Automatic,4500.0,2021
+17682,Toyota,Corolla,2005,Hatchback,203121.0,2000.0,Diesel,Manual,2700.0,2021
+8995,Ford,Mustang,2017,Coupe,42247.0,2300.0,Petrol,Automatic,24499.0,2021
+5928,Volkswagen,Golf,2018,Hatchback,20000.0,2000.0,Diesel,Automatic,20000.0,2021
+34937,Nissan,Qashqai,2007,SUV,25488.0,1500.0,Diesel,Manual,5400.0,2021
+24164,Lexus,CT Series,2015,Hatchback,146500.0,1800.0,Hybrid,Automatic,13500.0,2021
+40123,Lexus,RX Series,2016,SUV,154800.0,2494.0,Hybrid,Automatic,39000.0,2021
+8947,Toyota,Yaris,2009,Hatchback,247000.0,1400.0,Diesel,Automatic,5499.0,2021
+21174,Nissan,Serena,1992,Minivan,381300.0,1600.0,Petrol,Manual,1800.0,2021
+1524,Mercedes,E Class,2003,Sedan,364000.0,3222.0,Diesel,Automatic,5500.0,2021
+35702,Toyota,Urban Cruiser,2009,Crossover,178000.0,1329.0,Petrol,Manual,7100.0,2021
+33446,Toyota,Verso,2016,Universal,115000.0,1600.0,Diesel,Manual,12499.0,2021
+15698,Volkswagen,Golf,2001,Hatchback,250000.0,1400.0,Petrol,Manual,2750.0,2021
+36414,Nissan,Primera,2003,Universal,230000.0,1800.0,Petrol,Manual,3900.0,2021
+8043,BMW,X3,2007,Crossover,327960.0,1995.0,Diesel,Automatic,9999.0,2021
+13400,Ford,Galaxy,1998,Minivan,238000.0,2300.0,Metan/Propan,Manual,4600.0,2021
+10775,Mercedes,E Class,2008,Sedan,201182.0,3000.0,Diesel,Automatic,5900.0,2021
+29009,BMW,5 Series,2018,Sedan,18000.0,2999.0,Petrol,Automatic,43000.0,2021
+2903,Audi,A6,2012,Sedan,102800.0,2000.0,Petrol,Manual,13600.0,2021
+6563,Mitsubishi,L Series,2009,Pickup,270000.0,2500.0,Diesel,Manual,7500.0,2021
+31844,Audi,A6,2002,Universal,200000.0,2500.0,Diesel,Automatic,1600.0,2021
+12780,Renault,Megane,2014,Hatchback,161000.0,1500.0,Diesel,Manual,6300.0,2021
+23085,Toyota,Corolla,2005,Hatchback,230500.0,1400.0,Diesel,Manual,5000.0,2021
+34385,Opel,Astra,2011,Universal,238000.0,1400.0,Metan/Propan,Manual,5500.0,2021
+27065,Ford,C-Max,2012,Microvan,182000.0,2000.0,Hybrid,Automatic,9000.0,2021
+11128,Toyota,Auris,2007,Hatchback,205000.0,1400.0,Diesel,Manual,5500.0,2021
+4195,Mini,Countryman,2012,Sedan,149000.0,1600.0,Petrol,Manual,9800.0,2021
+38741,Citroen,C4,2007,Hatchback,98000.0,1400.0,Petrol,Manual,2200.0,2021
+5811,BMW,1 Series,2007,Universal,215000.0,1600.0,Petrol,Automatic,5990.0,2021
+28236,Toyota,Rav 4,2005,Universal,140000.0,1998.0,Metan/Propan,Automatic,6800.0,2021
+37059,Hyundai,Tucson,2019,SUV,25000.0,2000.0,Diesel,Automatic,15999.0,2021
+4737,Ford,Tourneo Connect,2004,Minivan,247400.0,1800.0,Metan/Propan,Manual,3999.0,2021
+32326,Opel,Astra,2011,Hatchback,180000.0,1400.0,Petrol,Manual,5200.0,2021
+9650,Hyundai,Santa FE,2013,Crossover,145910.0,2200.0,Diesel,Automatic,17999.0,2021
+4120,Ford,Focus,2015,Sedan,177000.0,1500.0,Diesel,Manual,8750.0,2021
+10730,Mercedes,A Class,2015,Hatchback,120000.0,1500.0,Diesel,Manual,12500.0,2021
+496,Volkswagen,Caddy,2009,Minivan,276555.0,1595.0,Petrol,Manual,9500.0,2021
+24099,Skoda,Superb,2019,Sedan,89948.0,2000.0,Diesel,Automatic,28999.0,2021
+2056,Toyota,Auris,2015,Hatchback,164000.0,1800.0,Hybrid,Automatic,12700.0,2021
+23410,Volvo,XC90,2015,SUV,99500.0,2000.0,Diesel,Automatic,20500.0,2021
+1825,Ford,Transit Connect,2010,Minivan,228723.0,1798.0,Diesel,Manual,5000.0,2021
+22278,Renault,Megane,2009,Sedan,210000.0,1500.0,Diesel,Manual,4300.0,2021
+39578,Brilliance,BS6,2009,Sedan,147000.0,2000.0,Petrol,Manual,2200.0,2021
+14906,Volkswagen,Jetta,2013,Sedan,172000.0,1400.0,Hybrid,Automatic,9199.0,2021
+23897,Volkswagen,Golf,2012,Hatchback,178500.0,2000.0,Petrol,Automatic,12500.0,2021
+20947,Volkswagen,Passat,1992,Crossover,247000.0,2000.0,Petrol,Manual,1299.0,2021
+4106,Nissan,Qashqai,2018,Crossover,155000.0,1600.0,Diesel,Automatic,16800.0,2021
+19173,Skoda,Octavia,2015,Universal,139000.0,2000.0,Diesel,Automatic,17900.0,2021
+25084,Nissan,Almera,1997,Sedan,145000.0,1400.0,Petrol,Manual,1499.0,2021
+15280,Renault,Grand Scenic,2014,Minivan,180000.0,1500.0,Diesel,Automatic,8100.0,2021
+4545,Skoda,Superb,2016,Sedan,165000.0,2000.0,Diesel,Automatic,20400.0,2021
+18329,Hyundai,Santa FE,2017,SUV,118000.0,2199.0,Diesel,Automatic,21899.0,2021
+36752,Toyota,Auris,2012,Hatchback,85000.0,1800.0,Hybrid,Automatic,5800.0,2021
+5861,Audi,A6,2014,Sedan,195700.0,2000.0,Diesel,Automatic,19450.0,2021
+19090,KIA,Sorento,2011,SUV,167139.0,2199.0,Diesel,Automatic,11999.0,2021
+39924,Mazda,CX-7,2010,Crossover,77500.0,2300.0,Petrol,Automatic,9950.0,2021
+14066,Toyota,Avensis,2013,Universal,211939.0,2200.0,Diesel,Manual,8999.0,2021
+14026,Mercedes,E Class,2014,Sedan,210367.0,2200.0,Diesel,Automatic,21499.0,2021
+27073,BMW,X6,2011,Coupe,171000.0,4000.0,Diesel,Automatic,32999.0,2021
+11013,Opel,Corsa,2006,Hatchback,187000.0,1300.0,Diesel,Automatic,2600.0,2021
+4206,Ford,Escape,2018,Crossover,52000.0,1500.0,Petrol,Automatic,13999.0,2021
+2107,Mitsubishi,Outlander,2003,Crossover,223000.0,2000.0,Metan/Propan,Manual,5300.0,2021
+15981,Volkswagen,Passat,1996,Sedan,111111.0,2000.0,Petrol,Manual,2500.0,2021
+17941,BMW,3 Series,1993,Sedan,55866.0,1600.0,Petrol,Manual,1750.0,2021
+12819,Opel,Combo,2005,Universal,222222.0,1400.0,Petrol,Manual,3500.0,2021
+5817,Volkswagen,Golf,1989,Hatchback,381084.0,1576.0,Petrol,Manual,850.0,2021
+34743,Volkswagen,Golf,2001,Hatchback,199999.0,2000.0,Metan/Propan,Manual,3800.0,2021
+28217,Opel,Corsa,2012,Hatchback,183000.0,1300.0,Diesel,Manual,4800.0,2021
+30018,Daewoo,Tacuma,2002,Minivan,170000.0,1600.0,Petrol,Manual,2250.0,2021
+22419,Dacia,Lodgy,2012,Universal,166000.0,1461.0,Diesel,Manual,6950.0,2021
+26080,Hyundai,ix35,2013,Crossover,74700.0,1998.0,Petrol,Automatic,11399.0,2021
+33669,Volkswagen,Caddy,2006,Pickup,250000.0,1900.0,Diesel,Manual,2550.0,2021
+12912,Lincoln,Town Car,1986,Sedan,70000.0,5000.0,Petrol,Automatic,3600.0,2021
+19077,Toyota,Prius,2017,Hatchback,77000.0,1800.0,Hybrid,Automatic,12000.0,2021
+13668,Volvo,C30,2010,Hatchback,147000.0,1560.0,Diesel,Manual,4000.0,2021
+27343,Vaz,2105,1984,Sedan,86456.0,1450.0,Petrol,Manual,1200.0,2021
+26454,KIA,Carnival,2015,Minivan,133000.0,2199.0,Diesel,Automatic,17699.0,2021
+20602,Mercedes,E Class,2011,Sedan,126000.0,1800.0,Petrol,Automatic,15250.0,2021
+27588,Fiat,Qubo,2008,Microvan,173000.0,1400.0,Petrol,Manual,4350.0,2021
+6157,Opel,Astra,2011,Hatchback,200000.0,1300.0,Diesel,Manual,5900.0,2021
+34085,Mitsubishi,Outlander,2014,SUV,168000.0,1998.0,Plug-in Hybrid,Automatic,12900.0,2021
+32807,Nissan,Almera,2001,Cabriolet,15000.0,1600.0,Petrol,Manual,2499.0,2021
+38984,Mercedes,B Class,2010,Hatchback,138540.0,1991.0,Diesel,Manual,5200.0,2021
+9484,Toyota,Auris,2013,Universal,150000.0,1800.0,Hybrid,Automatic,9799.0,2021
+13199,Volkswagen,Passat,2018,Sedan,65900.0,1400.0,Petrol,Manual,12500.0,2021
+7879,BMW,7 Series,2010,Sedan,230000.0,3000.0,Diesel,Automatic,19999.0,2021
+26474,Hyundai,Tucson,2017,Crossover,151000.0,1995.0,Diesel,Automatic,17299.0,2021
+13915,Honda,CR-V,2010,Crossover,168388.0,2354.0,Petrol,Automatic,11499.0,2021
+276,Subaru,Trezia,2011,Hatchback,116000.0,1400.0,Diesel,Automatic,7300.0,2021
+5813,BMW,7 Series,2000,Sedan,111111.0,3000.0,Diesel,Automatic,4500.0,2021
+25841,Renault,Laguna,2011,Hatchback,302500.0,1500.0,Diesel,Manual,7000.0,2021
+11238,Nissan,Leaf,2011,Hatchback,115000.0,0.0,Electric,Automatic,7900.0,2021
+32659,Peugeot,107,2006,Hatchback,129000.0,998.0,Petrol,Manual,1800.0,2021
+14748,Audi,A3,2015,Sedan,95715.0,2000.0,Petrol,Automatic,14399.0,2021
+8412,BMW,5 Series,2012,Sedan,287394.0,2000.0,Diesel,Automatic,16999.0,2021
+2573,Mazda,3,2005,Hatchback,220000.0,1400.0,Petrol,Manual,3450.0,2021
+8129,Citroen,C4 Picasso,2011,Microvan,214791.0,1560.0,Diesel,Automatic,6999.0,2021
+26313,Toyota,Auris,2015,Universal,170000.0,1400.0,Diesel,Manual,9100.0,2021
+19182,Nissan,Pathfinder,2005,SUV,220000.0,2500.0,Diesel,Manual,9500.0,2021
+27654,Skoda,Octavia,2005,Minivan,1558.0,1400.0,Diesel,Manual,1950.0,2021
+37884,Audi,Altele,2020,Sedan,25000.0,2950.0,Petrol,Automatic,43000.0,2021
+33480,Volkswagen,Touareg,2005,SUV,222138.0,2461.0,Diesel,Automatic,7800.0,2021
+7595,Citroen,C3,2016,Hatchback,182000.0,1600.0,Diesel,Manual,6199.0,2021
+19665,Hyundai,Genesis,2020,SUV,2000.0,2959.0,Diesel,Automatic,68299.0,2021
+22843,Peugeot,Expert,2010,Minivan,188000.0,2000.0,Diesel,Manual,6999.0,2021
+39130,Toyota,Corolla,2003,Sedan,162100.0,1400.0,Petrol,Manual,4000.0,2021
+13978,Lexus,RX Series,2015,Crossover,65491.0,3456.0,Hybrid,Automatic,28499.0,2021
+33076,Honda,Civic,2006,Hatchback,145000.0,1600.0,Petrol,Automatic,3700.0,2021
+4086,Mercedes,C Class,1997,Sedan,287000.0,2200.0,Petrol,Automatic,1700.0,2021
+33574,Mercedes,M Class,2000,SUV,279000.0,2700.0,Diesel,Automatic,7399.0,2021
+39870,Mazda,5,2006,Minivan,159000.0,2300.0,Petrol,Automatic,2900.0,2021
+13795,Nissan,Almera,2004,Hatchback,221000.0,1500.0,Diesel,Manual,2999.0,2021
+16303,Ford,Fusion,2010,Hatchback,169217.0,1400.0,Diesel,Manual,4800.0,2021
+10810,Opel,Meriva,2010,Hatchback,182000.0,1400.0,Metan/Propan,Manual,3999.0,2021
+28450,Chevrolet,Aveo,2015,Sedan,13000.0,1200.0,Petrol,Manual,7200.0,2021
+31463,Opel,Zafira,2006,Minivan,149055.0,1800.0,Metan/Propan,Manual,5600.0,2021
+14588,Dacia,Duster,2013,Crossover,130075.0,1200.0,Petrol,Manual,8999.0,2021
+11509,Mitsubishi,Outlander,2014,Crossover,230000.0,2000.0,Plug-in Hybrid,Automatic,13400.0,2021
+9356,Dacia,Logan Mcv,2009,Universal,419025.0,1400.0,Metan/Propan,Manual,3399.0,2021
+16997,Mercedes,Citan,2014,Minivan,172000.0,1500.0,Diesel,Manual,9400.0,2021
+28807,Ford,Fusion,2005,Universal,125000.0,1400.0,Diesel,Manual,2350.0,2021
+20953,Ford,Kuga,2017,Universal,120000.0,1500.0,Petrol,Automatic,14200.0,2021
+8645,Audi,A4,2018,Sedan,22325.0,2000.0,Petrol,Automatic,23999.0,2021
+36309,Mercedes,GL Class,2009,SUV,180000.0,3000.0,Diesel,Automatic,13500.0,2021
+32950,Mazda,2,2009,Hatchback,218000.0,1500.0,Petrol,Manual,4099.0,2021
+13506,Mercedes,E Class,2005,Sedan,350000.0,2700.0,Diesel,Automatic,3700.0,2021
+31708,Skoda,Superb,2016,Sedan,160000.0,1400.0,Petrol,Manual,11900.0,2021
+38651,Lexus,RX Series,2010,SUV,110000.0,3500.0,Petrol,Automatic,13000.0,2021
+33442,Volkswagen,Caddy,2005,Combi,460000.0,1890.0,Diesel,Manual,3599.0,2021
+33459,Hyundai,Getz,2004,Hatchback,195000.0,1000.0,Petrol,Manual,2490.0,2021
+2261,Nissan,Qashqai,2008,Crossover,189500.0,1500.0,Diesel,Manual,6900.0,2021
+29062,Opel,Corsa,1996,Coupe,29999.0,1200.0,Petrol,Manual,950.0,2021
+13912,Honda,CR-V,2013,Crossover,173131.0,2200.0,Diesel,Automatic,17200.0,2021
+17468,Renault,Clio,2007,Minivan,130123.0,1200.0,Petrol,Manual,3099.0,2021
+13541,Skoda,Kodiaq,2018,SUV,25000.0,2000.0,Petrol,Automatic,27999.0,2021
+8978,Land Rover,Range Rover Sport,2006,Crossover,317678.0,2700.0,Diesel,Automatic,11999.0,2021
+11725,Dacia,Logan Mcv,2013,Universal,140000.0,900.0,Petrol,Manual,4999.0,2021
+26549,Toyota,Avensis,2008,Universal,270000.0,2200.0,Diesel,Manual,7800.0,2021
+26460,Hyundai,Santa FE,2016,SUV,146000.0,1995.0,Diesel,Automatic,17299.0,2021
+10795,Dacia,Sandero Stepway,2017,Hatchback,87000.0,900.0,Petrol,Manual,6800.0,2021
+22254,Renault,Clio,1992,Hatchback,12345.0,1400.0,Petrol,Manual,350.0,2021
+38461,BMW,5 Series,1993,Sedan,340000.0,2000.0,Petrol,Manual,2200.0,2021
+520,Ford,Focus,2012,Universal,167000.0,1000.0,Petrol,Manual,4999.0,2021
+31922,Volkswagen,Passat CC,2013,Sedan,143000.0,2000.0,Petrol,Automatic,10480.0,2021
+33414,Seat,Toledo,2007,Hatchback,181000.0,1900.0,Diesel,Automatic,6499.0,2021
+4116,Audi,A7,2015,Sedan,188000.0,2000.0,Diesel,Automatic,16900.0,2021
+20305,Mercedes,E Class,1996,Sedan,355000.0,2000.0,Petrol,Manual,2600.0,2021
+12285,Renault,Megane,2010,Universal,198000.0,1500.0,Diesel,Manual,5100.0,2021
+25196,Volkswagen,Passat,2006,Universal,240000.0,2000.0,Petrol,Automatic,4700.0,2021
+13846,Mercedes,E Class,2012,Sedan,147067.0,1796.0,Petrol,Automatic,15999.0,2021
+24116,Infiniti,QX70,2014,Crossover,89000.0,3700.0,Petrol,Automatic,22900.0,2021
+2331,Chevrolet,Epica,2007,Sedan,190000.0,2000.0,Diesel,Automatic,4990.0,2021
+40084,Audi,Altele,2018,Sedan,30000.0,2500.0,Petrol,Automatic,33000.0,2021
+21582,BMW,5 Series,2005,Sedan,200000.0,3000.0,Diesel,Automatic,3000.0,2021
+33977,Volkswagen,Passat,2014,Universal,200000.0,1600.0,Diesel,Manual,10999.0,2021
+29993,Toyota,C-HR,2018,Crossover,117000.0,1800.0,Hybrid,Automatic,18990.0,2021
+11996,Chevrolet,Aveo,2011,Sedan,149000.0,1398.0,Petrol,Manual,4500.0,2021
+15024,Audi,80,1992,Sedan,200000.0,2000.0,Petrol,Manual,1897.0,2021
+35686,Volvo,XC90,2003,SUV,181000.0,2900.0,Metan/Propan,Automatic,6200.0,2021
+3814,BMW,X5,2019,SUV,0.0,3000.0,Petrol,Automatic,44000.0,2021
+13844,BMW,5 Series,2013,Sedan,121235.0,3000.0,Hybrid,Automatic,21499.0,2021
+29454,Dacia,Duster,2016,SUV,170000.0,1500.0,Diesel,Manual,8999.0,2021
+7284,Nissan,Primera,2004,Sedan,223041.0,1999.0,Metan/Propan,Automatic,3300.0,2021
+34827,Toyota,Previa,2002,Minivan,470000.0,2000.0,Diesel,Manual,3500.0,2021
+10535,Ford,Fusion,2013,Sedan,179000.0,2000.0,Hybrid,Automatic,11899.0,2021
+8160,Ford,Escape,2017,Crossover,115494.0,1500.0,Petrol,Automatic,13499.0,2021
+10351,Opel,Zafira,2002,Minivan,254213.0,2000.0,Diesel,Manual,3499.0,2021
+15702,Seat,Ibiza,2012,Universal,179000.0,1200.0,Diesel,Manual,5650.0,2021
+34970,Skoda,Fabia,2004,Universal,265000.0,1400.0,Diesel,Manual,3650.0,2021
+15106,Opel,Antara,2009,SUV,158747.0,2000.0,Diesel,Manual,6500.0,2021
+9741,Volvo,800 Series,1995,Sedan,300000.0,2000.0,Metan/Propan,Automatic,1200.0,2021
+32131,Toyota,Rav 4,2016,SUV,85000.0,2497.0,Hybrid,Automatic,20000.0,2021
+11456,Honda,Prelude,1987,Coupe,267000.0,2000.0,Petrol,Manual,2600.0,2021
+4790,Toyota,Corolla,2007,Universal,202000.0,1399.0,Diesel,Manual,5950.0,2021
+1812,Hyundai,Getz,2004,Hatchback,22000.0,1500.0,Diesel,Manual,2990.0,2021
+11005,Honda,Clarity,2018,Sedan,24968.0,1500.0,Plug-in Hybrid,Automatic,16999.0,2021
+37855,UAZ,469,2000,Cabriolet,5889.0,2000.0,Petrol,Manual,2500.0,2021
+8433,Lexus,CT Series,2012,Hatchback,232142.0,1800.0,Hybrid,Automatic,11199.0,2021
+19847,Skoda,Rapid,2015,Hatchback,175000.0,1400.0,Diesel,Manual,6800.0,2021
+19058,Mercedes,E Class,2014,Sedan,251000.0,3000.0,Hybrid,Automatic,19200.0,2021
+18620,Renault,Megane,2012,Universal,160000.0,1500.0,Diesel,Manual,6299.0,2021
+26198,Dacia,Duster,2012,Crossover,178000.0,1500.0,Diesel,Manual,5999.0,2021
+3447,Volvo,V60,2015,Universal,215000.0,2400.0,Plug-in Hybrid,Automatic,13900.0,2021
+38321,Volkswagen,Jetta,1991,Sedan,403000.0,1600.0,Metan/Propan,Manual,1200.0,2021
+21601,Mitsubishi,Pajero Sport,2006,SUV,162000.0,2500.0,Diesel,Manual,8700.0,2021
+11968,Toyota,Auris,2013,Universal,228000.0,1800.0,Hybrid,Automatic,9800.0,2021
+38266,Rover,400 Series,1996,Hatchback,927350.0,1600.0,Petrol,Manual,1500.0,2021
+23526,Honda,CR-V,2011,Crossover,135000.0,2000.0,Petrol,Automatic,9900.0,2021
+33485,Renault,Megane,2017,Universal,102800.0,1500.0,Diesel,Manual,11000.0,2021
+14343,Toyota,Yaris,2007,Sedan,112663.0,1500.0,Petrol,Automatic,5799.0,2021
+16283,Chevrolet,Aveo,2006,Sedan,263000.0,1400.0,Metan/Propan,Manual,3150.0,2021
+26699,Nissan,Leaf,2018,Hatchback,11000.0,0.0,Electric,Automatic,21000.0,2021
+20867,Dacia,Sandero,2010,Hatchback,195000.0,1200.0,Petrol,Manual,3550.0,2021
+6719,Skoda,Yeti,2014,Crossover,170000.0,1800.0,Petrol,Automatic,11200.0,2021
+35462,BMW,X5,2010,SUV,121000.0,3000.0,Diesel,Automatic,31000.0,2021
+23199,BMW,3 Series,1997,Sedan,190000.0,1800.0,Petrol,Manual,1850.0,2021
+34994,Opel,Vivaro,2008,Microvan,350567.0,1998.0,Diesel,Manual,6555.0,2021
+4602,Dacia,Duster,2016,Crossover,126952.0,1500.0,Diesel,Manual,9699.0,2021
+15220,Nissan,Qashqai,2017,SUV,144600.0,1600.0,Diesel,Automatic,16500.0,2021
+32604,Lexus,GS Series,2015,Sedan,132557.0,3500.0,Hybrid,Automatic,25690.0,2021
+10683,Mercedes,C Class,2010,Sedan,222222.0,2200.0,Diesel,Automatic,10900.0,2021
+17136,Mazda,Tribute,2003,Crossover,230000.0,1998.0,Petrol,Manual,5000.0,2021
+17633,Mercedes,C Class,2001,Sedan,330000.0,2000.0,Metan/Propan,Manual,4500.0,2021
+9181,Toyota,Avensis,2011,Universal,222321.0,2200.0,Diesel,Manual,10199.0,2021
+35247,Toyota,Auris,2015,Universal,159000.0,1500.0,Diesel,Manual,8299.0,2021
+24019,Renault,Kangoo,2014,Minivan,148084.0,1500.0,Diesel,Manual,6199.0,2021
+2006,Isuzu,Altele,1989,SUV,123456.0,2559.0,Petrol,Manual,950.0,2021
+22682,Volkswagen,Passat,2006,Hatchback,343000.0,2000.0,Diesel,Automatic,2975.0,2021
+20414,Volkswagen,Touareg,2007,SUV,185000.0,2500.0,Diesel,Automatic,12500.0,2021
+2978,BMW,5 Series,2017,Sedan,110000.0,2000.0,Diesel,Automatic,27900.0,2021
+28532,Hyundai,Tucson,2005,Crossover,216700.0,2000.0,Diesel,Automatic,5759.0,2021
+39998,Honda,Civic,2008,Sedan,230000.0,1300.0,Hybrid,Automatic,5500.0,2021
+8051,Mercedes,E Class,2016,Sedan,12351.0,2000.0,Petrol,Automatic,25499.0,2021
+35836,Renault,Scenic,2005,Sedan,210000.0,1500.0,Diesel,Manual,2800.0,2021
+22693,Rover,45,2000,Hatchback,168000.0,1400.0,Metan/Propan,Manual,1500.0,2021
+20770,Ford,Courier,2000,Minivan,194000.0,2000.0,Diesel,Manual,1650.0,2021
+32948,Mazda,323,1994,Sedan,350000.0,1500.0,Petrol,Manual,999.0,2021
+32486,Chevrolet,Captiva,2008,SUV,212000.0,2000.0,Diesel,Manual,7500.0,2021
+8882,Toyota,Prius,2013,Hatchback,132000.0,1800.0,Hybrid,Automatic,9799.0,2021
+38431,Toyota,Rav 4,1999,SUV,156000.0,2000.0,Petrol,Automatic,2100.0,2021
+14958,Mercedes,M Class,2013,Crossover,144788.0,2200.0,Diesel,Automatic,27900.0,2021
+34011,Volkswagen,Passat,1990,Universal,270000.0,1800.0,Petrol,Manual,800.0,2021
+1317,Toyota,Camry,2005,Sedan,157085.0,2400.0,Metan/Propan,Automatic,5500.0,2021
+1990,Lexus,NX Series,2015,Crossover,149000.0,2500.0,Hybrid,Automatic,21750.0,2021
+26676,Skoda,Fabia,2009,Universal,252000.0,1400.0,Diesel,Manual,4000.0,2021
+21186,Seat,Alhambra,1999,Minivan,251000.0,2000.0,Metan/Propan,Manual,3600.0,2021
+3429,BMW,5 Series,2017,Sedan,199000.0,2000.0,Diesel,Automatic,28200.0,2021
+31880,Opel,Astra,2005,Minivan,270000.0,1901.0,Diesel,Manual,1700.0,2021
+39312,KIA,Clarus,2000,Hatchback,147000.0,2000.0,Petrol,Manual,2500.0,2021
+13462,Honda,Accord,1995,Sedan,231000.0,2000.0,Petrol,Manual,2500.0,2021
+34107,Toyota,GT86,2012,Coupe,49000.0,2000.0,Petrol,Automatic,17000.0,2021
+18118,Honda,Civic,2000,Sedan,222222.0,1500.0,Petrol,Manual,4000.0,2021
+36895,Opel,Kadett,1991,Coupe,200000.0,1400.0,Petrol,Manual,550.0,2021
+4953,Hyundai,Santa FE,2015,Crossover,187000.0,2200.0,Diesel,Automatic,19900.0,2021
+7268,Dacia,Logan,2005,Sedan,273000.0,1400.0,Petrol,Manual,2750.0,2021
+6916,Audi,A6,2018,Sedan,12000.0,2995.0,Petrol,Automatic,33999.0,2021
+16990,Toyota,Matrix,2003,Minivan,200000.0,1800.0,Metan/Propan,Automatic,3900.0,2021
+11360,Volkswagen,Golf Plus,2005,Hatchback,270000.0,1900.0,Diesel,Manual,4500.0,2021
+39587,Nissan,Almera,1993,Sedan,180000.0,1600.0,Petrol,Manual,700.0,2021
+27793,Toyota,Rav 4,2011,Crossover,121000.0,2200.0,Diesel,Manual,7800.0,2021
+11796,Nissan,Qashqai,2010,Universal,1111.0,1461.0,Diesel,Manual,7200.0,2021
+17479,Skoda,Fabia,2012,Universal,188000.0,1200.0,Diesel,Manual,4950.0,2021
+20270,BMW,5 Series,2017,Sedan,68000.0,1995.0,Diesel,Automatic,31900.0,2021
+38300,Nissan,Primera,1992,Sedan,372000.0,1600.0,Petrol,Manual,900.0,2021
+12811,Mercedes,E Class,2001,Sedan,330000.0,2200.0,Diesel,Automatic,4650.0,2021
+9686,Toyota,Corolla,2016,Sedan,145000.0,1400.0,Diesel,Manual,9650.0,2021
+6541,Volkswagen,Transporter,2009,Microvan,200000.0,2000.0,Diesel,Manual,9999.0,2021
+19167,BMW,3 Series,1998,Sedan,311000.0,1998.0,Diesel,Manual,3500.0,2021
+18106,Mazda,626,1999,Hatchback,263000.0,1800.0,Metan/Propan,Manual,1000.0,2021
+37637,KIA,Ceed,2008,Hatchback,183800.0,1600.0,Petrol,Automatic,4000.0,2021
+17355,BMW,3 Series,2016,Sedan,130000.0,2000.0,Plug-in Hybrid,Automatic,23900.0,2021
+38847,Land Rover,Freelander,2009,SUV,150000.0,2200.0,Diesel,Automatic,5500.0,2021
+1258,Skoda,Superb,2009,Sedan,280000.0,2000.0,Diesel,Automatic,10000.0,2021
+37489,Audi,A4,2003,Sedan,132000.0,1800.0,Petrol,Manual,3100.0,2021
+34253,Toyota,Rav 4,2003,Crossover,146000.0,2000.0,Petrol,Manual,3600.0,2021
+32012,Mercedes,S Class,2008,Coupe,280000.0,3000.0,Metan/Propan,Automatic,14000.0,2021
+24533,Toyota,Land Cruiser Prado,2014,SUV,147000.0,2700.0,Petrol,Automatic,21999.0,2021
+9770,BMW,X3,2013,Crossover,107217.0,1995.0,Diesel,Automatic,18500.0,2021
+29764,Toyota,Corolla,2005,Sedan,287425.0,1390.0,Diesel,Automatic,4799.0,2021
+22937,Volkswagen,Passat,2012,Universal,330000.0,1598.0,Diesel,Manual,6500.0,2021
+36873,Toyota,Prius,2018,Hatchback,38531.0,1800.0,Hybrid,Automatic,10300.0,2021
+33112,Opel,Tigra,1995,Coupe,300000.0,1400.0,Petrol,Manual,2000.0,2021
+13392,Suzuki,Jimny,2002,SUV,155000.0,1364.0,Metan/Propan,Manual,3500.0,2021
+30528,BMW,X5,2007,SUV,160000.0,3000.0,Diesel,Automatic,10000.0,2021
+17134,Mazda,2,2007,Hatchback,2222.0,1400.0,Diesel,Automatic,2000.0,2021
+16391,Ford,Focus,2015,Universal,130000.0,999.0,Petrol,Manual,6200.0,2021
+36394,Mercedes,C Class,2003,Universal,550000.0,2196.0,Diesel,Manual,4350.0,2021
+37483,Opel,Astra,2012,Universal,212000.0,1300.0,Diesel,Manual,7000.0,2021
+18929,Audi,Q7,2017,SUV,50000.0,2000.0,Petrol,Automatic,39000.0,2021
+26003,Audi,80,1993,Sedan,400000.0,2000.0,Metan/Propan,Manual,1800.0,2021
+26178,Seat,Arosa,2001,Hatchback,123000.0,1000.0,Petrol,Manual,1300.0,2021
+17254,Renault,Kangoo,2001,Minivan,165000.0,1900.0,Diesel,Manual,1700.0,2021
+10081,Lexus,RX Series,2005,Crossover,256218.0,3300.0,Metan/Propan,Automatic,10999.0,2021
+7057,Dacia,Logan,2009,Sedan,296000.0,1400.0,Metan/Propan,Manual,2200.0,2021
+39541,Renault,Clio,2006,Sedan,158000.0,1400.0,Petrol,Manual,2950.0,2021
+40738,Toyota,Avensis,2007,Sedan,305000.0,2200.0,Diesel,Manual,7450.0,2021
+13126,Toyota,Yaris,2007,Coupe,207000.0,1000.0,Metan/Propan,Manual,3100.0,2021
+25679,Renault,Megane,2017,Universal,109000.0,1461.0,Diesel,Automatic,12999.0,2021
+13047,BMW,X5,2013,Crossover,236000.0,2993.0,Diesel,Automatic,30000.0,2021
+16897,Mazda,MPV,2002,Minivan,426000.0,2000.0,Diesel,Manual,2500.0,2021
+29698,Mercedes,M Class,2008,SUV,256854.0,3200.0,Diesel,Automatic,7699.0,2021
+15655,Volkswagen,Vento,1993,Sedan,20000.0,1781.0,Petrol,Manual,1100.0,2021
+31613,Volkswagen,Golf,2013,Hatchback,80000.0,2000.0,Petrol,Automatic,11800.0,2021
+39405,Vaz,2114,2007,Hatchback,95000.0,1600.0,Petrol,Manual,1600.0,2021
+17329,Toyota,Land Cruiser,2013,Crossover,110850.0,2700.0,Metan/Propan,Automatic,25800.0,2021
+39105,Peugeot,1007,2006,Hatchback,156000.0,1400.0,Petrol,Automatic,2100.0,2021
+17380,Audi,A8,1998,Sedan,300000.0,2500.0,Diesel,Automatic,3700.0,2021
+18419,Suzuki,Wagon R+,2001,Universal,210665.0,1298.0,Petrol,Manual,1400.0,2021
+34643,Volvo,XC90,2016,SUV,116000.0,1969.0,Diesel,Automatic,22900.0,2021
+26962,Mazda,CX-30,2021,Crossover,0.0,2000.0,Petrol,Automatic,26400.0,2021
+1237,Lexus,RX Series,2004,SUV,216000.0,2995.0,Metan/Propan,Automatic,8800.0,2021
+24945,Audi,Q5,2018,SUV,55930.0,1984.0,Petrol,Automatic,31800.0,2021
+22983,KIA,Sportage,2020,SUV,30000.0,1600.0,Petrol,Automatic,17450.0,2021
+29226,Volkswagen,Vento,1993,Sedan,32000.0,1800.0,Petrol,Manual,1250.0,2021
+31607,Renault,Scenic,2004,Minivan,200000.0,1500.0,Diesel,Manual,3100.0,2021
+38520,Audi,A6,1995,Sedan,468329.0,2500.0,Diesel,Manual,2250.0,2021
+28824,Rover,25,2004,Hatchback,1111.0,1111.0,Petrol,Manual,1700.0,2021
+6321,Toyota,Auris,2010,Hatchback,199000.0,1400.0,Diesel,Manual,6199.0,2021
+33302,Audi,A3,2014,Hatchback,169000.0,1400.0,Petrol,Automatic,12600.0,2021
+3414,Volkswagen,Transporter,1993,Minivan,274000.0,2400.0,Diesel,Manual,2400.0,2021
+30752,Suzuki,Alto,2005,Hatchback,580000.0,1000.0,Petrol,Manual,1100.0,2021
+38997,Honda,CR-V,2021,Crossover,7665.0,2000.0,Hybrid,Automatic,20300.0,2021
+30080,Opel,Mokka,2012,Crossover,210000.0,1700.0,Diesel,Automatic,10500.0,2021
+15004,Ford,Galaxy,2003,Minivan,360000.0,1900.0,Diesel,Manual,3650.0,2021
+37437,Ford,Fiesta,2014,Hatchback,30000.0,999.0,Petrol,Automatic,8900.0,2021
+24799,Honda,Accord,1993,Sedan,111111.0,2000.0,Metan/Propan,Manual,1200.0,2021
+20160,BMW,5 Series,2001,Sedan,250000.0,2800.0,Metan/Propan,Manual,5500.0,2021
+22041,Volkswagen,Passat,1995,Universal,250000.0,2000.0,Metan/Propan,Manual,2450.0,2021
+15862,Land Rover,Range Rover Sport,2008,SUV,220000.0,4400.0,Metan/Propan,Automatic,13500.0,2021
+2316,Skoda,Roomster,2012,Minivan,70000.0,1200.0,Petrol,Manual,5600.0,2021
+10323,Renault,Captur,2021,Crossover,0.0,1600.0,Plug-in Hybrid,Automatic,25860.0,2021
+40379,Rover,45,2003,Sedan,260000.0,1600.0,Metan/Propan,Manual,2550.0,2021
+18909,Renault,Safrane,1994,Hatchback,452348.0,2199.0,Petrol,Manual,650.0,2021
+5942,Honda,CR-V,2007,SUV,165000.0,2400.0,Petrol,Automatic,9499.0,2021
+10689,Ford,S-Max,2006,Minivan,201000.0,1800.0,Diesel,Manual,4200.0,2021
+14384,Toyota,Auris,2017,Hatchback,173774.0,1400.0,Diesel,Manual,10999.0,2021
+39698,Mazda,626,1993,Sedan,123456.0,1800.0,Petrol,Manual,1550.0,2021
+40376,BMW,5 Series,2015,Sedan,130081.0,1995.0,Diesel,Automatic,24900.0,2021
+22393,Renault,Megane,2015,Universal,210000.0,1498.0,Diesel,Manual,6900.0,2021
+31013,Vaz,2102,1985,Universal,13200.0,1198.0,Petrol,Manual,12000.0,2021
+40294,KIA,Ceed Sw,2021,Universal,0.0,1600.0,Petrol,Automatic,18300.0,2021
+9771,Ford,EcoSport,1995,Universal,2500.0,1600.0,Petrol,Manual,650.0,2021
+20983,BAIC,EU5,2020,Sedan,0.0,0.0,Electric,Automatic,23499.0,2021
+40769,Audi,A4,2001,Sedan,300000.0,2500.0,Diesel,Manual,2000.0,2021
+10245,Mercedes,A Class,2011,Hatchback,140000.0,1700.0,Petrol,Automatic,7500.0,2021
+18365,Rover,600 Series,1996,Sedan,11111.0,1800.0,Metan/Propan,Manual,700.0,2021
+28817,Opel,Insignia,2012,Sedan,165000.0,2000.0,Diesel,Automatic,8500.0,2021
+26266,Renault,Megane,2004,Sedan,280000.0,1500.0,Diesel,Manual,2200.0,2021
+7283,Audi,A6,2002,Universal,289134.0,2500.0,Diesel,Manual,3999.0,2021
+38895,Volvo,XC90,2007,SUV,217000.0,2400.0,Diesel,Automatic,13000.0,2021
+24048,KIA,Rio,2001,Sedan,200000.0,1500.0,Petrol,Automatic,1300.0,2021
+40576,Renault,Grand Scenic,2015,Minivan,158000.0,1500.0,Diesel,Automatic,7990.0,2021
+6416,Mercedes,GLK Class,2013,Crossover,137000.0,2200.0,Diesel,Automatic,19999.0,2021
+27639,Skoda,Fabia,2004,Universal,199000.0,1400.0,Petrol,Manual,1800.0,2021
+15668,Mercedes,B Class,2013,Hatchback,108000.0,1590.0,Petrol,Manual,11990.0,2021
+35115,Mercedes,GLK Class,2014,Crossover,59000.0,2200.0,Diesel,Automatic,30000.0,2021
+2113,Opel,Corsa,2008,Hatchback,313000.0,1300.0,Diesel,Manual,3450.0,2021
+2785,Renault,Scenic,2013,Universal,165000.0,1500.0,Diesel,Manual,6990.0,2021
+31477,BMW,X6,2014,SUV,122000.0,3000.0,Metan/Propan,Automatic,12999.0,2021
+25116,Nissan,Note,2015,Hatchback,171354.0,1500.0,Diesel,Manual,6850.0,2021
+6093,Renault,Scenic,2015,Universal,192000.0,1500.0,Diesel,Automatic,8150.0,2021
+17819,Mitsubishi,Montero Sport,1996,Crossover,96947.0,3500.0,Petrol,Automatic,6999.0,2021
+33332,Mitsubishi,Galant,1991,Sedan,309956.0,1800.0,Petrol,Manual,2000.0,2021
+15428,Audi,A4,2011,Universal,128000.0,2000.0,Diesel,Automatic,6200.0,2021
+23119,BMW,7 Series,2003,Sedan,360000.0,2993.0,Diesel,Automatic,7550.0,2021
+27529,Opel,Corsa,2013,Hatchback,165000.0,1300.0,Diesel,Manual,5800.0,2021
+21077,Mitsubishi,Pajero,2001,SUV,221600.0,3148.0,Diesel,Manual,7400.0,2021
+38420,Opel,Vectra,1998,Universal,156000.0,1600.0,Petrol,Manual,1200.0,2021
+28144,Audi,A4,2005,Universal,240000.0,2999.0,Diesel,Manual,5700.0,2021
+3191,Mercedes,S Class,1998,Sedan,340000.0,2996.0,Diesel,Automatic,11500.0,2021
+33105,Skoda,Fabia,2008,Universal,199980.0,1422.0,Diesel,Manual,4800.0,2021
+27977,Dacia,Logan,2015,Sedan,320000.0,1200.0,Metan/Propan,Manual,3150.0,2021
+28085,Mazda,5,2006,Minivan,185000.0,1800.0,Metan/Propan,Manual,3450.0,2021
+34344,Peugeot,Partner,2006,Minivan,243666.0,1600.0,Petrol,Manual,3350.0,2021
+22748,Volkswagen,Caddy,2008,Minivan,280000.0,1900.0,Diesel,Manual,5500.0,2021
+36790,Peugeot,208,2008,Hatchback,187000.0,1400.0,Diesel,Manual,2500.0,2021
+21631,Audi,A4,2002,Universal,265000.0,2000.0,Petrol,Manual,1950.0,2021
+34997,Toyota,Corolla,2021,Sedan,6629.0,1798.0,Petrol,Automatic,9100.0,2021
+10545,BMW,X1,2012,SUV,181000.0,2800.0,Petrol,Automatic,12500.0,2021
+34635,Lincoln,MKZ,2017,Sedan,134000.0,2000.0,Hybrid,Automatic,19999.0,2021
+9513,BMW,3 Series,2012,Sedan,168493.0,2000.0,Petrol,Automatic,14999.0,2021
+22832,Audi,A4,2009,Universal,169000.0,2000.0,Petrol,Automatic,10500.0,2021
+5122,Opel,Astra,1993,Hatchback,220000.0,1400.0,Petrol,Manual,1650.0,2021
+29325,Volkswagen,Golf,2009,Universal,200000.0,1400.0,Petrol,Manual,5500.0,2021
+15338,Renault,Megane,2013,Universal,265000.0,1500.0,Diesel,Manual,6200.0,2021
+5640,Dacia,Logan,2008,Sedan,320000.0,1600.0,Metan/Propan,Manual,3200.0,2021
+4805,Dacia,Dokker,2014,Minivan,69807.0,1600.0,Petrol,Manual,5199.0,2021
+35317,Hyundai,Elantra,2001,Hatchback,300000.0,1600.0,Petrol,Manual,1500.0,2021
+33982,BMW,3 Series,1999,Sedan,298000.0,2000.0,Diesel,Manual,2350.0,2021
+15363,Toyota,Rav 4,2018,SUV,32000.0,2000.0,Petrol,Automatic,20000.0,2021
+40409,Hyundai,Santa FE,2019,SUV,57000.0,1995.0,Diesel,Automatic,25499.0,2021
+1674,Volkswagen,Passat,2004,Sedan,320000.0,1900.0,Diesel,Manual,4299.0,2021
+33591,BMW,3 Series,1996,Sedan,357548.0,1600.0,Petrol,Manual,1600.0,2021
+39602,Volkswagen,Vento,1993,Sedan,20165.0,1800.0,Metan/Propan,Manual,1500.0,2021
+24509,Citroen,C3,2010,Hatchback,235000.0,1600.0,Diesel,Manual,3200.0,2021
+4398,Ford,C-Max,2010,Microvan,199000.0,1998.0,Diesel,Manual,4000.0,2021
+10693,Renault,Megane,2009,Universal,120000.0,1500.0,Diesel,Manual,3200.0,2021
+37146,Audi,A6,1996,Sedan,243000.0,2000.0,Petrol,Manual,2500.0,2021
+15898,Renault,Megane,2005,Coupe,290000.0,1500.0,Diesel,Manual,1999.0,2021
+12924,BMW,5 Series,2007,Sedan,400000.0,2000.0,Diesel,Automatic,7999.0,2021
+21261,Skoda,Superb,2014,Sedan,166000.0,2000.0,Diesel,Manual,12299.0,2021
+30902,Alfa Romeo,156,2000,Sedan,111111.0,2000.0,Metan/Propan,Manual,1600.0,2021
+36079,Seat,Ibiza,2011,Universal,195000.0,1200.0,Diesel,Manual,4800.0,2021
+30808,Nissan,Note,2007,Hatchback,13000.0,1400.0,Petrol,Manual,2200.0,2021
+32070,Mercedes,E Class,2002,Sedan,345800.0,2700.0,Diesel,Automatic,7999.0,2021
+37736,Dacia,Duster,2014,Crossover,150000.0,1500.0,Diesel,Manual,8000.0,2021
+32343,Opel,Astra,2003,Universal,212000.0,1598.0,Metan/Propan,Manual,3000.0,2021
+32425,Volkswagen,Passat,2015,Sedan,61000.0,1799.0,Petrol,Automatic,9950.0,2021
+40504,BMW,3 Series,1995,Sedan,355464.0,1596.0,Petrol,Manual,1300.0,2021
+31493,Citroen,Berlingo,2010,Minivan,151000.0,1600.0,Diesel,Manual,5990.0,2021
+21500,Audi,A6,2000,Universal,400000.0,2500.0,Diesel,Manual,3900.0,2021
+7557,Toyota,Auris,2014,Universal,140000.0,1800.0,Hybrid,Automatic,9200.0,2021
+28834,Opel,Astra,2006,Universal,1111.0,1300.0,Diesel,Manual,1600.0,2021
+38718,Seat,Ibiza,2007,Hatchback,150000.0,1400.0,Diesel,Manual,2500.0,2021
+7408,Skoda,Octavia,2007,Hatchback,205000.0,1600.0,Metan/Propan,Manual,3450.0,2021
+7462,Skoda,Superb,2020,Sedan,9300.0,2000.0,Diesel,Automatic,33550.0,2021
+12917,Mercedes,E Class,2011,Sedan,215000.0,2500.0,Diesel,Automatic,13800.0,2021
+38884,Volvo,S60,2015,Hatchback,51000.0,2020.0,Petrol,Automatic,12400.0,2021
+6329,Mercedes,GLK Class,2013,Crossover,160000.0,2200.0,Diesel,Automatic,19999.0,2021
+11993,Renault,Grand Scenic,2013,Combi,153200.0,1461.0,Diesel,Manual,5999.0,2021
+1245,Jaguar,F-PACE,2018,Crossover,69000.0,1997.0,Petrol,Automatic,33000.0,2021
+22631,Vaz,2113,1984,Sedan,20000.0,1300.0,Metan/Propan,Manual,5000.0,2021
+11784,Skoda,Octavia,2013,Sedan,97500.0,1200.0,Petrol,Manual,8700.0,2021
+31764,Dacia,Logan,2007,Sedan,213430.0,1390.0,Metan/Propan,Automatic,3200.0,2021
+15925,Opel,Astra,2012,Universal,165000.0,1300.0,Diesel,Manual,6600.0,2021
+9570,Renault,Scenic,2013,Universal,180000.0,1500.0,Diesel,Manual,7699.0,2021
+21054,Audi,A6,1998,Sedan,183412.0,2400.0,Petrol,Manual,4000.0,2021
+4735,BMW,5 Series,2017,Sedan,129000.0,2000.0,Diesel,Automatic,26999.0,2021
+22456,Mercedes,E Class,2011,Sedan,126000.0,1800.0,Petrol,Automatic,15799.0,2021
+29827,Toyota,Auris,2014,Universal,164000.0,1800.0,Petrol,Automatic,9699.0,2021
+34894,Nissan,Almera Tino,2003,Minivan,273000.0,2200.0,Diesel,Manual,2800.0,2021
+29532,Toyota,Avensis,2004,Sedan,264000.0,1995.0,Diesel,Manual,2900.0,2021
+2122,Skoda,Roomster,2009,Universal,208000.0,1400.0,Diesel,Manual,4200.0,2021
+6676,Nissan,Juke,2011,Crossover,170000.0,1600.0,Petrol,Automatic,8900.0,2021
+21918,BMW,5 Series,1988,Sedan,45000.0,2500.0,Metan/Propan,Manual,2100.0,2021
+32163,Lexus,Es Series,2015,Sedan,240000.0,2500.0,Hybrid,Automatic,23000.0,2021
+11349,Toyota,Rav 4,2007,Crossover,235000.0,2200.0,Diesel,Manual,9000.0,2021
+17306,KIA,Optima,2014,Sedan,81000.0,2000.0,Metan/Propan,Automatic,11000.0,2021
+31036,Toyota,Avensis,2003,Hatchback,230000.0,1800.0,Petrol,Manual,5100.0,2021
+13832,Mercedes,E Class,2016,Sedan,114665.0,2200.0,Diesel,Automatic,20999.0,2021
+33557,Peugeot,306,1994,Sedan,263485.0,1400.0,Petrol,Manual,800.0,2021
+18295,Opel,Zafira,2013,Microvan,1000000.0,2000.0,Metan/Propan,Automatic,9000.0,2021
+14264,Renault,Megane,2012,Universal,199759.0,1500.0,Diesel,Manual,7099.0,2021
+3273,Renault,Megane,2010,Universal,250999.0,1500.0,Diesel,Manual,4999.0,2021
+29926,Renault,Scenic,2007,Minivan,220000.0,1500.0,Diesel,Manual,1750.0,2021
+11363,Volkswagen,Passat,2016,Sedan,65000.0,1798.0,Petrol,Automatic,14500.0,2021
+23793,Toyota,Corolla,2015,Sedan,136461.0,1400.0,Diesel,Manual,10999.0,2021
+648,Hyundai,Getz,2007,Hatchback,175000.0,1500.0,Diesel,Manual,3900.0,2021
+9284,Audi,A6,2008,Sedan,191930.0,2000.0,Petrol,Manual,10999.0,2021
+16556,Audi,A4,2003,Sedan,78000.0,2500.0,Diesel,Automatic,7000.0,2021
+5025,Renault,Grand Scenic,2011,Universal,11111.0,1500.0,Diesel,Manual,5450.0,2021
+6773,Lexus,NX Series,2014,Crossover,110000.0,2500.0,Hybrid,Automatic,26500.0,2021
+34958,Opel,Astra,2005,Hatchback,350000.0,1700.0,Diesel,Manual,4650.0,2021
+1763,Nissan,Qashqai,2017,Crossover,44000.0,1500.0,Diesel,Manual,16990.0,2021
+29115,Opel,Corsa,1995,Hatchback,230000.0,1200.0,Metan/Propan,Manual,1000.0,2021
+31394,Hyundai,Accent,2005,Sedan,130000.0,1500.0,Petrol,Automatic,4450.0,2021
+14497,BMW,7 Series,2014,Sedan,166600.0,3000.0,Diesel,Automatic,29000.0,2021
+40048,Skoda,Octavia,2012,Hatchback,154000.0,1400.0,Petrol,Manual,7900.0,2021
+588,Skoda,Octavia,2005,Universal,180000.0,2000.0,Petrol,Manual,5300.0,2021
+27644,Audi,A4,1995,Sedan,259231.0,1800.0,Petrol,Manual,2800.0,2021
+40063,Mercedes,M Class,2014,Crossover,160000.0,2143.0,Diesel,Automatic,28900.0,2021
+30617,Audi,A8,2006,Sedan,5168.0,2000.0,Diesel,Automatic,4123.0,2021
+33911,Skoda,Octavia,2010,Universal,242000.0,1400.0,Petrol,Automatic,6300.0,2021
+29457,Skoda,Octavia,2016,Sedan,175000.0,2000.0,Diesel,Automatic,13590.0,2021
+30929,Renault,Megane,2006,Universal,11111.0,1500.0,Diesel,Manual,1750.0,2021
+17666,Porsche,Panamera,2012,Hatchback,45000.0,3000.0,Diesel,Automatic,38000.0,2021
+22858,Mercedes,E Class,2012,Sedan,180000.0,2143.0,Diesel,Automatic,17500.0,2021
+25609,Renault,Megane,2012,Universal,140000.0,1461.0,Diesel,Automatic,7399.0,2021
+37578,Renault,Clio,2016,Universal,144000.0,1500.0,Diesel,Automatic,7800.0,2021
+10008,Renault,Scenic,2012,Universal,174144.0,1500.0,Diesel,Manual,6199.0,2021
+38806,Ford,Fiesta 3D,2007,Hatchback,178000.0,1400.0,Diesel,Manual,2100.0,2021
+7422,Mercedes,C Class,2014,Sedan,107000.0,2143.0,Diesel,Automatic,23000.0,2021
+32736,Volkswagen,Tiguan,2012,Hatchback,235000.0,2000.0,Diesel,Manual,13200.0,2021
+34611,Ford,Transit Connect,2012,Minivan,190000.0,1800.0,Diesel,Manual,4300.0,2021
+30792,Toyota,Camry,2013,Sedan,78000.0,2500.0,Hybrid,Automatic,8600.0,2021
+28816,Suzuki,Swift,2007,Hatchback,200000.0,1300.0,Petrol,Manual,1250.0,2021
+38476,Ford,Mondeo,1999,Universal,32000.0,1800.0,Diesel,Manual,500.0,2021
+19118,Volkswagen,Sharan,2003,Minivan,270000.0,1900.0,Diesel,Manual,2400.0,2021
+17157,Ford,Focus,2017,Hatchback,31000.0,999.0,Petrol,Manual,7500.0,2021
+39944,Subaru,Outback,2008,Universal,229000.0,2457.0,Metan/Propan,Automatic,6999.0,2021
+12438,Hyundai,Avante,2017,Sedan,93000.0,1600.0,Metan/Propan,Automatic,11999.0,2021
+13969,Bentley,Continental,2006,Sedan,55902.0,5998.0,Petrol,Automatic,46499.0,2021
+4514,Toyota,Auris,2011,Hatchback,163000.0,1800.0,Metan/Propan,Automatic,7800.0,2021
+12961,BMW,5 Series,2000,Sedan,477333.0,2000.0,Metan/Propan,Manual,4333.0,2021
+34871,Volkswagen,Passat,1998,Sedan,221000.0,1800.0,Petrol,Manual,1550.0,2021
+29257,Nissan,Qashqai,2009,SUV,187000.0,1500.0,Diesel,Manual,5700.0,2021
+26904,Audi,80,1993,Universal,277700.0,2600.0,Metan/Propan,Manual,2100.0,2021
+1935,BMW,5 Series,2010,Sedan,222500.0,2500.0,Petrol,Automatic,12700.0,2021
+38699,BMW,X5,2006,SUV,260000.0,3000.0,Diesel,Automatic,5750.0,2021
+18899,Ford,Mondeo,2016,Universal,179150.0,1500.0,Diesel,Manual,9300.0,2021
+7367,BMW,X3,2014,Crossover,217000.0,2000.0,Diesel,Automatic,21800.0,2021
+6949,Volkswagen,Polo,1999,Universal,1111.0,1900.0,Diesel,Manual,1400.0,2021
+19896,Volkswagen,Touran,2008,Minivan,191000.0,1400.0,Petrol,Manual,6200.0,2021
+28106,Skoda,Rapid,2015,Hatchback,175000.0,1422.0,Diesel,Manual,7450.0,2021
+16026,Opel,Corsa,2002,Sedan,238987.0,1200.0,Petrol,Manual,1700.0,2021
+5425,Porsche,Cayenne,2014,SUV,136000.0,3000.0,Diesel,Automatic,33550.0,2021
+19776,Opel,Vectra,2004,Hatchback,315000.0,2172.0,Diesel,Manual,4100.0,2021
+24552,Skoda,Superb,2002,Sedan,365000.0,1800.0,Metan/Propan,Manual,4300.0,2021
+26455,Hyundai,Genesis,2021,SUV,5000.0,2497.0,Petrol,Automatic,57099.0,2021
+37924,Dacia,Logan,2007,Sedan,480000.0,1400.0,Metan/Propan,Manual,2700.0,2021
+5026,Mercedes,E Class,2011,Sedan,241816.0,2200.0,Diesel,Automatic,13500.0,2021
+38826,Audi,Q5,2010,Crossover,174000.0,2000.0,Petrol,Automatic,12800.0,2021
+20061,KIA,Sportage,2008,Crossover,211000.0,2000.0,Diesel,Manual,3550.0,2021
+634,Honda,CR-V,2014,Crossover,169200.0,2200.0,Diesel,Manual,17250.0,2021
+11194,Honda,CR-V,2008,Crossover,233000.0,2000.0,Petrol,Automatic,10500.0,2021
+3223,Volvo,V90,2017,Universal,365000.0,2000.0,Metan/Propan,Automatic,15100.0,2021
+24304,Audi,100,1995,Sedan,254000.0,1800.0,Metan/Propan,Manual,1200.0,2021
+29416,KIA,Sportage,2014,SUV,254566.0,2200.0,Petrol,Automatic,9871.0,2021
+27390,Opel,Astra,1995,Universal,365000.0,1400.0,Petrol,Manual,1250.0,2021
+3703,Jaguar,Xf,2011,Sedan,225000.0,2200.0,Diesel,Automatic,12500.0,2021
+22760,Renault,Grand Scenic,2012,Universal,250000.0,1500.0,Diesel,Manual,4000.0,2021
+3928,Dacia,Duster,2012,Crossover,100000.0,1500.0,Diesel,Manual,7990.0,2021
+40838,Nissan,Qashqai,2010,Crossover,195000.0,1500.0,Diesel,Manual,8400.0,2021
+16880,Toyota,Auris,2016,Universal,165000.0,1800.0,Hybrid,Automatic,10850.0,2021
+11310,KIA,Rio,2015,Hatchback,165000.0,1200.0,Diesel,Manual,6500.0,2021
+20419,Renault,Grand Scenic,2012,Minivan,214000.0,1461.0,Diesel,Manual,7850.0,2021
+28570,Mitsubishi,Grandis,2006,Minivan,123000.0,2000.0,Petrol,Manual,3500.0,2021
+7587,Mitsubishi,Outlander,2014,SUV,183400.0,2000.0,Plug-in Hybrid,Automatic,13600.0,2021
+40358,Volkswagen,Jetta,2013,Sedan,202000.0,1400.0,Hybrid,Automatic,8500.0,2021
+9674,Renault,ZOE,2015,Hatchback,36000.0,0.0,Electric,Automatic,9499.0,2021
+2915,Hyundai,Tucson,2017,SUV,47000.0,1600.0,Petrol,Automatic,18999.0,2021
+19081,Dacia,Logan Mcv,2007,Universal,282074.0,1461.0,Diesel,Manual,3999.0,2021
+37431,Mercedes,Viano,2008,Universal,187000.0,2200.0,Diesel,Automatic,6200.0,2021
+25231,Nissan,Qashqai,2014,Crossover,187000.0,1500.0,Diesel,Manual,12950.0,2021
+13610,Volkswagen,Caddy,2013,Minivan,280000.0,2000.0,Diesel,Manual,6950.0,2021
+13593,Mercedes,Vito,2015,Minivan,262500.0,1600.0,Diesel,Manual,14500.0,2021
+32837,BMW,5 Series,1990,Sedan,350000.0,1991.0,Metan/Propan,Manual,1100.0,2021
+22397,Honda,CR-V,2005,SUV,305000.0,2000.0,Metan/Propan,Manual,7500.0,2021
+19047,Audi,Q7,2008,Crossover,216000.0,4200.0,Petrol,Automatic,15000.0,2021
+18012,Volkswagen,Passat,2004,Sedan,150333.0,1900.0,Diesel,Manual,2850.0,2021
+40201,Skoda,Fabia,2006,Universal,360000.0,1200.0,Petrol,Manual,2500.0,2021
+5396,Renault,Megane,2006,Minivan,2588.0,1458.0,Diesel,Manual,2000.0,2021
+7394,Honda,CR-V,2001,Crossover,191000.0,2000.0,Metan/Propan,Automatic,4300.0,2021
+9610,Volkswagen,Caddy,2009,Microvan,136000.0,1400.0,Petrol,Manual,6500.0,2021
+10459,Toyota,Urban Cruiser,2010,SUV,167500.0,1400.0,Diesel,Manual,7850.0,2021
+21301,Nissan,Serena,1993,Minivan,280000.0,2000.0,Metan/Propan,Manual,1700.0,2021
+12320,Dacia,Logan,2008,Sedan,284121.0,1400.0,Metan/Propan,Manual,2999.0,2021
+17173,Hyundai,Santa FE,2016,SUV,162000.0,2200.0,Diesel,Automatic,20999.0,2021
+28782,Audi,Q5,2009,SUV,171000.0,2000.0,Petrol,Automatic,11600.0,2021
+24139,Peugeot,508,2015,Universal,151000.0,1600.0,Diesel,Automatic,10900.0,2021
+17664,Toyota,Auris,2014,Universal,160000.0,1400.0,Diesel,Manual,9500.0,2021
+39652,Honda,Accord,1993,Sedan,478000.0,1997.0,Petrol,Manual,2000.0,2021
+27209,Toyota,Land Cruiser Prado,2007,SUV,190000.0,2700.0,Metan/Propan,Automatic,12000.0,2021
+19498,BMW,5 Series,2000,Sedan,220000.0,2500.0,Petrol,Manual,5150.0,2021
+31304,Honda,CR-V,2002,SUV,350000.0,1990.0,Metan/Propan,Manual,7000.0,2021
+38700,Ford,Mondeo,1995,Sedan,200000.0,1800.0,Diesel,Manual,500.0,2021
+8806,Mercedes,V Class,2003,Minivan,479000.0,2200.0,Diesel,Manual,6399.0,2021
+11236,Chrysler,Sebring,2008,Sedan,248000.0,2700.0,Petrol,Automatic,4500.0,2021
+38509,Honda,CR-V,2016,Crossover,20000.0,2200.0,Diesel,Automatic,15999.0,2021
+24037,Seat,Toledo,2000,Sedan,196186.0,1600.0,Petrol,Manual,1430.0,2021
+15451,Audi,80,1992,Sedan,330000.0,2000.0,Metan/Propan,Manual,2200.0,2021
+23138,Nissan,Sunny,1994,Hatchback,257000.0,1400.0,Petrol,Manual,400.0,2021
+7733,Ford,Escape,2010,Universal,200000.0,0.0,Electric,Automatic,9200.0,2021
+12039,Volkswagen,Touran,2007,Minivan,146801.0,1400.0,Petrol,Automatic,6000.0,2021
+13932,BMW,X3,2015,Crossover,99933.0,2000.0,Petrol,Automatic,17999.0,2021
+2176,Honda,CR-V,2008,SUV,190000.0,2000.0,Petrol,Automatic,11000.0,2021
+13748,Volkswagen,Golf Plus,2005,Hatchback,304000.0,1400.0,Petrol,Manual,3500.0,2021
+2848,Mitsubishi,Pajero,1993,Universal,188069.0,2500.0,Diesel,Manual,6999.0,2021
+34206,BMW,3 Series,2008,Sedan,270150.0,2000.0,Petrol,Manual,6000.0,2021
+9399,Skoda,Superb,2017,Sedan,98844.0,2000.0,Diesel,Automatic,22999.0,2021
+6297,Peugeot,206,2010,Hatchback,158000.0,1400.0,Diesel,Manual,2900.0,2021
+32419,Mitsubishi,Pajero,2001,SUV,197000.0,3200.0,Diesel,Automatic,10555.0,2021
+12055,Mercedes,S Class,2016,Sedan,119000.0,2996.0,Petrol,Automatic,50900.0,2021
+34190,Toyota,Rav 4,2018,Crossover,37176.0,2500.0,Hybrid,Automatic,19600.0,2021
+11656,Toyota,Corolla,2013,Sedan,38242.0,1600.0,Metan/Propan,Manual,4150.0,2021
+33793,BMW,3 Series,2011,Sedan,188345.0,1995.0,Diesel,Manual,11500.0,2021
+2688,Hyundai,Santa FE,2016,Crossover,113445.0,2199.0,Diesel,Automatic,21500.0,2021
+34951,Mercedes,Vito,2014,Minivan,232000.0,2200.0,Diesel,Automatic,15150.0,2021
+5097,Skoda,Fabia,2012,Universal,224779.0,1200.0,Diesel,Manual,5200.0,2021
+30060,Toyota,Auris,2015,Universal,159000.0,1400.0,Diesel,Manual,8299.0,2021
+22962,Toyota,Land Cruiser Prado,2008,SUV,250000.0,3000.0,Diesel,Manual,8500.0,2021
+2045,Renault,Kadjar,2017,SUV,191000.0,1500.0,Diesel,Automatic,14500.0,2021
+22488,Dacia,Logan Mcv,2007,Universal,443000.0,1600.0,Metan/Propan,Manual,3800.0,2021
+14504,Toyota,Land Cruiser,2014,SUV,10000.0,4200.0,Diesel,Manual,42100.0,2021
+15446,Volkswagen,Caddy,2008,Minivan,317000.0,1896.0,Diesel,Manual,4000.0,2021
+7482,Peugeot,206,2000,Hatchback,146000.0,1400.0,Metan/Propan,Automatic,2600.0,2021
+12898,BMW,5 Series,1997,Sedan,30000.0,2500.0,Petrol,Manual,2500.0,2021
+16412,Dacia,Logan Mcv,2008,Universal,205273.0,1600.0,Metan/Propan,Manual,3800.0,2021
+27342,Volkswagen,Golf,1997,Hatchback,275000.0,1600.0,Petrol,Manual,2000.0,2021
+18003,Volkswagen,Tiguan,2009,Crossover,189000.0,1400.0,Petrol,Manual,8600.0,2021
+350,Toyota,Carina,1998,Sedan,268000.0,1800.0,Petrol,Manual,2650.0,2021
+23473,Alfa Romeo,156,2002,Sedan,240000.0,2400.0,Diesel,Manual,3700.0,2021
+15674,Volkswagen,Passat,2010,Universal,294226.0,1400.0,Petrol,Manual,6599.0,2021
+18631,Hyundai,H200,2001,Minivan,230000.0,2500.0,Diesel,Manual,3900.0,2021
+24431,Nissan,Primera,2004,Hatchback,245000.0,1800.0,Metan/Propan,Manual,3100.0,2021
+17903,Nissan,Qashqai+2,2012,Crossover,210438.0,1500.0,Diesel,Manual,9499.0,2021
+34837,Chevrolet,Aveo,2010,Sedan,221000.0,1206.0,Petrol,Manual,3000.0,2021
+26802,Volkswagen,Golf,2013,Hatchback,160980.0,1400.0,Petrol,Manual,9000.0,2021
+35996,BMW,5 Series,2015,Minivan,155000.0,2000.0,Diesel,Automatic,21999.0,2021
+28628,Mercedes,E Class,2005,Sedan,125000.0,2400.0,Petrol,Automatic,4600.0,2021
+11531,Dacia,Logan,2006,Sedan,152905.0,1400.0,Petrol,Manual,3450.0,2021
+38920,Nissan,Maxima,1990,Sedan,11111.0,3000.0,Metan/Propan,Manual,1500.0,2021
+22821,Mazda,3,2007,Hatchback,17000.0,1400.0,Petrol,Manual,3900.0,2021
+8761,Toyota,Corolla,2005,Hatchback,390845.0,1400.0,Diesel,Manual,5199.0,2021
+6661,Dacia,Logan,2008,Universal,350000.0,1500.0,Diesel,Manual,3700.0,2021
+19522,Nissan,Qashqai,2011,Crossover,198500.0,1500.0,Diesel,Manual,7500.0,2021
+14516,Skoda,Superb,2012,Sedan,251101.0,1600.0,Diesel,Manual,12399.0,2021
+38913,Dacia,Lodgy,2012,Minivan,205000.0,1500.0,Diesel,Manual,5999.0,2021
+22612,Skoda,Octavia,2019,Sedan,58000.0,1600.0,Petrol,Manual,14999.0,2021
+33179,Skoda,Rapid,2014,Hatchback,528000.0,1198.0,Metan/Propan,Manual,5300.0,2021
+9259,Renault,Talisman,2017,Universal,203448.0,1500.0,Diesel,Automatic,12999.0,2021
+15123,Skoda,Fabia,2006,Hatchback,235000.0,1200.0,Petrol,Manual,2800.0,2021
+19991,Nissan,Qashqai,2015,Crossover,47000.0,1200.0,Petrol,Automatic,11200.0,2021
+26994,Volkswagen,Polo,2006,Hatchback,153000.0,1400.0,Diesel,Manual,3100.0,2021
+21900,Audi,A6,1994,Sedan,400000.0,1984.0,Metan/Propan,Manual,2700.0,2021
+3714,Renault,ZOE,2014,Hatchback,205200.0,0.0,Electric,Automatic,5900.0,2021
+7309,Volkswagen,up!,2013,Hatchback,110000.0,1000.0,Metan/Propan,Manual,5550.0,2021
+26887,Nissan,Qashqai,2012,Crossover,92690.0,1598.0,Petrol,Automatic,11000.0,2021
+7658,Hyundai,Santa FE,2013,Crossover,197000.0,2200.0,Diesel,Automatic,16900.0,2021
+21515,Toyota,Avensis,2005,Universal,187000.0,2000.0,Petrol,Automatic,6200.0,2021
+10925,Toyota,Yaris,2007,Hatchback,240000.0,1364.0,Diesel,Manual,4400.0,2021
+2053,Nissan,Qashqai,2014,SUV,132800.0,1500.0,Diesel,Manual,12190.0,2021
+35143,Toyota,Land Cruiser,2008,SUV,160272.0,4664.0,Petrol,Automatic,22000.0,2021
+25593,Mercedes,E Class,2002,Sedan,367000.0,2200.0,Diesel,Manual,7500.0,2021
+11681,Skoda,Superb,2014,Hatchback,187000.0,1600.0,Diesel,Automatic,12300.0,2021
+18894,Volkswagen,Transporter,2001,Minivan,300000.0,2500.0,Diesel,Manual,5500.0,2021
+16777,Volkswagen,Golf,2008,Hatchback,244000.0,1400.0,Petrol,Automatic,5900.0,2021
+3816,Toyota,Auris,2015,Universal,206000.0,1400.0,Diesel,Manual,7999.0,2021
+2213,BMW,5 Series,2000,Sedan,300000.0,2500.0,Diesel,Manual,2700.0,2021
+30799,GAZ,3110,1999,Sedan,352852.0,2500.0,Petrol,Manual,1550.0,2021
+10906,Skoda,Superb,2014,Sedan,91000.0,2000.0,Petrol,Automatic,13500.0,2021
+10800,BMW,5 Series,1991,Sedan,321654.0,1750.0,Petrol,Manual,2000.0,2021
+9596,Skoda,Rapid,2016,Universal,202284.0,1422.0,Diesel,Manual,7199.0,2021
+18231,Dacia,Logan Mcv,2016,Universal,220000.0,1200.0,Metan/Propan,Manual,4300.0,2021
+8861,Toyota,Auris,2015,Universal,144165.0,1800.0,Hybrid,Automatic,9799.0,2021
+26177,Mitsubishi,Lancer,2010,Sedan,112000.0,2000.0,Petrol,Automatic,3500.0,2021
+21011,Honda,CR-V,2015,Crossover,163000.0,1600.0,Diesel,Automatic,19999.0,2021
+24922,Dacia,Logan,2008,Sedan,180854.0,1400.0,Petrol,Manual,2700.0,2021
+13227,Dacia,Logan,2005,Sedan,197000.0,1400.0,Petrol,Manual,1300.0,2021
+6559,Skoda,Superb,2009,Hatchback,169500.0,1398.0,Petrol,Manual,7100.0,2021
+26007,Dacia,Sandero,2011,Hatchback,260000.0,1200.0,Metan/Propan,Manual,3600.0,2021
+11329,Renault,Grand Scenic,2017,Microvan,152000.0,1500.0,Diesel,Automatic,13500.0,2021
+23732,Dacia,Duster,2013,SUV,110000.0,1598.0,Petrol,Manual,7500.0,2021
+32763,Saab,9-5,2008,Universal,299000.0,2000.0,Metan/Propan,Automatic,4500.0,2021
+28919,Peugeot,Expert,2001,Minivan,100000.0,1900.0,Diesel,Manual,2050.0,2021
+12140,Volkswagen,Passat,1998,Universal,200000.0,1595.0,Petrol,Manual,1050.0,2021
+39168,Suzuki,Liana,2005,Universal,189000.0,1500.0,Diesel,Manual,1550.0,2021
+26762,Renault,Espace,2016,Minivan,190000.0,1600.0,Diesel,Automatic,14500.0,2021
+13861,BMW,8 Series,2020,Coupe,2700.0,2998.0,Petrol,Automatic,86999.0,2021
+581,Renault,Megane,2011,Universal,242337.0,1500.0,Diesel,Manual,5650.0,2021
+15700,Toyota,Land Cruiser,2014,SUV,180000.0,3000.0,Diesel,Automatic,35499.0,2021
+10017,Toyota,Prius,2009,Hatchback,326550.0,1500.0,Metan/Propan,Automatic,6799.0,2021
+18954,Opel,Vectra,1995,Hatchback,270473.0,1800.0,Petrol,Manual,1100.0,2021
+3336,Ford,Fusion,2013,Sedan,162000.0,2000.0,Hybrid,Automatic,11999.0,2021
+10589,Peugeot,605,1999,Sedan,150000.0,1900.0,Diesel,Manual,400.0,2021
+27531,Volkswagen,Passat,1993,Universal,270000.0,1080.0,Petrol,Manual,1200.0,2021
+120,Mercedes,C Class,2002,Coupe,240000.0,2300.0,Petrol,Manual,3499.0,2021
+17803,Lexus,RX Series,2014,Crossover,177000.0,3500.0,Hybrid,Automatic,30499.0,2021
+26539,BMW,5 Series,1994,Universal,350000.0,1991.0,Petrol,Manual,3000.0,2021
+20706,Nissan,Leaf,2014,Hatchback,130910.0,0.0,Electric,Automatic,8478.0,2021
+39803,Renault,Laguna,2008,Hatchback,180000.0,1500.0,Diesel,Manual,3700.0,2021
+11672,Dacia,Sandero Stepway,2013,Crossover,139000.0,1000.0,Petrol,Manual,5399.0,2021
+40564,Renault,Espace,1992,Minivan,12345.0,2000.0,Metan/Propan,Manual,700.0,2021
+12305,BMW,X5,2003,SUV,276000.0,3000.0,Metan/Propan,Automatic,7800.0,2021
+18302,Mercedes,Vito,2013,Minivan,333000.0,2200.0,Diesel,Manual,9000.0,2021
+13880,Opel,Astra,2008,Sedan,190866.0,1400.0,Metan/Propan,Manual,4199.0,2021
+22286,Hyundai,Santa FE,2016,SUV,130000.0,2199.0,Diesel,Automatic,19399.0,2021
+38011,Fiat,Panda,2015,Universal,101000.0,1300.0,Diesel,Manual,5800.0,2021
+33594,Volkswagen,Passat,2007,Universal,237478.0,2000.0,Diesel,Manual,4200.0,2021
+37408,Opel,Astra,2008,Universal,229000.0,1300.0,Diesel,Manual,5100.0,2021
+28524,KIA,Carnival,2009,Minivan,250000.0,2900.0,Diesel,Manual,3500.0,2021
+4738,Porsche,Cayenne,2013,SUV,261430.0,3000.0,Diesel,Automatic,27500.0,2021
+35074,Toyota,Land Cruiser Prado,2019,SUV,74000.0,2800.0,Diesel,Automatic,42000.0,2021
+32924,Toyota,Rav 4,2016,Crossover,45000.0,2000.0,Petrol,Automatic,16950.0,2021
+33709,Mazda,2,2009,Hatchback,170000.0,1388.0,Diesel,Manual,5400.0,2021
+2375,Honda,CR-V,2016,SUV,150000.0,1600.0,Diesel,Automatic,18599.0,2021
+40368,GAZ,31029,1993,Sedan,83000.0,2445.0,Metan/Propan,Manual,650.0,2021
+3403,Chevrolet,Trax,2016,Crossover,62000.0,1400.0,Petrol,Automatic,10450.0,2021
+11127,Audi,100,1992,Sedan,35000.0,2500.0,Diesel,Manual,3350.0,2021
+27323,Isuzu,Trooper,2004,Universal,95000.0,1500.0,Petrol,Manual,1500.0,2021
+37178,BMW,X5,2006,Crossover,299999.0,3000.0,Diesel,Automatic,9700.0,2021
+22481,Peugeot,301,2013,Sedan,197000.0,1200.0,Petrol,Manual,6799.0,2021
+34422,Vaz,2108,1987,Hatchback,7801.0,1300.0,Petrol,Manual,750.0,2021
+19615,BMW,7 Series,2001,Sedan,350000.0,3000.0,Diesel,Automatic,6000.0,2021
+6352,Opel,Insignia,2010,Universal,200000.0,2000.0,Diesel,Manual,7800.0,2021
+842,Opel,Combo,2014,Microvan,155000.0,1400.0,Metan/Propan,Manual,6990.0,2021
+17191,Honda,Altele,2021,SUV,0.0,0.0,Electric,Automatic,18899.0,2021
+32254,Toyota,Auris,2011,Hatchback,170000.0,1400.0,Diesel,Manual,6800.0,2021
+37213,Renault,Megane,2008,Universal,12345.0,1900.0,Diesel,Manual,4200.0,2021
+6179,Lexus,GS Series,2007,Sedan,147521.0,3500.0,Petrol,Automatic,9999.0,2021
+40036,Volkswagen,Transporter,1985,Microvan,158005.0,1900.0,Diesel,Manual,1700.0,2021
+33975,Toyota,Prius v,2013,Universal,110000.0,1800.0,Hybrid,Automatic,9400.0,2021
+30600,Volkswagen,Golf,2006,Universal,123000.0,1900.0,Diesel,Manual,3199.0,2021
+7818,Dacia,Sandero Stepway,2014,Hatchback,110000.0,1500.0,Diesel,Manual,6600.0,2021
+15730,Hyundai,Tucson,2016,SUV,163000.0,2000.0,Diesel,Automatic,18850.0,2021
+19968,Skoda,Superb,2015,Hatchback,260000.0,2000.0,Diesel,Automatic,17500.0,2021
+262,Honda,CR-V,2013,SUV,178500.0,2200.0,Diesel,Manual,15700.0,2021
+16929,Dacia,Logan Mcv,2016,Universal,50000.0,1500.0,Diesel,Manual,6850.0,2021
+38415,Mercedes,A Class,2006,Hatchback,145000.0,1600.0,Petrol,Automatic,2600.0,2021
+21003,Volkswagen,Touareg,2011,SUV,200000.0,3000.0,Hybrid,Automatic,16900.0,2021
+3643,BMW,X5,2008,SUV,330000.0,3000.0,Diesel,Automatic,9350.0,2021
+24624,Jaguar,XE,2016,Sedan,80000.0,2000.0,Diesel,Automatic,23999.0,2021
+23704,Dacia,Logan Mcv,2008,Universal,274000.0,1500.0,Diesel,Manual,3800.0,2021
+39576,Nissan,Almera,2003,Sedan,316523.0,1497.0,Petrol,Manual,4000.0,2021
+35710,Renault,Laguna,2011,Universal,196000.0,1461.0,Diesel,Manual,7500.0,2021
+1686,BMW,5 Series,1996,Sedan,270000.0,2000.0,Petrol,Manual,5199.0,2021
+16807,Mercedes,C Class,2003,Sedan,315000.0,2200.0,Diesel,Manual,5400.0,2021
+31968,BMW,X5,2003,SUV,310000.0,3000.0,Diesel,Automatic,4200.0,2021
+22108,Renault,Megane,2005,Universal,245120.0,1500.0,Diesel,Manual,3999.0,2021
+26555,Mercedes,E Class,2003,Sedan,310000.0,2200.0,Diesel,Automatic,3250.0,2021
+9502,Volkswagen,Touareg,2019,SUV,30000.0,3000.0,Diesel,Automatic,54000.0,2021
+38488,Nissan,Pathfinder,2005,SUV,255000.0,2500.0,Diesel,Automatic,10000.0,2021
+13160,Nissan,Qashqai,2009,Crossover,210000.0,1500.0,Diesel,Manual,7100.0,2021
+23266,Renault,Scenic,2006,Hatchback,227000.0,1500.0,Diesel,Manual,3600.0,2021
+5369,Opel,Astra,2011,Universal,196000.0,1300.0,Diesel,Manual,7500.0,2021
+10630,Hyundai,Santa FE,2019,SUV,45630.0,2200.0,Diesel,Automatic,28050.0,2021
+38758,Toyota,Hilux,2013,Pickup,150000.0,2400.0,Diesel,Manual,15000.0,2021
+38782,Audi,A4,2006,Universal,199000.0,2000.0,Diesel,Manual,1900.0,2021
+38298,Dacia,Logan,2014,Sedan,156000.0,1200.0,Metan/Propan,Manual,3200.0,2021
+12446,BMW,X6,2011,SUV,251174.0,3000.0,Diesel,Automatic,18500.0,2021
+29551,Chevrolet,Altele,2017,Cabriolet,50400.0,1400.0,Petrol,Automatic,9800.0,2021
+5781,BMW,4 series,2014,Sedan,157000.0,2000.0,Petrol,Automatic,18499.0,2021
+40260,Toyota,Corolla,2006,Universal,275000.0,1400.0,Diesel,Manual,5300.0,2021
+7953,Mercedes,C Class,2018,Sedan,59341.0,2200.0,Hybrid,Automatic,32499.0,2021
+33449,Renault,Grand Modus,2012,Minivan,175000.0,1500.0,Diesel,Manual,4699.0,2021
+31080,Mercedes,Vito,2014,Minivan,40000.0,2200.0,Diesel,Manual,7899.0,2021
+40314,Toyota,Auris,2007,Hatchback,146000.0,1600.0,Petrol,Automatic,6800.0,2021
+35130,Mazda,6,2008,Sedan,125000.0,2488.0,Petrol,Manual,6999.0,2021
+23139,Skoda,Fabia,2011,Microvan,184800.0,1200.0,Diesel,Manual,5300.0,2021
+14120,Mercedes,E Class,2006,Sedan,337862.0,2149.0,Diesel,Manual,10299.0,2021
+8288,Skoda,Fabia,2011,Universal,171184.0,1200.0,Diesel,Manual,5599.0,2021
+26488,BMW,3 Series,2005,Sedan,249000.0,2000.0,Diesel,Manual,8050.0,2021
+32412,BMW,5 Series,2000,Crossover,280000.0,2500.0,Petrol,Automatic,4200.0,2021
+8404,BMW,X4,2014,Crossover,71433.0,2000.0,Diesel,Automatic,25999.0,2021
+22773,Land Rover,Range Rover Evoque,2002,SUV,289000.0,2999.0,Diesel,Automatic,10800.0,2021
+30760,Audi,A4,1996,Sedan,465846.0,1600.0,Petrol,Manual,2150.0,2021
+31443,Ford,Mondeo,2013,Sedan,116000.0,2000.0,Plug-in Hybrid,Automatic,7700.0,2021
+30917,Hyundai,Tucson,2016,SUV,100100.0,1995.0,Diesel,Automatic,19000.0,2021
+19238,Nissan,Qashqai,2014,Crossover,230000.0,1500.0,Diesel,Manual,11500.0,2021
+908,Renault,Megane,2011,Universal,178555.0,1500.0,Diesel,Manual,6499.0,2021
+21906,Hyundai,Tucson,2016,SUV,45000.0,2000.0,Diesel,Automatic,9999.0,2021
+30725,Fiat,Ritmo,1986,Sedan,250000.0,1116.0,Petrol,Manual,7050.0,2021
+35373,Hyundai,Santa FE,2004,Universal,123456.0,2000.0,Diesel,Manual,3000.0,2021
+28513,Mercedes,E Class,2008,Sedan,261000.0,2200.0,Diesel,Automatic,11200.0,2021
+33029,Lexus,IS Series,2014,Sedan,153200.0,2500.0,Hybrid,Automatic,18990.0,2021
+5995,Subaru,Impreza,2013,Sedan,78000.0,2000.0,Petrol,Automatic,5200.0,2021
+16837,Mercedes,Vito,1998,Minivan,240000.0,2300.0,Diesel,Manual,2750.0,2021
+4140,Volkswagen,Passat,2006,Sedan,209400.0,2000.0,Petrol,Manual,5350.0,2021
+8410,Lexus,Es Series,2016,Sedan,85682.0,2500.0,Hybrid,Automatic,20500.0,2021
+14383,Ford,Escape,2016,Crossover,22026.0,2000.0,Petrol,Automatic,13999.0,2021
+28373,BMW,7 Series,2005,Sedan,277700.0,3000.0,Diesel,Automatic,10700.0,2021
+31078,Mitsubishi,Outlander,2007,Crossover,316000.0,2000.0,Metan/Propan,Manual,5800.0,2021
+13996,Audi,Q7,2017,Crossover,181938.0,2967.0,Diesel,Automatic,43300.0,2021
+4574,Dacia,Logan,2008,Hatchback,355000.0,1399.0,Metan/Propan,Manual,2099.0,2021
+39963,Volkswagen,Golf,2010,Hatchback,167000.0,1400.0,Petrol,Manual,6500.0,2021
+27620,Mercedes,Vito,2007,Universal,180000.0,3000.0,Diesel,Manual,8499.0,2021
+22245,Opel,Omega,1993,Universal,300000.0,2000.0,Petrol,Manual,950.0,2021
+40127,BMW,3 Series,2001,Universal,247000.0,3000.0,Petrol,Manual,4899.0,2021
+16233,Opel,Zafira,2004,Minivan,160000.0,1800.0,Petrol,Manual,4300.0,2021
+37132,Nissan,X-Trail,2006,SUV,258166.0,2000.0,Metan/Propan,Automatic,5500.0,2021
+13687,Opel,Astra,2016,Universal,126000.0,1598.0,Diesel,Manual,7500.0,2021
+28264,Volkswagen,Transporter,1997,Microvan,280000.0,1900.0,Diesel,Manual,3800.0,2021
+4547,Mercedes,E Class,2017,Universal,75000.0,2000.0,Diesel,Automatic,31000.0,2021
+8949,Toyota,Prius,2012,Hatchback,150000.0,1800.0,Petrol,Automatic,9799.0,2021
+6435,Mercedes,S Class,2016,Sedan,357000.0,2987.0,Diesel,Automatic,40000.0,2021
+9132,Opel,Astra,2014,Universal,200124.0,1400.0,Petrol,Manual,8199.0,2021
+21250,Nissan,Qashqai,2012,Crossover,138000.0,1500.0,Diesel,Manual,8500.0,2021
+23918,Mercedes,E Class,2014,Sedan,296000.0,2200.0,Diesel,Automatic,14400.0,2021
+35659,Volkswagen,Touran,2005,Universal,123456.0,1900.0,Diesel,Manual,3000.0,2021
+12574,Skoda,Fabia,2005,Universal,210000.0,1200.0,Petrol,Manual,2850.0,2021
+22051,Honda,CR-V,2006,Crossover,390000.0,2200.0,Diesel,Manual,8500.0,2021
+20288,Mercedes,E Class,2007,Sedan,2222.0,1800.0,Petrol,Automatic,8900.0,2021
+23451,BMW,7 Series,2001,Sedan,300000.0,3500.0,Metan/Propan,Automatic,5200.0,2021
+36848,Volkswagen,Transporter,1998,Minivan,500000.0,1896.0,Diesel,Manual,3200.0,2021
+28351,Opel,Vectra,2000,Universal,324840.0,1796.0,Petrol,Manual,1850.0,2021
+10086,Honda,CR-V,2012,Crossover,153894.0,2200.0,Diesel,Automatic,16999.0,2021
+2287,Audi,100,1993,Sedan,385000.0,2000.0,Petrol,Manual,2250.0,2021
+8330,Opel,Astra,2011,Universal,254000.0,1300.0,Diesel,Manual,7999.0,2021
+7378,Volkswagen,Golf,2013,Universal,140258.0,1400.0,Petrol,Manual,7949.0,2021
+7495,Volkswagen,Passat,2000,Sedan,288000.0,1800.0,Metan/Propan,Manual,2190.0,2021
+4961,Volkswagen,Golf,2004,Hatchback,25800.0,1400.0,Petrol,Manual,4200.0,2021
+12161,Opel,Combo,2003,Minivan,320000.0,1700.0,Diesel,Manual,2100.0,2021
+841,Dacia,Logan Mcv,2010,Universal,230000.0,1500.0,Diesel,Manual,4350.0,2021
+34761,Skoda,Fabia,2006,Hatchback,102626.0,1500.0,Diesel,Manual,3600.0,2021
+6707,Nissan,Qashqai+2,2008,Crossover,145000.0,2000.0,Petrol,Manual,6500.0,2021
+6944,Toyota,Avensis,2012,Sedan,110000.0,1800.0,Petrol,Manual,11000.0,2021
+37575,Nissan,Qashqai,2016,SUV,145000.0,1500.0,Diesel,Manual,12500.0,2021
+40872,Toyota,Corolla,2005,Sedan,283450.0,1500.0,Diesel,Manual,5450.0,2021
+35909,Dacia,Logan,2009,Minivan,260000.0,1600.0,Metan/Propan,Manual,5000.0,2021
+3001,BMW,3 Series,1985,Coupe,230000.0,2500.0,Petrol,Manual,3500.0,2021
+24446,Renault,Grand Espace,2005,Minivan,271000.0,2200.0,Diesel,Manual,3500.0,2021
+31679,Renault,Kadjar,2015,Crossover,138000.0,1461.0,Diesel,Automatic,13000.0,2021
+4074,Opel,Corsa,2008,Hatchback,265000.0,1300.0,Diesel,Manual,2500.0,2021
+31172,Hyundai,Getz,2009,Hatchback,178821.0,1400.0,Petrol,Manual,3000.0,2021
+37406,Ford,Focus,2013,Universal,170000.0,1000.0,Petrol,Manual,5700.0,2021
+15259,Audi,Allroad,2001,Universal,260000.0,2500.0,Diesel,Manual,5600.0,2021
+34090,Volkswagen,Caddy,2008,Minivan,278542.0,1592.0,Metan/Propan,Manual,4700.0,2021
+20392,Nissan,Primera,2005,Sedan,180000.0,2000.0,Petrol,Manual,2300.0,2021
+16626,BMW,i3,2018,Hatchback,56000.0,0.0,Electric,Automatic,20900.0,2021
+15144,Volkswagen,Golf,2010,Universal,172000.0,1400.0,Petrol,Automatic,7499.0,2021
+16194,Mercedes,Series (W123),1982,Sedan,26678.0,2000.0,Diesel,Manual,2199.0,2021
+30427,Volkswagen,Caddy,2011,Combi,208860.0,1600.0,Diesel,Manual,4900.0,2021
+16299,Volkswagen,Phaeton,2006,Sedan,287000.0,3000.0,Diesel,Automatic,11000.0,2021
+35124,Hyundai,Santa FE,2013,Crossover,133000.0,2000.0,Petrol,Automatic,12500.0,2021
+36678,Dacia,Logan,2006,Sedan,21000.0,1400.0,Metan/Propan,Manual,2100.0,2021
+35723,Skoda,Octavia,2010,Sedan,190533.0,1600.0,Petrol,Manual,5100.0,2021
+5539,Lexus,IS Series,2017,Sedan,48000.0,2000.0,Petrol,Automatic,23900.0,2021
+40250,Mercedes,E Class,2011,Sedan,108000.0,2000.0,Petrol,Automatic,13000.0,2021
+13073,Opel,Astra,2017,Universal,101000.0,1598.0,Diesel,Manual,8100.0,2021
+12969,Volkswagen,Passat,1992,Sedan,230234.0,1900.0,Diesel,Manual,1750.0,2021
+33178,Mazda,3,2008,Hatchback,226843.0,1600.0,Metan/Propan,Manual,4800.0,2021
+36115,Toyota,iQ,2009,Hatchback,58000.0,1000.0,Petrol,Manual,2300.0,2021
+5027,Volkswagen,Golf,2007,Hatchback,265000.0,1400.0,Petrol,Manual,4300.0,2021
+13931,Audi,Q5,2011,Crossover,182769.0,1984.0,Petrol,Automatic,15899.0,2021
+36440,Suzuki,Swift,2009,Hatchback,180000.0,1500.0,Petrol,Manual,3000.0,2021
+5670,Renault,Grand Scenic,2012,Minivan,185000.0,1500.0,Diesel,Automatic,7500.0,2021
+31275,Ford,Explorer,1996,Universal,200000.0,4000.0,Petrol,Automatic,5500.0,2021
+2532,BMW,3 Series,2007,Sedan,298153.0,2000.0,Diesel,Manual,6600.0,2021
+2229,Renault,Kadjar,2017,Crossover,180000.0,1500.0,Diesel,Automatic,11999.0,2021
+10837,Mercedes,Viano,2012,Minivan,216000.0,2200.0,Diesel,Manual,15999.0,2021
+2540,BMW,5 Series,2003,Sedan,331001.0,3000.0,Diesel,Manual,3999.0,2021
+13534,Skoda,Fabia,2019,Hatchback,13000.0,999.0,Petrol,Manual,10000.0,2021
+29892,Renault,Kangoo,2001,Combi,248000.0,1400.0,Petrol,Manual,2700.0,2021
+38702,Toyota,Corolla Verso,2004,Minivan,170000.0,2000.0,Diesel,Manual,2900.0,2021
+27761,Dodge,Caliber,2006,Crossover,123000.0,2400.0,Petrol,Automatic,3200.0,2021
+14756,Renault,Megane,2017,Universal,186281.0,1500.0,Diesel,Manual,11999.0,2021
+27014,Mercedes,C Class,2005,Sedan,200000.0,2000.0,Petrol,Automatic,5800.0,2021
+33786,Mercedes,GLC,2020,Hatchback,7200.0,2000.0,Petrol,Automatic,27000.0,2021
+4084,Toyota,Avensis,2014,Universal,169000.0,2200.0,Diesel,Automatic,11990.0,2021
+1163,Volkswagen,Phaeton,2005,Sedan,193000.0,3000.0,Diesel,Automatic,9499.0,2021
+25418,Volkswagen,Touran,2011,Minivan,191000.0,1400.0,Metan/Propan,Automatic,7850.0,2021
+12274,Skoda,Octavia,2017,Sedan,186000.0,1600.0,Diesel,Automatic,12800.0,2021
+4944,Skoda,Fabia,2016,Universal,180200.0,1422.0,Diesel,Manual,6500.0,2021
+7339,Mercedes,E Class,2006,Sedan,211500.0,1800.0,Petrol,Automatic,6950.0,2021
+30773,Ford,Fusion,2007,Hatchback,132000.0,1400.0,Diesel,Manual,2100.0,2021
+21460,Volkswagen,Tiguan,2014,Crossover,25000.0,2000.0,Diesel,Manual,9200.0,2021
+15797,KIA,Picanto,2012,Coupe,42000.0,1000.0,Petrol,Manual,4150.0,2021
+29085,Mercedes,Vito,1999,Minivan,230000.0,2200.0,Diesel,Manual,3300.0,2021
+17026,Volkswagen,Passat,2009,Universal,260000.0,1400.0,Metan/Propan,Automatic,6200.0,2021
+30993,Mitsubishi,Colt,2008,Hatchback,156000.0,1300.0,Petrol,Manual,2100.0,2021
+15292,Nissan,Kicks,2018,Crossover,66000.0,1600.0,Petrol,Automatic,15300.0,2021
+35939,Porsche,Cayenne,2011,SUV,245000.0,3000.0,Hybrid,Automatic,21499.0,2021
+11027,Hyundai,Tucson,2009,Crossover,201000.0,2000.0,Metan/Propan,Automatic,7600.0,2021
+28974,Audi,80,1982,Sedan,179952.0,1600.0,Petrol,Manual,650.0,2021
+19129,Skoda,Octavia,2009,Sedan,362000.0,1400.0,Metan/Propan,Manual,5200.0,2021
+14281,Land Rover,Freelander,2012,SUV,161237.0,2200.0,Diesel,Automatic,13799.0,2021
+24685,Mitsubishi,Lancer,2009,Sedan,115000.0,1600.0,Petrol,Manual,4200.0,2021
+16031,Volkswagen,Tiguan,2010,Crossover,142900.0,1390.0,Petrol,Automatic,8700.0,2021
+32017,Hyundai,IONIQ,2016,Hatchback,109000.0,1580.0,Hybrid,Automatic,13299.0,2021
+36772,Volvo,XC90,2016,SUV,49000.0,2000.0,Diesel,Automatic,14500.0,2021
+3863,Skoda,Octavia,2010,Universal,168000.0,1200.0,Petrol,Manual,6400.0,2021
+14869,Skoda,Octavia,2009,Sedan,160898.0,1800.0,Petrol,Automatic,7799.0,2021
+25326,Renault,Kangoo,2008,Minivan,227000.0,1500.0,Diesel,Manual,4700.0,2021
+20220,Ford,Fusion,2010,Hatchback,110000.0,1600.0,Petrol,Automatic,5200.0,2021
+13671,Toyota,Corolla,2021,Universal,288.0,1987.0,Hybrid,Automatic,23000.0,2021
+7684,KIA,Rio,2007,Hatchback,280000.0,1500.0,Diesel,Manual,3500.0,2021
+10582,KIA,Ceed,2014,Hatchback,157633.0,1396.0,Diesel,Manual,6700.0,2021
+19449,Renault,Grand Scenic,2013,Minivan,170000.0,1500.0,Diesel,Manual,7499.0,2021
+6003,Skoda,Octavia,2008,Sedan,205121.0,1800.0,Petrol,Manual,5800.0,2021
+23511,BMW,X1,2010,Crossover,215000.0,2000.0,Diesel,Manual,8700.0,2021
+9607,Dacia,Logan Mcv,2015,Universal,149000.0,1500.0,Diesel,Manual,6700.0,2021
+33246,Hyundai,Altele,2018,SUV,41000.0,2199.0,Diesel,Automatic,33599.0,2021
+33666,Mercedes,E Class,1998,Universal,288000.0,2000.0,Petrol,Manual,4000.0,2021
+32378,Audi,A4,1997,Universal,496000.0,1900.0,Diesel,Manual,3000.0,2021
+8794,Volkswagen,Jetta,2015,Sedan,135693.0,1400.0,Petrol,Automatic,9700.0,2021
+39798,Volkswagen,Touareg,2011,SUV,167000.0,3000.0,Diesel,Automatic,24999.0,2021
+14870,Opel,Zafira,2003,Universal,220384.0,1800.0,Metan/Propan,Automatic,4099.0,2021
+35250,Volvo,XC60,2010,Crossover,162000.0,2400.0,Diesel,Automatic,12500.0,2021
+18630,Volkswagen,Caddy,2009,Minivan,200000.0,1900.0,Diesel,Manual,4600.0,2021
+19148,Skoda,Rapid,2018,Hatchback,57693.0,1000.0,Petrol,Manual,8800.0,2021
+18998,Renault,Laguna,2008,Universal,210195.0,1461.0,Diesel,Manual,5199.0,2021
+15102,Dacia,Sandero,2018,Hatchback,22500.0,1000.0,Petrol,Manual,5990.0,2021
+10787,Renault,Megane,2012,Universal,215000.0,1500.0,Diesel,Manual,5800.0,2021
+31155,Toyota,Rav 4,2011,Sedan,45321.0,1900.0,Petrol,Manual,5500.0,2021
+15379,Volkswagen,Beetle,2014,Cabriolet,147000.0,2000.0,Diesel,Automatic,10900.0,2021
+5168,Volkswagen,Passat,2012,Sedan,146000.0,1400.0,Petrol,Manual,8490.0,2021
+20082,Volvo,XC60,2011,Crossover,263254.0,2400.0,Diesel,Automatic,15950.0,2021
+4640,Dacia,Duster,2013,Crossover,185000.0,1500.0,Diesel,Manual,7250.0,2021
+40950,Nissan,Sunny,1992,Hatchback,364800.0,1400.0,Petrol,Manual,1250.0,2021
+37610,Skoda,Fabia,2017,Hatchback,30610.0,999.0,Petrol,Manual,8500.0,2021
+10833,BMW,5 Series,2006,Sedan,150000.0,4490.0,Petrol,Manual,10900.0,2021
+7984,Honda,Accord,2009,Sedan,164961.0,2000.0,Petrol,Automatic,9399.0,2021
+34705,BMW,X5,2014,Crossover,250000.0,3000.0,Diesel,Automatic,35000.0,2021
+26918,Mercedes,E Class,2016,Sedan,143000.0,2143.0,Diesel,Automatic,19700.0,2021
+5713,Renault,Captur,2018,Crossover,132856.0,1500.0,Diesel,Automatic,12890.0,2021
+28856,Ford,Focus,2010,Hatchback,119119.0,1600.0,Metan/Propan,Manual,3300.0,2021
+17268,Toyota,Prius,2016,Hatchback,120500.0,1798.0,Hybrid,Automatic,12200.0,2021
+31974,Audi,TT,2003,Coupe,268000.0,1800.0,Petrol,Manual,3000.0,2021
+4381,Hyundai,Santa FE,2014,SUV,200000.0,2200.0,Diesel,Automatic,19700.0,2021
+9962,Mitsubishi,Galant,2008,Sedan,221150.0,2400.0,Metan/Propan,Automatic,5500.0,2021
+21867,Hyundai,Altele,2021,Minivan,4000.0,2199.0,Diesel,Automatic,38299.0,2021
+12796,Audi,A6,2012,Sedan,140000.0,2000.0,Petrol,Automatic,12500.0,2021
+9952,Audi,A6,2016,Sedan,98000.0,2000.0,Petrol,Automatic,19999.0,2021
+36296,Lexus,RX Series,2018,Crossover,15200.0,3498.0,Hybrid,Automatic,54900.0,2021
+39228,Mercedes,B Class,2006,Hatchback,135000.0,2000.0,Diesel,Manual,3700.0,2021
+34473,Dacia,Logan,2015,Sedan,154593.0,1200.0,Petrol,Manual,3899.0,2021
+38438,Lexus,NX Series,2017,Crossover,59000.0,1986.0,Petrol,Automatic,23500.0,2021
+16204,Toyota,Corolla Verso,2008,Universal,209000.0,1596.0,Metan/Propan,Manual,6590.0,2021
+36581,Vaz,2108,1992,Coupe,253954.0,1288.0,Petrol,Manual,20000.0,2021
+18382,Nissan,Maxima,2000,Sedan,289000.0,1995.0,Petrol,Manual,2150.0,2021
+34866,BMW,5 Series,2001,Sedan,273217.0,2500.0,Diesel,Automatic,5250.0,2021
+23285,Dacia,Logan Mcv,2017,Universal,1111.0,900.0,Metan/Propan,Manual,2400.0,2021
+21072,Volkswagen,Golf,1997,Hatchback,230000.0,1600.0,Metan/Propan,Manual,2900.0,2021
+39730,Renault,Grand Scenic,2010,Minivan,190000.0,1500.0,Diesel,Manual,5700.0,2021
+29072,BMW,3 Series,1993,Sedan,222222.0,1600.0,Petrol,Manual,999.0,2021
+9652,Porsche,Macan,2016,Crossover,94000.0,2000.0,Petrol,Automatic,36999.0,2021
+13455,Dacia,Sandero Stepway,2011,Hatchback,190400.0,1500.0,Diesel,Manual,5900.0,2021
+1509,Vaz,2114,2006,Universal,167000.0,1600.0,Petrol,Manual,1999.0,2021
+19611,Toyota,Camry,2015,Sedan,130000.0,2480.0,Hybrid,Automatic,14500.0,2021
+10380,Toyota,Avensis,2015,Universal,154000.0,2000.0,Diesel,Manual,12900.0,2021
+10645,KIA,Altele,2017,Sedan,80370.0,2359.0,Hybrid,Automatic,22900.0,2021
+12370,Ford,F-150,2015,Pickup,198000.0,2700.0,Petrol,Automatic,20900.0,2021
+37965,Toyota,Corolla,2005,Hatchback,240000.0,1400.0,Diesel,Manual,5200.0,2021
+2189,Hyundai,Tucson,2006,Universal,180000.0,2000.0,Petrol,Manual,5900.0,2021
+3358,Renault,Laguna,2011,Universal,255000.0,1500.0,Diesel,Manual,5500.0,2021
+32148,Renault,Megane,2011,Universal,227000.0,1500.0,Diesel,Manual,5250.0,2021
+21982,Chevrolet,Lacetti,2007,Hatchback,211000.0,1400.0,Petrol,Manual,2400.0,2021
+10117,Toyota,Auris,2015,Universal,163494.0,1400.0,Diesel,Manual,9899.0,2021
+35660,Volkswagen,Vento,1995,Sedan,123456.0,1800.0,Metan/Propan,Manual,800.0,2021
+5270,Ford,Kuga,2017,Crossover,147200.0,1500.0,Diesel,Manual,13890.0,2021
+39903,Dacia,Duster,2016,Crossover,71554.0,1200.0,Petrol,Manual,8500.0,2021
+8197,Chevrolet,Epica,2009,Sedan,260992.0,2000.0,Petrol,Manual,4999.0,2021
+29145,Mitsubishi,Pajero Sport,2003,SUV,236000.0,2500.0,Diesel,Manual,8999.0,2021
+34579,BMW,X5,2008,SUV,223456.0,3000.0,Diesel,Automatic,13000.0,2021
+3081,Dacia,Duster,2018,Crossover,37000.0,1500.0,Diesel,Manual,12499.0,2021
+5568,Renault,Grand Scenic,2015,Universal,204745.0,1500.0,Diesel,Automatic,7999.0,2021
+11931,Mercedes,C Class,2002,Sedan,270123.0,1800.0,Petrol,Manual,3999.0,2021
+15462,Porsche,Macan,2018,SUV,31600.0,2000.0,Petrol,Automatic,44000.0,2021
+1553,Nissan,Leaf,2013,Hatchback,97000.0,0.0,Electric,Automatic,7399.0,2021
+20613,Volkswagen,Passat,1998,Sedan,260000.0,1599.0,Petrol,Manual,2000.0,2021
+3384,Volvo,XC40,2018,Crossover,129000.0,2000.0,Diesel,Automatic,26990.0,2021
+603,Mercedes,A Class,2001,Hatchback,287141.0,1400.0,Petrol,Manual,2099.0,2021
+5788,Mercedes,C Class,1997,Sedan,350000.0,2000.0,Metan/Propan,Manual,1650.0,2021
+10514,Hyundai,Accent,1997,Hatchback,12000.0,1300.0,Petrol,Manual,650.0,2021
+33738,Volkswagen,Passat,1990,Sedan,300000.0,1920.0,Petrol,Manual,600.0,2021
+12594,Volkswagen,Golf,2006,Hatchback,230000.0,1900.0,Diesel,Manual,5199.0,2021
+27194,Dacia,Duster,2012,SUV,168670.0,1500.0,Diesel,Manual,7400.0,2021
+27093,Renault,Clio,2005,Hatchback,1111.0,1488.0,Diesel,Manual,1450.0,2021
+15170,Seat,Ibiza,2012,Universal,210000.0,1200.0,Diesel,Manual,5200.0,2021
+32022,KIA,Niro,2018,Crossover,35000.0,0.0,Electric,Automatic,25199.0,2021
+32668,Honda,CR-V,2000,SUV,123000.0,2000.0,Petrol,Manual,2400.0,2021
+4481,Skoda,Superb,2018,Sedan,129200.0,2000.0,Diesel,Automatic,19999.0,2021
+39848,Toyota,Avensis,2010,Universal,151000.0,1998.0,Diesel,Manual,5900.0,2021
+21787,Nissan,Almera,1996,Hatchback,260000.0,1400.0,Petrol,Manual,1850.0,2021
+24531,BMW,X5,2006,Sedan,230000.0,2200.0,Diesel,Automatic,5700.0,2021
+3969,Volkswagen,Golf,1991,Hatchback,201000.0,1270.0,Petrol,Manual,1500.0,2021
+11590,Mercedes,Vito,2011,Universal,184000.0,2200.0,Diesel,Manual,6800.0,2021
+40815,Mercedes,E Class,2004,Sedan,294000.0,1800.0,Petrol,Manual,7199.0,2021
+20862,Toyota,Avensis,2007,Universal,245833.0,2200.0,Diesel,Manual,6800.0,2021
+36326,Mercedes,E Class,2012,Sedan,211500.0,2200.0,Diesel,Automatic,13900.0,2021
+9579,Renault,Megane,2011,Universal,199195.0,1500.0,Diesel,Manual,6099.0,2021
+38708,Opel,Corsa,2008,Hatchback,250000.0,1300.0,Diesel,Manual,3500.0,2021
+24296,Peugeot,206,2006,Universal,190533.0,1400.0,Diesel,Manual,2100.0,2021
+22321,Nissan,Qashqai+2,2010,Crossover,149000.0,1500.0,Diesel,Manual,7900.0,2021
+23484,Volkswagen,Passat,2003,Universal,266000.0,1900.0,Diesel,Automatic,1300.0,2021
+8918,Toyota,Prius,2019,Hatchback,1851.0,1800.0,Plug-in Hybrid,Automatic,19199.0,2021
+5884,Vaz,2106,1992,Sedan,235168.0,1300.0,Petrol,Manual,600.0,2021
+8926,Hyundai,Veloster,2012,Hatchback,55000.0,1600.0,Petrol,Automatic,7799.0,2021
+18358,Audi,A6,2003,Universal,320112.0,2500.0,Diesel,Manual,1850.0,2021
+24635,Volkswagen,Caddy,2012,Minivan,112878.0,1200.0,Petrol,Manual,6900.0,2021
+6840,Lincoln,MKZ,2017,Sedan,16000.0,2000.0,Petrol,Automatic,17500.0,2021
+23836,Toyota,Avensis,2006,Universal,270000.0,1800.0,Petrol,Manual,6500.0,2021
+2276,Audi,A8,2004,Sedan,252000.0,3000.0,Diesel,Automatic,8999.0,2021
+25041,Mercedes,B Class,2011,Hatchback,194000.0,1700.0,Petrol,Automatic,7990.0,2021
+32371,Toyota,Corolla,2006,Hatchback,238000.0,1400.0,Diesel,Manual,5800.0,2021
+14606,Land Rover,Freelander,2007,SUV,230593.0,2200.0,Diesel,Manual,8499.0,2021
+6430,BMW,5 Series,2018,Sedan,54000.0,2993.0,Diesel,Automatic,45500.0,2021
+3798,Hyundai,Santa FE,2011,Crossover,195000.0,2200.0,Diesel,Automatic,12999.0,2021
+26612,Volkswagen,Polo,1995,Hatchback,245000.0,1300.0,Petrol,Manual,1850.0,2021
+21139,KIA,Rio,2006,Hatchback,260000.0,1500.0,Diesel,Manual,4200.0,2021
+18822,Hyundai,Tucson,2017,Crossover,55000.0,1700.0,Diesel,Automatic,17000.0,2021
+26083,Skoda,Octavia,2004,Universal,390000.0,1400.0,Metan/Propan,Manual,2150.0,2021
+18403,Vaz,2107,1999,Sedan,1111.0,1700.0,Petrol,Manual,750.0,2021
+25680,Mitsubishi,Space Star,2002,Universal,310000.0,1800.0,Petrol,Manual,1650.0,2021
+17175,Toyota,Verso,2014,Minivan,149000.0,1600.0,Diesel,Manual,9950.0,2021
+37360,Dodge,Avenger,2008,Sedan,250000.0,2000.0,Metan/Propan,Manual,10800.0,2021
+19889,Opel,Astra,2010,Universal,175000.0,1400.0,Petrol,Manual,5300.0,2021
+18056,BMW,7 Series,2006,Sedan,366007.0,3000.0,Diesel,Automatic,10100.0,2021
+23044,Volkswagen,Golf,2003,Hatchback,240000.0,1400.0,Metan/Propan,Manual,3500.0,2021
+1696,Toyota,Land Cruiser Prado,2004,SUV,227854.0,3000.0,Diesel,Automatic,14550.0,2021
+7368,Mercedes,E Class,2016,Sedan,50000.0,1950.0,Diesel,Automatic,29500.0,2021
+19618,Skoda,Fabia,2013,Combi,175000.0,1200.0,Diesel,Manual,3500.0,2021
+12869,Honda,Jazz,2007,Hatchback,160000.0,1400.0,Petrol,Automatic,4700.0,2021
