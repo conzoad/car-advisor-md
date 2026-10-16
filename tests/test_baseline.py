@@ -21,17 +21,19 @@ def make_market(n: int = 400, seed: int = 0) -> tuple[pd.DataFrame, pd.Series]:
 
 
 def test_group_median_falls_back_to_broader_groups():
+    # медианы уровней специально различаются: Corolla 6 500 €, Toyota 5 000 €, весь рынок 3 000 €
     train = pd.DataFrame([dict(BASE, year=2011)] * 3 + [dict(BASE, year=2016)]
+                         + [dict(BASE, model="Yaris", year=2011)] * 3
                          + [dict(BASE, make="Dacia", model="Logan", year=2011)] * 3)
-    y = [5000, 6000, 7000, 9000, 3000, 3000, 3000]
+    y = [5000, 6000, 7000, 9000, 2000, 2000, 2000, 3000, 3000, 3000]
     model = GroupMedianRegressor(min_count=3).fit(train, y)
     new = pd.DataFrame([
         dict(BASE, year=2011),                              # та же модель и возраст: медиана 3 объявлений
         dict(BASE, year=2016),                              # в группе 1 объявление → медиана модели
-        dict(BASE, model="Yaris", year=2011),               # модели нет в train → медиана марки
+        dict(BASE, model="Camry", year=2011),               # модели нет в train → медиана марки
         dict(BASE, make="Lada", model="Niva", year=2011),   # марки нет в train → медиана рынка
     ])
-    assert model.predict(new).tolist() == [6000, 6500, 6500, 5000]
+    assert model.predict(new).tolist() == [6000, 6500, 5000, 3000]
 
 
 def test_ridge_baseline_learns_price_and_handles_unseen_category():
