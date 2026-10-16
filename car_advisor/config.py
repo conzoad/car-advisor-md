@@ -16,8 +16,10 @@ RAW_CSV = DATA_DIR / "raw" / "cars_moldova.csv"
 RAW_META = DATA_DIR / "raw" / "SOURCE.json"
 NEW_LISTINGS_CSV = DATA_DIR / "new" / "new_listings_holdout.csv"
 REPORTS_DIR = ROOT / "reports"
+FIGURES_DIR = REPORTS_DIR / "figures"
 QUALITY_REPORT_JSON = REPORTS_DIR / "data_quality.json"
 QUALITY_REPORT_MD = REPORTS_DIR / "data_quality.md"
+BASELINE_REPORT_JSON = REPORTS_DIR / "baseline.json"
 
 # --- Источник данных (Kaggle, лицензия CC0) ---
 KAGGLE_DATASET = "alexandrududa/cars-moldova"

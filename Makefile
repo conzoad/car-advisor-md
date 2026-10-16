@@ -1,6 +1,6 @@
 PY ?= .venv/bin/python
 
-.PHONY: setup download data test notebooks
+.PHONY: setup download data baseline test notebooks
 
 setup:            ## виртуальное окружение и зависимости
 	python3 -m venv .venv
@@ -14,8 +14,11 @@ data:             ## загрузка датасета → БД → провер
 	$(PY) -m car_advisor.data.database
 	$(PY) -m car_advisor.data.quality
 
+baseline:         ## train/test split + бейзлайны → reports/baseline.json
+	$(PY) -m car_advisor.ml.baseline
+
 test:
 	$(PY) -m pytest -q
 
 notebooks:        ## пересчитать ноутбук с результатами
-	cd notebooks && ../$(PY) -m jupyter nbconvert --to notebook --execute --inplace *.ipynb
+	cd notebooks && ../$(PY) -m nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 *.ipynb

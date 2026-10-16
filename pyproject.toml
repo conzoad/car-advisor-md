@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "car-advisor"
-version = "0.3.0"
-description = "Подбор автомобилей и оценка рыночной цены на открытых данных рынка Молдовы (этап 1: данные, качество, EDA)"
+version = "0.4.0"
+description = "Подбор автомобилей и оценка рыночной цены на открытых данных рынка Молдовы (этап 1: данные, качество, EDA, препроцессинг, бейзлайн)"
 requires-python = ">=3.11"
 readme = "README.md"
 

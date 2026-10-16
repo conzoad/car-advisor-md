@@ -1,0 +1,61 @@
+{
+  "rows_market": 31298,
+  "rows_train": 25038,
+  "rows_test": 6260,
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "random_state": 42,
+  "stratify": "децили цены",
+  "selection_metric": "MAE",
+  "models": [
+    {
+      "name": "dummy_median",
+      "title": "Константа: медианная цена",
+      "cv_mae": 5987.5467,
+      "cv_mae_std": 114.8494,
+      "cv_rmse": 10573.6598,
+      "cv_r2": -0.0804,
+      "cv_mape": 1.0357,
+      "test_mae": 6119.4176,
+      "test_rmse": 11535.3151,
+      "test_r2": -0.0734,
+      "test_mape": 1.0346,
+      "test_medape": 0.531,
+      "test_within_10pct": 0.1021,
+      "test_within_20pct": 0.2006
+    },
+    {
+      "name": "group_median",
+      "title": "Медиана похожих объявлений",
+      "cv_mae": 2439.284,
+      "cv_mae_std": 41.5041,
+      "cv_rmse": 5972.9252,
+      "cv_r2": 0.6551,
+      "cv_mape": 0.3755,
+      "test_mae": 2394.9076,
+      "test_rmse": 7015.0145,
+      "test_r2": 0.603,
+      "test_mape": 0.3428,
+      "test_medape": 0.1543,
+      "test_within_10pct": 0.3698,
+      "test_within_20pct": 0.5909
+    },
+    {
+      "name": "ridge",
+      "title": "Ridge-регрессия (сплайны + one-hot)",
+      "cv_mae": 2233.557,
+      "cv_mae_std": 41.3558,
+      "cv_rmse": 4892.0699,
+      "cv_r2": 0.7686,
+      "cv_mape": 0.2809,
+      "test_mae": 2287.2005,
+      "test_rmse": 5660.3093,
+      "test_r2": 0.7416,
+      "test_mape": 0.2835,
+      "test_medape": 0.181,
+      "test_within_10pct": 0.2909,
+      "test_within_20pct": 0.5463
+    }
+  ],
+  "figure": "reports/figures/baseline_comparison.png"
+}
