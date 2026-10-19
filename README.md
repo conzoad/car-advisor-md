@@ -33,7 +33,8 @@ Modeling → Evaluation → Deployment.
 (Kaggle, CC0): 41 007 объявлений 999.md за 2021 год. Скачивается через публичный Kaggle API, происхождение
 файла (лицензия, sha256, дата) записывается в [data/raw/SOURCE.json](data/raw/SOURCE.json).
 
-**База данных.** SQLAlchemy, SQLite по умолчанию (PostgreSQL — через `DATABASE_URL`). Таблицы:
+**База данных.** SQLAlchemy, SQLite по умолчанию. PostgreSQL подключается через SQLAlchemy URL в переменной
+`DATABASE_URL` (проверено на SQLite). Таблицы:
 `listings_raw` (сырые объявления), `listings` (очищенные), `quality_issues` (журнал: какая строка удалена
 или исправлена и по какому правилу).
 
@@ -63,7 +64,7 @@ Modeling → Evaluation → Deployment.
 1. Цена сильно скошена вправо → модель будем обучать на `log(цены)`.
 2. Главный фактор — **возраст**: цена быстро падает в первые 10 лет и выходит на плато после ~20 лет.
    Автомобили с автоматом в среднем заметно дороже.
-3. Марка и модель задают уровень цены; моделей ≈ 900, нужна обработка категорий с высокой кардинальностью.
+3. Марка и модель задают уровень цены; моделей 875, нужна обработка категорий с высокой кардинальностью.
 4. Пробег связан с ценой через возраст (у машин старше 10 лет корреляция даже положительная), поэтому добавлен
    признак **пробег в год**.
 5. В данных нет состояния, комплектации и истории ДТП — это ограничит достижимую точность.
@@ -73,7 +74,7 @@ Modeling → Evaluation → Deployment.
 
 * признаки: возраст = год объявления − год выпуска, «марка + модель», пробег в год;
 * кодирование: one-hot для марки, кузова, топлива, КПП (редкие значения объединяются), target encoding с
-  кросс-фиттингом для модели (≈900 значений);
+  кросс-фиттингом для модели (875 значений);
 * масштабирование: StandardScaler, сплайны для возраста и пробега, обучение на log(цены);
 * разбиение: train/test = 80/20 со стратификацией по децилям цены + 5% «новых» объявлений отложены отдельно.
 
@@ -107,7 +108,22 @@ make notebooks    # пересчитать ноутбук
 make test         # автотесты: правила качества, признаки, бейзлайн
 ```
 
-Без `make`: `python -m car_advisor.data.database`, затем `python -m car_advisor.data.quality`.
+Без `make` (из корня проекта, в активированном виртуальном окружении):
+
+```bash
+python3 -m venv .venv                   # Windows: python -m venv .venv
+source .venv/bin/activate               # Windows: .venv\Scripts\activate
+python -m pip install -r requirements.txt
+python -m pip install --no-deps -e .
+python -m car_advisor.data.database     # data: загрузка датасета → listings_raw
+python -m car_advisor.data.quality      # data: проверка качества → listings, quality_issues, отчёт
+python -m car_advisor.ml.baseline       # baseline: train/test + бейзлайны → reports/baseline.json
+python -m pytest -q                     # test
+python -m nbconvert --to notebook --execute --inplace notebooks/01_data_eda_preparation.ipynb   # notebooks
+```
+
+Точные версии пакетов, на которых всё проверено (Python 3.14): [requirements-lock.txt](requirements-lock.txt).
+Чтобы повторить именно это окружение, установите `pip install -r requirements-lock.txt` вместо `requirements.txt`.
 
 ## Структура проекта
 
